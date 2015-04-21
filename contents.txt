@@ -1,12 +1,11 @@
 $How old are you1?
 #Hello It's answer1
-Nice to meet you
-See you Again
+Nice to meet you. See you Again
 
 $How old are you2?
-#Hello It's answer2
-Welcome world
+$How old are you2-1?
+$How old are you2-2?
+#Hello It's answer2 Welcome world
 
 $How old are you3?
-#Hello It's answer3
-Bye~~~
+#Hello It's answer3 Bye~~~
