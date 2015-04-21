@@ -1,10 +1,27 @@
 $Why do you want to work for this company?
+$Why did you choose to apply to our company?
+$Why are you interested in working at this firm?
 #
 
 $Tell me about your self.
+$Would you describe yourself?
+$Introduce yourself to me, plaese
+$Would you tell me something about yourself?
 #
 
 $What are your strength and weakness?
+$What do you consider to be your major strenghts?
+$What makes you more qualified then the other applicants?
+#
+
+$Why do you think you are suited for this position?
+#
+
+$What do you wnat to be in five years?
+$Where do you see yourself in five years?
+#
+
+$What are your short-term career goals?
 #
 
 $How did you come here?
@@ -33,4 +50,45 @@ $Where are you from?
 $Do you live with your family?
 #Yes, I live with my wife and one son. And new my son going to 태어나다 in next month.
 
+$What is your personality like?
+$Would you tell me about your character?
+$How would you decribe your personality?
+$What kind of personality do you think you have?
+#
+
+$Have you ever been abroad?
+$Have you ever been overseas?
+#
+
+$What is your hobby?
+$How do you spend your time?
+#
+
+$What is your favorite sports?
+#
+
+$What is your favorite movie?
+#
+
+$What movies have you seen recently?
+#
+
+$What has been your greatest accomplishment?
+$What are some of your accomplishments?
+#
+
+$Do you think English is important? Why?
+#
+
+$Tell me about a time when you showed your leadership skills?
+#
+
+$How do you feel about working overtime?
+#
+
+$How would one of your co-workers describe yoi?
+#
+
+$What is your expected salary range?
+#
 
