@@ -5,5 +5,5 @@ $Tell me about your self.
 #
 
 $What are your strength and weakness?
-#
+#Above all, my strength is developement skils. During the last four years, I've tried my best to improve development skills. so I am confident of coding in java, c#, javascipt, html5.
 
