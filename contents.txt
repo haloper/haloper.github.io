@@ -5,5 +5,32 @@ $Tell me about your self.
 #
 
 $What are your strength and weakness?
-#Above all, my strength is developement skils. During the last four years, I've tried my best to improve development skills. so I am confident of coding in java, c#, javascipt, html5.
+#
+
+$How did you come here?
+#I came here by my car. I got here earlier than I thought.
+
+$Did you have any difficulty finding the office?
+$Did you have any trouble getting here?
+#No problem. I didn't have any difficulty finding this place. I used a smartphone map app.
+
+$Did you get a goo night's sleep?
+$Did you get a good night's sleep?
+#Yes, I slept well. Thank you for asking.
+
+$What time did you get up this morning?
+$What time do you usually get up in the morning?
+#I got up at five o'clock this morning. I usually get up in early morning.
+
+$What did you have for breakfast?
+$Did you have breakfast this morning?
+#I had a dunkin donuts at store near by this place.
+
+$Where do you live now?
+$Where are you from?
+#I live in kwang ju, kyungki do. It's clean and 여유롭다. It takes about 1 hour by 대중교통.
+
+$Do you live with your family?
+#Yes, I live with my wife and one son. And new my son going to 태어나다 in next month.
+
 
