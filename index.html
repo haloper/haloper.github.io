@@ -1,43 +1,72 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <meta charset="utf-8">
-   <meta name="viewport" content="width=device-width">
-   <link rel="stylesheet" type="text/css" href="style/fxosstub.css"/>
-   <script type="text/javascript" src="js/fxosstub.js"></script>
-   <title>Hoon Test</title>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Insert title here</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.css">
+	<style>
+		.footer {
+			position: absolute;
+			bottom: 50px;
+		}
+	</style>
 </head>
 <body>
 
-   <header>
-     <button id="btnMain"></button>
-     <ul id="install-add">
-        <li><button id="btnInstall">Install</button></li>
-        <li><button id="btnAdd"></button></li>
-     </ul>
-     <h1>App Title</h1>
-   </header>
+	<div class="container">
+		<h3 id="question"></h3>
+		<p id="answer" class="lead"></p>
+		<div class="footer">
+			<button id="next" class="btn btn-default" type="button">Next Question</button>		
+			<button id="check" class="btn btn-default" type="button">Check Anser</button>
+		</div>
+	</div>
+	
 
-   <div class="body">
-      <div class="textEntry">
-         <textarea id="textContents" placeholder="Type it!"></textarea>
-      </div>
-   </div>
 
-   <!--
-   <div id="glasspane">
-      <div id="title">Glass Pane Title</div>
-      <div id="msg">Message in the glass pane (for notifications, etc)</div>
-   </div>
-   -->
-
-   <footer>
-      <ul>
-        <li><button>Write</button></li>
-        <li><button>Read</button></li>
-        <li><button id="send"></button></li>
-      </ul>
-   </footer>
-
+	<!-- jQuery -->	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	
+	<script>
+		$(function(){
+			$("#check").bind("click", events.clickCheck);
+			$("#next").bind("click", events.clickNext);
+			$.ajax({
+				url: "content.json",
+				cache: false				
+			}).done(function(data) {
+				list.onLoad(data);
+			})
+			
+		});
+		var list = {
+			data: null,
+			length: -1,
+			onLoad: function(_data) {
+				this.data = _data.contents;
+				this.length = this.data.length; 
+				this.next();
+			},
+			next: function() {
+				var index = Math.floor(Math.random() * this.length);
+				$("#answer").hide();
+				$("#question").text(this.data[index].question);
+				$("#answer").text(this.data[index].answer);
+			}
+		}
+		var events = {
+			clickCheck: function(event) {
+				$("#answer").show();
+			},
+			clickNext: function(event) {
+				list.next();
+			}
+		}
+	</script>
 </body>
 </html>
