@@ -37,7 +37,7 @@
 			$("#check").bind("click", events.clickCheck);
 			$("#next").bind("click", events.clickNext);
 			$.ajax({
-				url: "content.json",
+				url: "contents.txt",
 				cache: false				
 			}).done(function(data) {
 				list.onLoad(data);
@@ -48,15 +48,16 @@
 			data: null,
 			length: -1,
 			onLoad: function(_data) {
-				this.data = _data.contents;
-				this.length = this.data.length; 
+				console.log(_data);
+				this.data = _data.split("$");
+				this.length = this.data.length - 1; 
 				this.next();
 			},
 			next: function() {
-				var index = Math.floor(Math.random() * this.length);
+				var index = Math.floor(Math.random() * this.length) + 1;
 				$("#answer").hide();
-				$("#question").text(this.data[index].question);
-				$("#answer").text(this.data[index].answer);
+				$("#question").text(this.data[index].split("#")[0]);
+				$("#answer").text(this.data[index].split("#")[1]);
 			}
 		}
 		var events = {
