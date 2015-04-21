@@ -49,7 +49,7 @@
 			answer: [],
 			length: -1,
 			onLoad: function(_data) {
-				var array = _data.trim().split("\r\n");
+				var array = _data.trim().split("\n");
 				for(var  i=0;i<array.length;i++) {
 					if(array[i] && array[i].trim() != "") {
 						if(array[i].startsWith("$")) { //Question
