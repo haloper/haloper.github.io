@@ -21,7 +21,7 @@
 		<p id="answer" class="lead"></p>
 		<div class="footer">
 			<button id="next" class="btn btn-default" type="button">Next Question</button>		
-			<button id="check" class="btn btn-default" type="button">Check Answer</button>
+			<button id="check" class="btn btn-default" type="button">Check Anser</button>
 		</div>
 	</div>
 	
@@ -41,25 +41,41 @@
 				cache: false				
 			}).done(function(data) {
 				list.onLoad(data);
-			})
+			});
 			
 		});
 		var list = {
-			data: null,
+			question: [],
+			answer: [],
 			length: -1,
 			onLoad: function(_data) {
-				console.log(_data);
-				this.data = _data.split("$");
-				this.length = this.data.length - 1; 
+				var array = _data.trim().split("\r\n");
+				for(var  i=0;i<array.length;i++) {
+					if(array[i] && array[i].trim() != "") {
+						if(array[i].startsWith("$")) { //Question
+							this.question[this.question.length] = {
+								"question": array[i].substring(1),
+								"answerIndex": this.answer.length
+							};
+						}
+						else if(array[i].startsWith("#")) { //Answer
+							this.answer[this.answer.length] = array[i].substring(1);
+						}
+						else {
+							this.answer[this.answer.length - 1] = this.answer[this.answer.length - 1] + "<br>" +  array[i];
+						}
+					}
+				}
+				this.length = this.question.length; 
 				this.next();
 			},
 			next: function() {
-				var index = Math.floor(Math.random() * this.length) + 1;
+				var index = Math.floor(Math.random() * this.length);
 				$("#answer").hide();
-				$("#question").text(this.data[index].split("#")[0]);
-				$("#answer").text(this.data[index].split("#")[1]);
+				$("#question").html(this.question[index].question);
+				$("#answer").html(this.answer[this.question[index].answerIndex]);
 			}
-		}
+		};
 		var events = {
 			clickCheck: function(event) {
 				$("#answer").show();
@@ -67,7 +83,7 @@
 			clickNext: function(event) {
 				list.next();
 			}
-		}
+		};
 	</script>
 </body>
 </html>
