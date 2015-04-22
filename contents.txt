@@ -94,3 +94,38 @@ $What is your expected salary range?
 
 $자사를 영어로 표현해 보세요.
 #
+
+$Why have you decided to change careers?
+$Why do you want to change jobs?
+$Why do you want to resign from your present job?
+$Why did you quit your last company?
+#
+
+$What do you think of your last boss?
+#
+
+$Tell me about a time you made a doog decision.
+$What problems did you solve at your previous position?
+#
+
+$How do you balance your career and family?
+#
+
+$Can you explain why you frequently changed jobs?
+#
+
+
+
+$What would you so if your boss gave you an unacceptable irder?
+#
+
+$What kinds of people do you find it hard to get along with?
+#
+
+$Describe how you overcome failure or weakness.
+#
+
+$Have you applied to any other companies?
+#
+
+
