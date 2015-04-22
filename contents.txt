@@ -92,3 +92,5 @@ $How would one of your co-workers describe yoi?
 $What is your expected salary range?
 #
 
+$자사를 영어로 표현해 보세요.
+#
