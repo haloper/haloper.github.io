@@ -15,14 +15,14 @@ $What makes you more qualified then the other applicants?
 #
 
 $Why do you think you are suited for this position?
-#
+#I have varied experience about web-base development. My knowlages and skills in sofrware development will be great help projects in your company.
 
 $What do you wnat to be in five years?
 $Where do you see yourself in five years?
-#
+#I will be good team leader who take care of team member and give confidence to clients.
 
 $What are your short-term career goals?
-#
+#First thing to do is understanding my hole work, and to benecessary worker in my team.
 
 $How did you come here?
 #I came here by my car. I got here earlier than I thought.
@@ -41,7 +41,7 @@ $What time do you usually get up in the morning?
 
 $What did you have for breakfast?
 $Did you have breakfast this morning?
-#I had a dunkin donuts at store near by this place.
+#I ate the dunkin donuts at store nearby this place.
 
 $Where do you live now?
 $Where are you from?
