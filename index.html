@@ -61,6 +61,9 @@
 						else if(array[i].startsWith("#")) { //Answer
 							this.answer[this.answer.length] = array[i].substring(1);
 						}
+						else if(array[i].startWith("@")) {
+							
+						}
 						else {
 							this.answer[this.answer.length - 1] = this.answer[this.answer.length - 1] + "<br>" +  array[i];
 						}
