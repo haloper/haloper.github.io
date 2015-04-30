@@ -2140,3 +2140,384 @@ $There's not much in the way of entertainment in this town.
 @난 살면서 한번도 사랑에 빠진 적이 없기 때문이야
 $Cos I never was in love in life.
 
+
+*guess
+
+@당신의 건강이 제일 중요하다고 봅니다.
+$I guess the most important thing is your health.
+
+@작별을 고할 시간인 것 같아.
+$I guess it's time to bid you adieu.
+
+@올해는 내 세상이 될거야.
+$I guess it's my time of year.
+
+@초등학교 때부터였던 것 같아요.
+$Well, I guess it started in grade school.
+
+@나는 이론적으로는 네라고 할 것 같다.
+$I guess theoretically I'd say yes.
+
+@시간이 흐르면 자연히 알게 되겠지.
+$I guess only time will tell.
+
+@이론상으로 추측하건데 맞는 것 같네요
+$I guess theoretically, I'd say yes.
+
+@난 정말 당신이 운이 좋다고 생각합니다.
+$I guess all I'm saying is you're lucky.
+
+@나는 많은 것을 바라는 것 같아
+$Guess I wish a lot of things.
+
+@내 생각엔 이것은 내가 느끼는 방법이야.
+$It's just the way I feel, I guess.
+
+@나 자신을 위해 일해 볼까 싶어.
+$I guess I'd try working for myself.
+
+@내 말은, 물리적으로 주중에 시간이 아직 있을 것 같단 말이야.
+$I mean, I guess there's still time in the week, technically.
+
+@그럼 더 이상 할말은 없겠군.
+$So, I guess there's nothing more to say then.
+
+@집까지 바래다 줄게요.
+$I guess I'll walk you home.
+
+@그런 종류의 것인 듯 한데, 내 추측엔 말이지.
+$That kind of thing, I guess.
+
+@나는 사람들이 그들은 목적이 필요하다고 느낀다고 추측해.
+$I guess people feel they need a purpose.
+
+@이렇게 하는게 환경에 더 좋을것 같은데
+$It's better for the environment that way, I guess.
+
+@너가 그럴줄은.....
+$Oh no, I don't guess you would.
+
+@그럼, 오늘 소식이 그리 뜻밖은 아니겠네요.
+$Then, I guess you didn't find today's news unexpected.
+
+@고고학을 통해 사람들은 과거의 생활상을 유추할 수 있다.
+$Through archaeology people can guess the life of the past.
+
+
+*though
+
+@네, 그래도 유지보수 서비스는 제외한 가격이에요.
+$Yes, we will not need the maintenance service though.
+
+@아이가 벌써 12개월이나 됐는데, 아직도 서지를 못합니다.
+$Even though he is already year old, he is unable to stand.
+
+@나 사실 이해 못했어.
+$I didn't really understand it though.
+
+@난 재밌는 것 같진 않지만 말야.
+$Though I don't suppose it's funny.
+
+@그녀는 싫어하지는 않아 보였어.
+$She didn't seem to mind though.
+
+@내가 그를 위해 춤을 추지는 않지만
+$I didn't dance for him, though.
+
+@그는 마치 모든 것을 다 아는 것처럼 얘기한다.
+$He speaks as though he knew everything.
+
+@내가 하길 원하지 않았음에도 불구하고.
+$Even though I didn't want to.
+
+@아무리 그들이 열심히 일했어도 헛수고였다.
+$Though they worked never so hard, it was all in vein.
+
+@뭐, 여전히 입 다물지 않았지만 말이야.
+$Still didn't shut it up, though.
+
+@제가 그것을 올리더라도 걱정하지마세요.
+$I'm on it, though, don't worry.
+
+@네가 안 했더라면 더 좋았긴 하지만.
+$Though I'd prefer it if you didn't.
+
+@나는 그가 어떠 마음인지 알수 없었다.
+$I really didn't mind him though.
+
+@나 여전히 이해 못하겠어
+$Though I still do not understand.
+
+@하지만 난 이해 못 하겠다.
+$I do not understand you though.
+
+@제가 아픔을 이해하기는 하지만 , 이건 끔찍한 일이에요.
+$This is a terrible thing, even though I understand pain.
+
+@그는 날 안좋아하지만 나는 그를 좋아해
+$He didn't like me, though I liked him.
+
+@내가 그러더라도 꼬집지 마.
+$Don't pinch me if I am, though.
+
+@비록 나는 것만 머무르려고 노력하는 것 나는, 복잡합니다.
+$I'm complex, though I try to stay out of things.
+
+@그렇지만 나는 그 애들을 정말 좋아하지 않았다.
+$I didn't really like the kids, though.
+
+
+*think
+
+@그렇지 않을걸
+$I'm afraid not. or I don't think so.
+
+@앞일을 생각하니 한심하다
+$It is discouraging to think of my future.
+
+@나는 3년은 긴 시간이라 생각한다.
+$I think three years is a long time.
+
+@내가 생각하기로 다음달이면 2년이다
+$Two years next month, I think.
+
+@여보, 나 권태기인가 봐.
+$Honey, I think I have the 7 year itch.
+
+@그렇게 될 줄 몰랐어.
+$I didn't think that was gonna happen either.
+
+@그 일도 일어나지 않아.
+$I don't think that's gonna happen either.
+
+@그거에 대해서 몇달몇년을 고민해봐
+$Think about it for a month, for a year.
+
+@좋은 시간이 될 거야.
+$I think it would be a nice time.
+
+@방문 시간이 끝날 때라고 생각한다.
+$I think it's time for visiting hours to end.
+
+@너무 많이 생각하지 마세요.
+$Try not to think too much.
+
+@상념을 하지 않도록 노력해라.
+$Try not to think so much.
+
+@그 일은 다 잊어라
+$Don't think about it any more. or Forget all about it.
+
+@남이 뭐라고 생각하든지 관심없다
+$I'm not interested in what other people think.
+
+@작은 사이즈로 주세요.
+$I think I need this in a smaller size.
+
+@조금 야한 것 같아.
+$I think it's a little loud.
+
+@우리가 한 일년전쯤 만났었죠.
+$I think we met about a year ago.
+
+@생각하기 나름이죠.
+$It depends on how you think.
+
+@내년에는 차를 하나 사야겠어요.
+$I think I'll buy a car next year.
+
+@항상 영어로 생각하도록 해보세요.
+$Try to think in English always.
+
+
+*tought
+
+
+*might
+
+@매듭을 그런 식으로 맨다면, 튼튼하지 않을 수도 있습니다.
+$If you tie the knot that way, it might not be safe.
+
+@그들은 특정한 활동이나 행동을 반복할지도 모른다.
+$They might repeat specific actions or behaviors.
+
+@마침 내 편지도 부쳐야겠어요.
+$I might as well mail my letter, too.
+
+@이건 한시간이 될수도, 하루가, 일주일이 될수도 있다.
+$It might be an hour, a day, a week.
+
+@그에게 물어보는 것이 나을꺼야.
+$You might want to ask him.
+
+@사람들이 네가 질투한다고 오해할지도 몰라.
+$People might think you are green with envy.
+
+@다시 봐봐.
+$You might want to look again.
+
+@만약 할 수 있다 하더라도 난 그것을 하지 않을 테다.
+$I wouldn't do it even if I might.
+
+@그러실 줄 알았어요. 작년에 우승하셨죠?
+$I thought you might be. You won last year, didn't you?
+
+@그녀는 머물고싶지 않았을 것이다
+$She might not want to stay.
+
+@그가 약속을 까맣게 잊은 건지도 모르잖아.
+$He might have totally forgotten the appointment.
+
+@물론, 내가 실수 했을 수도있지.
+$Of course, I might be mistaken.
+
+@물어보고 싶은데, 난 누구랑 대화하고 있는 건가요?
+$But to whom, might I ask, am I speaking?
+
+@근로자들이 아프면 고용주들도 손해를 볼 수 있습니다.
+$When workers suffer, so might their employers.
+
+@내가 그상황에 도움이 될수있기를 바래.
+$I hoped might help the situation.
+
+@기다리지 말고 주무세요, 늦을지도 몰라요.
+$Don't wait up for me, I might be late.
+
+@그것들이 네가 생각하는 것 이상으로 가치가 있을지도 몰라.
+$They might be worth much more than you think.
+
+@해맬거라 예상 못했어? or 이상할거라 예상못했어?
+$Do not expect you might wonder?
+
+@당신은 아마도 제이크 마자를 그냥 평범한 열네 살짜리 아이로 보실 겁니다.
+$You might say Jake Mazza is just a normal 14-year-old.
+
+@나는 몇번 더 살 것 같아
+$I might buy some more time.
+
+
+*may
+
+@에잇 맘대로 해라!
+$O, you may do as you please!
+
+@싫어도 참아야 한다
+$If you don't like it, you may lump it.
+
+@잠깐 시간되세요?
+$May I borrow a moment of your time?
+
+@그들은 그가 어찌되든 개의치 않는다.
+$They do not reck what may become of him.
+
+@네 하고 싶은 대로 해도 괜찮다.
+$You may do as you like.
+
+@제가 보기엔 지금이라도 솔기가 확 터질 것 같군요.
+$It seems to me that the seams may end up popping.
+
+@지각 없는 말이 큰 해독을 끼칠 수도 있다·.
+$Thoughtless speech may work great mischief.
+
+@학교나 공원에서 시장이 열립니다.
+$The event may be held at a school or in a park.
+
+@생각 없이 한 말이 크나큰 해독을 끼칠 수 있다.
+$Thoughtless speech may work great mischief.
+
+@영령이여 고이 잠드소서!
+$May your noble soul rest in peace!
+
+@무슨일로 오셨습니까?
+$May I ask what you want here?
+
+@제가 내일 두시간 늦게 출근해도 될까요?
+$May I come in two hours late tomorrow morning?
+
+@가지고 있는 키가 올바른 키가 아닌 것일 수도 있습니다.
+$You may not have a legal key.
+
+@새해에도 평안하시고 행복하시길 바랍니다.
+$May peace and happiness be yours in the New Year.
+
+@그사람이 어디가 매력적이었나요?
+$May I ask why you want him?
+
+@너가 원하는것을 물어보아도 되겠니?
+$May i ask the you want!
+
+@세상 사람들은 제멋대로 말하겠지!(세인의 말을 개의치 마라).
+$People may say what they please.
+
+@당분간 이 방을 사용해도 좋다.
+$You may use this room for the nonce.
+
+@다른 노동자들 또한 훈련을 잘 받았을 것이다.
+$Other workers may also be disciplined.
+
+@5월제(祭) 때는 예쁜 소녀가 5월의 여왕으로 선정된다.
+$On May Day a pretty girl is chosen to be the Queen of May.
+
+
+*do
+
+@영화 언제 상영합니까?
+$When do you show the movie?
+
+@날 비웃지 마라.
+$Do not sling off at me.
+
+@이일에 화내지마
+$This happens do not be angry.
+
+@에잇 맘대로 해라!
+$O, you may do as you please!
+
+@되는대로 행동하지 마라.
+$Do not behave like a hog.
+
+@그러나 뻔한 일을 하기보다는 좀 더 불확실한 일에 도전해 보자는 겁니다.
+$Don’t do the obvious. Do the less obvious.
+
+@난 전혀 신경 안 써.
+$I do not care a snap.
+
+@난 전혀 신경 안 써.
+$I do not care a dime.
+
+@우리는 전혀 신경 안 써.
+$We do not care a nut.
+
+@네. 어떻게 드릴까요?
+$Sure. How do you want it?
+
+@난 조금도 신경 안 쓴다.
+$I do not care a shuck.
+
+@우리는 전혀 신경 안 써.
+$We do not care a doit.
+
+@그는 어떻게 해야 할지 몰라 망설이는 경우가 많다.
+$He often hesitates (about) what to do[what he should do].
+
+@좋은 실 대로 해주세요.
+$Do it just as you please.
+
+@당신 마음대로 하세요.
+$You can do as you please.
+
+@내기에 얼마 걸꺼야?
+$How much do you want to bet?
+
+@오늘 몇 시에 문 닫죠?
+$What time do you close today?
+
+@부탁 하나 해도 될까?
+$Will you do me a favor?
+
+@왜 그렇게 걱정을 해?
+$Why do you worry so much?
+
+@내 부탁 하나 들어주겠니?
+$Will you do me a favor?
+
