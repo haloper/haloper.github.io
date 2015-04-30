@@ -2,6 +2,7 @@ var source = {
 		data: [],
 		length: -1,
 		config: null,
+		keywords: [],
 		init: function() {
 			return $.ajax({
 	            type:"GET",
@@ -30,6 +31,7 @@ var source = {
 					if(array[i] && array[i].trim() != "" && !array[i].trim().startsWith("#")) {
 						if(array[i].startsWith("*")) { //Keyword
 							keyword = array[i].substring(1);
+							source.keywords[source.keywords.length] = keyword;
 						}
 						else if(array[i].startsWith("@")) { //Question
 							source.data[source.data.length] = {
