@@ -943,3 +943,758 @@ $You can talk family business later!
 @니가원한다면 예상해줄래?
 $Can you expect if you want.
 
+
+*you
+
+@내 말 안 들으면 어떻게 되는지 알지?
+$You know what happens when you don't listen.
+
+@무슨 수를 써서라도 매상을 올리세요.
+$You must increase sales any way you can.
+
+@에잇 맘대로 해라!
+$O, you may do as you please!
+
+@네가 하지 않으면, 나는 널 도와주지 않을거야.
+$If you don't, I won't help you.
+
+@원하는 만큼 마시세요.
+$You can have as much as you like.
+
+@아까 춤추자고 했을 때 춤 안 춘다고 그랬잖아.
+$When I asked you before you said you didn't dance.
+
+@아무 상도 못타서 실망했니?
+$Are you annoyed that you didn't win anything?
+
+@넌 무슨일이 일어났었는지 들었어.안그래?
+$You heard about what happened, didn't you?
+
+@싫어도 참아야 한다
+$If you don't like it, you may lump it.
+
+@네 하고 싶은 대로 해도 괜찮다.
+$You may do as you like.
+
+@프레스 이송 방향
+$And you let it happen again, didn't you?
+
+@당신 마음대로 하세요.
+$You can do as you please.
+
+@너 무슨 일이 일어난지 들었지, 그치?
+$You heard what happened, didn't you?
+
+@임의로 처분해도 좋다
+$You can do with it as you please.
+
+@가지면 가질수록 더 갖고 싶다
+$The more you have, the more you want.
+
+@얼마든지 가지고 싶은 대로 가지시오
+$You shall have as much[many] as you want.
+
+@싫으면 그만두어라
+$You need not do so if you don't want to.
+
+@무슨 띠인지 아세요?
+$Do you know what year of the animal you were born?
+
+@그러실 줄 알았어요. 작년에 우승하셨죠?
+$I thought you might be. You won last year, didn't you?
+
+@당신 나를 내내 지켜보고 있었지 그치?
+$You were watching me the whole time, weren't you?
+
+
+*me
+
+@날 비웃지 마라.
+$Do not sling off at me.
+
+@날 도와주지 않겠다고 말하지마!
+$Don't tell me you won't help me!
+
+@나 도와줄거 아니면, 나한테 상처 주지마요.
+$If you won't help me, don't hurt me.
+
+@나에겐 그런 일이 일어나지 않았다.
+$To me it didn't happen me.
+
+@날 실망시키지 마. 기대를 저버리지 마.
+$Don't disappoint me. Don't bring me down.
+
+@봐봐 나를 미끼로 활용해.
+$Look, use me as the bait.
+
+@과대한 기대를 하지 마세요
+$Don't expect too much of me.
+
+@그것은 너무 어려워서 나는 할 수 없다
+$It is too difficult for me to do. or It's too much for me.
+
+@전 아무 때나 괜찮아요.
+$Any time is fine with me.
+
+@그것은 처음 듣는 소리다
+$That information is news to me.
+
+@도와 주지 마 x2
+$Don't help me, don't help me.
+
+@부탁 하나 해도 될까?
+$Will you do me a favor?
+
+@내 부탁 하나 들어주겠니?
+$Will you do me a favor?
+
+@저와 춤추시겠어요?
+$Do you want to boogie with me?
+
+@나 좀 꺼내줘, 누가 나 좀 도와줘요!
+$Let me out, someone help me!
+
+@뭐, 물어볼것이 있나요?
+$Something you want to ask me?
+
+@나는 당신이 내게묻길 바래요
+$I wanted you to ask me.
+
+@그 남자 때문에 난 사람들이 날 싫어한다는 걸 깨닫게 됐어.
+$He made me realize that people didn't like me.
+
+@너는 나를 도와주고 싶었던게 아니라, 그냥 나를 평가하고 싶었던거야.
+$You don't wanna help me, you just wanna judge me.
+
+@그는 내가 좋아하는 만큼 좋아하지 않는다.
+$He doesn't like me like me.
+
+
+*our
+
+@그를 클럽의 회원으로 포함시켰다
+$We included him among the members of our club.
+
+@우리 일이 착착 진행된다.
+$Our work is downhill all the way.
+
+@우리는 부모를 선택 않는다.
+$We do not choose our parents.
+
+@우리는 필수품을 도매로 구입한다.
+$We buy our supplies in job lots.
+
+@우리 마을에는 약 서른 채의 집이 있다
+$Our village consists of about thirty houses.
+
+@우리 도움에 반대하지는 않지? 그치?
+$You don't object to our help, I hope?
+
+@우리 정당은 그를 투표하여 추방하였다.
+$Our political party voted him away.
+
+@우리 딸은 친가 쪽을 닮았어.
+$Our daughter favors her father's side of the family.
+
+@우리 상품은 시험 판매에서 반응이 신통치 않았습니다.
+$Our product received a poor reception in our test market.
+
+@전세가 나아졌다
+$The tide of war turned in our favor.
+
+@우리 학교는 50년의 역사를 가지고 있다
+$Our school has a history of fifty years.
+
+@그녀는 우리 가족이 되었다.
+$She's become a member of our family.
+
+@왜 우리 쓰레기통을 비우지 않았지?
+$Why didn't they empty our wastebaskets?
+
+@우리팀은 챔피언 전에서 연전연승하였다.
+$Our team swept the championship games.
+
+@약속시간에 우리 늦어면 안 되잖아요.
+$We don't want to be late for our appointment.
+
+@그들은 전선으로 우리의 기업을 사용한다.
+$They use our business as fronts.
+
+@그들은 전선으로 우리 기업들을 사용한다.
+$They use our businesses as fronts.
+
+@우리 계획을 결정지을 시간이다.
+$It is time to be decisive of our plan.
+
+@우리 비행기는 약 한시간뒤에 떠납니다.
+$Our flight leaves in about an hour.
+
+@알겠어. 이번주 안건을 다룰 시간이야
+$OK, it's time for our problem of the week.
+
+
+*they
+
+@정말 서로 다치게 했니?
+$Did they really harm each other?
+
+@말 많은 사람은 실행이 적다.
+$They do least who talk most.
+
+@있는 그대로 놔두세요.
+$Please leave things as they are.
+
+@그들은 이전에 공공연히 적대적이었는데 지금은 순종한다.
+$They are submissive where they used to be openly hostile.
+
+@그들,어,그들은 내사업에 자금을 댔어.
+$They, uh, they financed my business.
+
+@그들은 많은 얼음이 필요해요.
+$They need a lot of ice.
+
+@그들은 정말 좋아했지, 그랬지?
+$They really liked it, didn't they?
+
+@그들은 바뀌고 그대로 똑같이있는다
+$They change, they stay the same.
+
+@그들은 무언가를 뜯어냈어, 그렇지 않아?
+$They ripped something out, didn't they?
+
+@그들은 이기지않는다면 싸우지않아
+$They don't battle if they don't win.
+
+@평소보다 빨게보였니?
+$Do they appear redder than normal?
+
+@그들은 매우 자랑스럽게 하고 왔다.
+$They are people as proud as they come.
+
+@그들은 창 밖을 보고 있다.
+$They are looking out the window.
+
+@그들은 그 성에 살지 않아요.
+$They don't live in the castle.
+
+@그들은 건강해 보였다.
+$They are the picture of health!
+
+@그들이 파손된 부분을 수리할 수 있을 거래요?
+$Do they think they can repair the damage?
+
+@이제 그들은 부부이다.
+$Now they are man and wife.
+
+@많은 물을 사용한다.
+$They use a lot of water.
+
+@그들은 수에 있어서 우리들보다 우세하다
+$They are superior in number to us. or They outnumber us.
+
+@그들은 일자리를 구할 수가 없어 구걸합니다.
+$They can't find work, so they beg for food.
+
+
+*there
+
+@도중에 큰 곤란이 있었다
+$There lay much difficulty in the way.
+
+@거기에 얼마나 재미있는 게 많은데!
+$There are a lot of excellent things out there!
+
+@기본으로는 보이지 않네요
+$There doesn't appear to be a base.
+
+@차가 많이 막혔었어.
+$There was a lot of traffic.
+
+@영국인이 셋 있다.
+$There are three men who are the British Lion.
+
+@건물 뒤에 주차장이 있다.
+$There is a parking lot out the back.
+
+@열차에 사람이 많다.
+$There are a lot of people on the train.
+
+@부양가족이 몇 입니까?
+$Is there any surviving family member?
+
+@지금 거긴 몇 시죠?
+$What time is it now over there?
+
+@몇 시에 거기에 가야 해?
+$What time should I be there?
+
+@아직 훤해지지도 않았다
+$There is yet time before daybreak.
+
+@성공할 가망이 없다.
+$There is no hope of success.
+
+@수면에 유막이 있었다.
+$There was a film of oil on the water.
+
+@성공하기 글렀다
+$There is no hope[chance] of his success.
+
+@이나라엔 법이 있다구요!
+$There are laws in this country!
+
+@위성 통제가 필요합니다
+$There needs to be satellite control.
+
+@거기는 오늘 며칠이예요?
+$What's the date today over there?
+
+@한 주에는 7일이 있다.
+$There are seven days this week.
+
+@긴급 조치가 필요하다.
+$There is instant need for action.
+
+@두 집 사이가 좁다
+$There is not enough space between the two houses.
+
+
+*these
+
+@오존은 오늘날 여러 측면에서 사용되고 있다.
+$Ozone is used in many ways these days.
+
+@이것들은 동종이다
+$These things are of the same kind.
+
+@요새 아침에는 좀 쌀쌀하네요.
+$It's rather chilly in the morning these days.
+
+@요즘엔 나랑 같이 지내고 싶어 하지도 않아.
+$She doesn't want to spend time with me these days.
+
+@이것들은 현대 사회의 통폐이다.
+$These are evils common to all the classes in society.
+
+@땅, 물, 나무, 석유, 이 모든 것들은 자원입니다.
+$Land, water, trees, oil… these are all resources.
+
+@이것들은 현대 사회의 통폐이다
+$These are evils common to all the classes in this society.
+
+@이 엔진들은 증기로 움직인다.
+$These engines are driven by steam.
+
+@요즘은 출근을 한 시간 일찍 해요?
+$Are you starting work an hour earlier these days?
+
+@이 편지를 대신 작성해줄 수 있어?
+$Would you type these letters for me?
+
+@이 부품들을 오늘 발송해야 하나요?
+$Do we need to ship these parts today?
+
+@이 4단계를 3번 반복하세요.
+$Repeat these four steps three times.
+
+@요즘 아이들은 나이에 비해서 조숙하다
+$Kids these days are advanced for their age.
+
+@이런 상황에서는 안심할 수 없다.
+$I cannot rest under these circumstances.
+
+@요즘엔 디지털 카메라만 사용하죠.
+$These days I use digital camera only.
+
+@어렵지 않다니요, 그렇지만 이 사람들을 좋아하잖아요.
+$Not hard to, but you like these people.
+
+@요즈음 시내 공원들은 노숙자들로 가득하죠.
+$The city parks are full of homeless people these days.
+
+@이 종이들을 스테이플러로 찍어주시겠습니까?
+$Would you staple these papers together?
+
+@그는 요즘 밤낮으로 일했어.
+$He worked around the clock these days.
+
+@이 사람들은 그들의 가족과 가정을 사랑한다.
+$These people love their families and homes.
+
+
+*that
+
+@그것이 일어난다는 뜻은 아니다.
+$That doesn't mean that it'll happen.
+
+@그건 어떤 일이 일어난다는 뜻은 아니야.
+$That doesn't mean that anything happened.
+
+@내가 바란게 아니에요
+$I didn't mean that to happen.
+
+@이건 예술이야.
+$That is a work of art.
+
+@네 친구였음 좋겠다.
+$I hope that I'm your friend.
+
+@내가 당신을 좋아하지 않아서가 아니라 일이 안 좋기 때문입니다.
+$It's not that I like you but that I don't like the work.
+
+@그렇게 떠나서 미안해.
+$I'm sorry I left that way.
+
+@내가 이런 일을 원한게 아니라는 걸, 너도 알잖아.
+$I don't want that to happen, you know that.
+
+@매년의 그때인가요?
+$Is it that time of year?
+
+@그건 일주일에 6일.
+$That is, six days a week.
+
+@날 좋아했던 애.
+$It's a boy that was in love with me.
+
+@당신이 그렇게 느낀다니 유감이야.
+$I'm sorry that you feel that way.
+
+@나는 너가 그렇게 생각해서 매우 기뻐
+$I'm very glad that you feel that way.
+
+@너가 그렇게 느낀 주 몰랐어. 미안해.
+$Well, I'm sorry that you feel that way.
+
+@저기 봐! 저 남자가 저 아가씨의 핸드백을 훔치고 있어.
+$Look! That man is stealing that lady's purse.
+
+@그것은 분명히 너의 월권이다
+$It is plain that you exceeded your authority in doing that.
+
+@그것은 결코 내가 하지 않을 것이라는 걸 의미하진 않는다.
+$That doesn't mean that I never will.
+
+@그런 주문은 무리이다
+$That is too much to ask.
+
+@나 원래는 안 이래
+$I don't usually act like that.
+
+@그 파티에 가지 않은 것이 참 후회스럽다.
+$It's to be regretted that I didn't join that party.
+
+
+*who
+
+@<위기시의 투자 방법>은 누가 썼는가?
+$Who wrote How to Invest in Times of Crisis?
+
+@톰 소여는 그를 도와줄 많은 친구들이 있다.
+$Tom Sawyer has many friends who help him.
+
+@너는 강한 사람이 필요해
+$You need people who are strong!
+
+@영국인이 셋 있다.
+$There are three men who are the British Lion.
+
+@그 일이 발생하고 나는 내가 누구인지 모르겠어.
+$As it happens I don't even know who I am.
+
+@나는 터프가이처럼 행동하는 남자들이 싫다.
+$I don't like men who macho it out.
+
+@말 많은 사람은 실행이 적다.
+$They do least who talk most.
+
+@나는 마침 그렇지 않은 교사를 알고 있다.
+$I happen to know a teacher who doesn't.
+
+@당신의 친구를 살해한 자.
+$The man who killed your friend.
+
+@이런 남자를 찾는 여자가 성공한 여자이다.
+$A successful woman is one who can find such a man.
+
+@타임즈지(誌)의 편집장은 누구입니까?
+$Who is the editor of the ”Times”?
+
+@난 다른 사람들 위하는 척 하는 사람들 싫어해.
+$I don't like people who pretend to be altruistic.
+
+@그 죽은 남자는, 내 친구야.
+$The man who died, my friend.
+
+@누구인지 말할 수 없어.
+$I'm not supposed to say who.
+
+@그는 권력자들 앞에서는 오줌을 지린다.
+$He wets himself in front of people who are in authority.
+
+@그녀는 거만하게 행동하는 사람들을 싫어한다.
+$She doesn't like people who act high and mighty.
+
+@TV에서 너는 친구가 필요한 사람처럼 보였다.
+$On TV, you looked like a man who needs a friend.
+
+@여자는 책상 위에 앉는 타입이다.
+$The woman is the type who sits on her desk.
+
+@그의 아내를 사랑하는 한 남자
+$A man who loves his wife.
+
+@그래서 사장이 누구냐고, 어디 있냐고 물어보면
+$So people ask me who is, where is your boss.
+
+
+*what
+
+@짐의 소식도 몰라.
+$I don't even know what happened to Jim.
+
+@은행 오늘 몇 시에 닫죠?
+$What time does the bank close today?
+
+@어떤 종류의 걸 원하니?
+$What kind of thing do you want?
+
+@올 해엔 그게 언제죠?
+$What day is it this year?
+
+@그는 어떻게 해야 할지 몰라 망설이는 경우가 많다.
+$He often hesitates (about) what to do[what he should do].
+
+@도대체 지금이 몇 시니?
+$What the hell time is it?
+
+@오늘 몇 시에 문 닫죠?
+$What time do you close today?
+
+@지금 거긴 몇 시죠?
+$What time is it now over there?
+
+@몇 시에 거기에 가야 해?
+$What time should I be there?
+
+@파티가 몇 시에 끝나죠?
+$What time will the party be over?
+
+@내 다음 약속이 몇 시죠?
+$What time is my next appointment?
+
+@전쟁에서 싸우는 방법
+$What a way to fight a war.
+
+@경매는 몇 시에 끝나나요?
+$What time does the auction end?
+
+@마지막 공연이 몇 시예요?
+$What time is the last show?
+
+@그 외에 또 무엇이 필요하죠?
+$And what more do you want?
+
+@몇 시에 쇼가 시작되나요?
+$What time is the show on?
+
+@무슨일로 오셨습니까?
+$May I ask what you want here?
+
+@너의 면회 시간이 언제니?
+$What time are your visiting hours?
+
+@내가묻고싶은게 그거야
+$That's what I wanted to ask.
+
+@내가 부탁했던 걸 원합니다.
+$I want what I asked for.
+
+
+*when
+
+@내 말 안 들으면 어떻게 되는지 알지?
+$You know what happens when you don't listen.
+
+@스파이로 활동할 때 그녀는 정체를 숨겼다.
+$She put on a mask when working as a spy.
+
+@영화 언제 상영합니까?
+$When do you show the movie?
+
+@그래서 이 모든게 언제 일어난거야?
+$So when does all this happen?
+
+@그래서 이 일들이 다 언제 일어난거야?
+$So when did all this happen?
+
+@여행 출발의 날이 임박했다
+$The day when I start for my journey is drawing near.
+
+@너가 중고차를 봤을때
+$When you look at used cars.
+
+@물이 얼면 얼음으로 응결된다.
+$When water freezes, it congeals into ice.
+
+@그게 일어났을 때 자고 싶지 않아.
+$I don't want to be asleep when it happens.
+
+@일이 잘 되어가면 좋지 않아?
+$Isn't it nice when things work out?
+
+@나는 그게 일어났을 때 혼자이고 싶지 않아.
+$I don't want to be alone when it happens.
+
+@그리고내가할때,이것은 기회가 되지 않는다.
+$And when I do, it won't be chance.
+
+@그들은 언제 양로원을 방문했나요?
+$When did they visit the senior centers?
+
+@내가 여행을 할 때면, 난 물건들을 산다.
+$When I travel the world, I buy things.
+
+@우리가 만난 것은 1년 전 오늘이었다.
+$It was a year ago today when we met.
+
+@어떤이와 싸웠을때 그는 네 친구가 아니야
+$When you fight a man, he's not your friend.
+
+@자산의 가치가 변할 때 발생한다.
+$Occurs when the property value changes.
+
+@전 일할 때가 가장 행복해요.
+$The happiest I am is when I’m at work.
+
+@출산 예정일이 언제예요?
+$When are you expecting your baby?
+
+@린다 밀러가 결근하는 기간은?
+$When will Rhonda Miller be absent from work?
+
+
+*if
+
+@도움이 필요할 때 사람들이 할 수 있는 것은?
+$If help is needed, what can people do?
+
+@믿지 않으면, 소용이 없다.
+$If you don't believe, it won't help.
+
+@네가 하지 않으면, 나는 널 도와주지 않을거야.
+$If you don't, I won't help you.
+
+@도움이 되지 않는다면 다치치도 않을 것이다.
+$If it doesn't help, it won't hurt.
+
+@하지만 만약 그렇게 되지 않으면?
+$But what if that doesn't happen?
+
+@싫어도 참아야 한다
+$If you don't like it, you may lump it.
+
+@하지만 만약 이것이 일어나지 않는다면?
+$But what if it doesn't happen?
+
+@너가 얼버부리면 그건 일어나지않아
+$That doesn't happen if you equivocate.
+
+@만약 그가 그렇게 하지 않는다면 어떻게 될까?
+$But what happens if he doesn't?
+
+@내가 도울 수 있다면. 주저하지마
+$If I can help, don't hesitate.
+
+@그녀가 그의 쇼핑을 도와줄지.
+$If she will help him shop.
+
+@그걸 못하면 내가 완전 창녀할 게.
+$And if we don't, then I'm a complete slut.
+
+@그리고 미안한데, 나는 새거든요.
+$And if you don't mind, I happen to be a bird.
+
+@내가그걸다시반복할수있을지모르겠어요
+$I don't know if I can repeat that again.
+
+@나 도와줄거 아니면, 나한테 상처 주지마요.
+$If you won't help me, don't hurt me.
+
+@싫으면 그만두어라
+$You need not do so if you don't want to.
+
+@양다리 걸치면 널 죽일 거야.
+$If you're two timing me, I'll kill you. I swear!
+
+@내가 하게 된다면 그 일은 일어나지 않을 거야.
+$It won't happen if I do.
+
+@나는 네가 원하는지 물었다.
+$I asked if you wanted to.
+
+@내가 말하지 않으면 어떻게 될까?
+$What's gonna happen if I don't tell?
+
+
+*whose
+
+@이번엔 누가 낼 차례지?
+$Whose treat is it this time?
+
+@이게 누구꺼든 상관 안해.
+$I don't care whose it is.
+
+@난 이게 누구 오두막이든 상관하지 않는다.
+$I don't care whose shed it is.
+
+@그녀는 저 빨간 지붕의 2층 집에 살아요.
+$She lives in that two-story building whose roof is red.
+
+@이게 누구의 스무디든지 난 상관없어.
+$I don't care whose smoothie it is.
+
+@회사의 조치로 가장 큰 영향을 받는 것은 누구의 봉급인가?
+$Whose salary is most affected by the company’s actions?
+
+@그 디자인은 원래 누구 아이디어였어요?
+$Whose idea was the original design?
+
+@옛날에 왕이 한 분 있었는데 그의 이름은 마이다스였다
+$Once upon a time, there was a king whose name was Midas.
+
+@말해봐, 애는 누구의 사랑스런 아이인지?
+$Tell me, whose love child is this?
+
+@나는 그게 누구의 판단인지 상관하지 않는다.
+$I don't care whose decision it is.
+
+@그때 다몬이라는 이름의 청년이 말했다.
+$Then a young man whose name was Damon spoke’ and said.
+
+@그 남자의 배가 연안에 정박되어 있습니다.
+$The man whose boat is parked offshore.
+
+@나 그남자 알아. 그남자의 남자 동생을 내 여동생이 사랑하지.
+$I know the man whose younger brother my elder sister loves.
+
+@송장에 누구 이름을 적어야 하나요?
+$Whose name should I put on the invoice?
+
+@저것이 당신이 오늘밤 듣고 좋아한 그 소녀의 목소리야.
+$That's the girl whose voice you heard and loved tonight!
+
+@그 집좀 봐! 그집의 지붕이 빨개.
+$Look at the house whose roof is red.
+
+@난 이때쯤 누구의 생일이었는지 잊었어.
+$I forget whose birthday it was this time.
+
+@해안 경비대의 헬리콥터는 침몰한 배에서 한 사나이를 구해냈다.
+$The Coast Guard helicopter saved a man whose boat had sunk.
+
+@그것의 창문이 열리게 되면 , 경보장치가 울리게 될거야.
+$Whose windows will be open, whose alarms will be disarmed.
+
+@그는 남자야. 그의 심장은 희망으로 가득 채워졌지.
+$He is a man whose heart is filled with hope.
