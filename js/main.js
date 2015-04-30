@@ -29,6 +29,7 @@ var main = {
 			else {
 				$("#keyword").parent().hide();
 			}
+			$("#text").val("");
 		},
 		load: function(event) {
 			source.load({keyword: "have"}).then(function() {
