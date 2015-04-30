@@ -7,7 +7,7 @@ var source = {
 	            type:"GET",
 	            url:"local/config.json"
 			}).done(function(json) {
-				source.config = $.parseJSON(json);
+				source.config = json;
 				return new Promise(function(success) {
 					success();
 				});
