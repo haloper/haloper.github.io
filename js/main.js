@@ -16,8 +16,15 @@ function load() {
 function next() {
 	$("#answer").hide();
 	var data = source.next();
-	$("#question").html(data.question + (data.keyword ? " (Keyword : " + data.keyword + ")" : "") );
+	$("#question").html(data.question);
 	$("#answer").html(data.answer);
+	if(data.keyword) {
+		$("#keyword").html(data.keyword);
+		$("#keyword").parent().show();
+	}
+	else {
+		$("#keyword").parent().hide();
+	}
 }
 
 var events = {
