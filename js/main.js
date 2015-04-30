@@ -1,45 +1,39 @@
 $(function(){
-	events.binding();
+	main.eventBinding();
 	$("#answer").hide();
 	source.init().then(function() {
-		load();
+		main.load()
 	});
 	
 });
 
-function load() {
-	source.load({keyword: "have"}).then(function() {
-		next();
-	});
-}
 
-function next() {
-	$("#answer").hide();
-	var data = source.next();
-	$("#question").html(data.question);
-	$("#answer").html(data.answer);
-	if(data.keyword) {
-		$("#keyword").html(data.keyword);
-		$("#keyword").parent().show();
-	}
-	else {
-		$("#keyword").parent().hide();
-	}
-}
-
-var events = {
-		binding: function() {
-			$("#check").bind("click", this.clickCheck);
-			$("#next").bind("click", this.clickNext);
-			$("#reload").bind("click", this.clickReload);
+var main = {
+		eventBinding: function() {
+			$("#check").bind("click", this.check);
+			$("#next").bind("click", this.next);
+			$("#reload").bind("click", this.reload);
 		},
-		clickCheck: function(event) {
+		check: function(event) {
 			$("#answer").show();
 		},
-		clickNext: function(event) {
-			next();
+		next: function(event) {
+			$("#answer").hide();
+			var data = source.next();
+			$("#question").html(data.question);
+			$("#answer").html(data.answer);
+			if(data.keyword) {
+				$("#keyword").html(data.keyword);
+				$("#keyword").parent().show();
+			}
+			else {
+				$("#keyword").parent().hide();
+			}
 		},
-		clickReload: function(event) {
-			load();
+		load: function(event) {
+			source.load({keyword: "have"}).then(function() {
+				main.next();
+				$("#total").text(source.length);
+			});
 		}
 	};
