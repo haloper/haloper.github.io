@@ -35,7 +35,7 @@ var main = {
 			}
 
 			$("#question").html(main.toLink(data.question));
-			$("#answer").html(main.toLinke(data.answer));
+			$("#answer").html(main.toLink(data.answer));
 			if(data.keyword) {
 				$("#keyword").html(data.keyword);
 				$("#keyword").parent().show();
