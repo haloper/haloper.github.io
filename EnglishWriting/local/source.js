@@ -3,6 +3,7 @@ var source = {
 		length: -1,
 		config: null,
 		keywords: [],
+		index: 0,
 		init: function() {
 			return $.ajax({
 	            type:"GET",
@@ -52,11 +53,11 @@ var source = {
 			});
 		},
 		next: function() {
-			var index = Math.floor(Math.random() * source.length);
+			source.index = Math.floor(Math.random() * source.length);
 			return {
-				keyword: source.data[index].keyword,
-				question: source.data[index].question,
-				answer: source.data[index].answer
+				keyword: source.data[source.index].keyword,
+				question: source.data[source.index].question,
+				answer: source.data[source.index].answer
 			}
 		}
 }
