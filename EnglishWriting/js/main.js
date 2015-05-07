@@ -10,6 +10,7 @@ $(function(){
 
 var main = {
 		LINKED_WORD_FORMAT: "<a href='http://endic.naver.com/search.nhn?sLn=kr&isOnlyViewEE=N&query={{keyword}}' target='naver_dictionary'>{{keyword}}</a>",
+		GOOGLE_TRANSLATE: "https://translate.google.co.kr/#en/ko/",
 		eventBinding: function() {
 			$("#check").bind("click", this.check);
 			$("#next").bind("click", this.next);
@@ -54,6 +55,7 @@ var main = {
 		},
 		writing: function(event) {
 					localStorage.setItem("question" + source.index, $("#text").val());
+					$("#googleTrans").attr("href", main.GOOGLE_TRANSLATE + encodeURI($("#text").val()));
 							},
 		last: function(event) {
 					$("#lastAnswer").show();
