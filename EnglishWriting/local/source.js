@@ -4,10 +4,13 @@ var source = {
 		config: null,
 		keywords: [],
 		index: 0,
-		init: function() {
+		init: function(url) {
+			if(!url) {
+				url = "local/config.json";
+			}
 			return $.ajax({
 	            type:"GET",
-	            url:"local/config.json"
+	            url:url
 			}).done(function(json) {
 				if(typeof json == "string") {
 					source.config = $.parseJSON(json);
@@ -21,6 +24,8 @@ var source = {
 			});
 		},
 		load: function(obj) {
+			source.data = [];
+			source.keywords = [];
 			var keyword = obj.keyword;
 			return $.ajax({
 				type:"GET",
@@ -41,7 +46,15 @@ var source = {
 							}
 						}
 						else if(array[i].startsWith("$")) { //Answer
-							source.data[source.data.length - 1].answer = array[i].substring(1);
+							var answer = array[i].substring(1);
+							for(var j=source.data.length - 1;j>=0;j--) {
+								if(!source.data[j].answer) {
+									source.data[j].answer = answer;
+								}
+								else {
+									break;
+								}
+							}
 						}
 					}
 				}
