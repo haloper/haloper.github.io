@@ -1,11 +1,15 @@
 $(function(){
 	main.eventBinding();
 	$("#answer").hide();
-	source.init().then(function() {
-		main.load()
-	});
+	reloadingSource();
 	
 });
+
+function reloadingSource(config) {
+	source.init(config).then(function() {
+		main.load()
+	});
+}
 
 
 var main = {
@@ -16,25 +20,26 @@ var main = {
 			$("#next").bind("click", this.next);
 			$("#reload").bind("click", this.reload);
 			$("#last").bind("click", this.last)
-			$("#text").bind("change", this.writing);			
+			$("#text").bind("change", this.writing);
+			$("#sourceSelect").bind("change", this.sourceChange);
 		},
 		check: function(event) {
 			$("#answer").show();
 		},
 		next: function(event) {
-		 var data = source.next();
+			var data = source.next();
 			
 			$("#answer").hide();
 			
 			$("#lastAnswer").html("").hide();
 			if(localStorage["question" + source.index]) {
-							$("#lastAnswer").html(localStorage["question" + source.index]);
-							$("#last").show();
+				$("#lastAnswer").html(localStorage[$("#sourceSelect").val() + source.index]);
+				$("#last").show();
 			}
 			else {
-			 			$("#last").hide();
+				$("#last").hide();
 			}
-
+			
 			$("#question").html(main.toLink(data.question));
 			$("#answer").html(main.toLink(data.answer));
 			if(data.keyword) {
@@ -54,18 +59,21 @@ var main = {
 			});
 		},
 		writing: function(event) {
-					localStorage.setItem("question" + source.index, $("#text").val());
-					$("#googleTrans").attr("href", main.GOOGLE_TRANSLATE + encodeURI($("#text").val()));
-							},
+			localStorage.setItem($("#sourceSelect").val() + source.index, $("#text").val());
+			$("#googleTrans").attr("href", main.GOOGLE_TRANSLATE + encodeURI($("#text").val()));
+		},
 		last: function(event) {
-					$("#lastAnswer").show();
+			$("#lastAnswer").show();
 		},
 		toLink: function(text) {
-				var words = text.split(" ");
-				var linkedSentence = "";
-				for(var i=0;i<words.length;i++) {
-					linkedSentence += main.LINKED_WORD_FORMAT.replace(/{{keyword}}/g, words[i]) + " ";
-				}
-				return linkedSentence.trim();
-		}		
+			var words = text.split(" ");
+			var linkedSentence = "";
+			for(var i=0;i<words.length;i++) {
+				linkedSentence += main.LINKED_WORD_FORMAT.replace(/{{keyword}}/g, words[i]) + " ";
+			}
+			return linkedSentence.trim();
+		},
+		sourceChange: function(event) {
+			reloadingSource($("#sourceSelect").val());
+		}
 	};
