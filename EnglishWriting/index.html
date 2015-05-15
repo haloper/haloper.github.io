@@ -20,24 +20,32 @@
 				<textarea id="text" class="form-control" rows="2"></textarea>
 			</div>
 			<div class=" col-sm-10">
-							<p class="text-right" ><a id="googleTrans" href="#" target="google_translate">Google Translate</a></p>
+				<p class="text-right" ><a id="googleTrans" href="#" target="google_translate">Google Translate</a></p>
 			</div>
 		</div>
 		<div class="row">
-		<p id="answer" class="lead col-sm-10"></p>
+			<p id="answer" class="lead col-sm-10"></p>
 		</div>
 		<div class="row">
-					<p id="lastAnswer" class="lead col-sm-10"></p>
+			<p id="lastAnswer" class="lead col-sm-10"></p>
 		</div>
 		<div class="footer">
-			<div class="row">
+			<div class="row form-group">
+				<div class="col-sm-3 col-xs-3">
+					<select class="form-control" id="sourceSelect">
+						<option value="local/config.json">English Writing</option>
+						<option value="local/opic.json">Opic Q&amp;A</option>
+					</select>
+				</div>
+			</div>
+			<div class="row form-group">
 				<p class="col-sm-10">keyword : <span id="keyword"></span>, total : <span id="total"></span></p>					
 			</div>
-			<div class="row">
+			<div class="row form-group">
 				<div class="col-sm-10">
-					<button id="next" class="btn btn-default" type="button">Next Question</button>		
-					<button id="check" class="btn btn-default" type="button">Check Answer</button>
-					<button id="last" class="btn btn-default" type="button">Last Answer</button>
+				<button id="next" class="btn btn-default" type="button">Next Question</button>		
+				<button id="check" class="btn btn-default" type="button">Check Answer</button>
+				<button id="last" class="btn btn-default" type="button">Last Answer</button>
 				</div>
 			</div>
 		</div>
