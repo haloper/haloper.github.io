@@ -3,6 +3,9 @@
 @ Let's start the inteview now. Tell me something about yourself.
 $ Hello, how are you? OK now, Let me introduce myself. I am Kim Jinhoon, 34 years old. I am married with two childrens. There are 4 members in my family. My wife, two sons and me. I am currently an office worker. I have been working for Opentide Korea for 2 years as a developer in the mobile department. In my free time, I like to watch movie and go jogging to the park. The jogging is usefull to refresh my mind and collect my thoughts. I have a easy-going personality. So many people arround me like to talk with me. OK. that's all about me. Nice to meet you. Thank you.
 
+
+* House
+
 @ Please tell me about your house. What does it look like?
 $ I live in a townhouse with my family in Gwang-ju. My house is cozy and comfortable, but a little messy. Because my son is so activity. As soon as I enter my house, I can see a living room. And there are three badrooms and a bathroom in my house. One of the bedrooms is the master bedroom where my family sleep. In front of my house, there is a small park. I enjoy going out to the park with my son. I think my house is a good place for my family.
 
@@ -19,6 +22,8 @@ $ My room is cozy and comfortable. As soon as I enter my room, I can see a big b
 $ I live in a downtown with my family. The living room in my house is some complicated because of my son. There are a lot of toys for my son in my living room. A trampoline, a sandbox, and the other many toys are in my living room. So, even though I often clean my living room, the living room is kind of messy. There is a big bookshelf with many books in my badroom. I like to read books with my son before going to bad, So I have many books in my bad room. Overall, In my house, there are many things my son like, because I love my son very much.
 
 
+* Neighborhood
+
 @ What is your neighborhood like? Where is it located? What kind of amenities are there in your neighborthood? Tell me about a place around your house in detail.
 $ I live in townhouse with my family in Kwang-ju. My neighborhood is clean and peacefull because my neighborhood is far away from Seoul. In my town, there are not many amenties. But there is a park and a playground near my house, so I and my sun often go there and enjoy playing. Overall, my neighborhood is a good place to live.
 
@@ -29,6 +34,14 @@ $ I live in a townhouse with my family in Kwang-ju. The mose recent change was t
 $ I think it was about two years ago when it was a heavy snow night. A heavy snow blocked traffic my way home after a long day of work. So, my bus moved on very slowly, then it took more than 5 hours to get home from work. It was the most stressful experience I've ever had in my neighborhood.
 
 
+* Movie
+
+@ Tell me about a movie theater you often go to. Where is it? What does it look like?
+$ I can't go to the theater, because my sons are too young. So I prefer watching movies at home to theater. I watch movies every weekends early morning at my living room. When I watch movies in my living room, it is like the good theater that I can watch movies alone and feel free and comfortable. I think my living room is a good place to enjoy watching movies.
+
+@ What is your favorite type of movie and why?
+$ I like to watch science fiction movies and there are several reasons why.
+First of all, I like them because they have stories to stimulate my imagination. Also, they are packed with wonderful scenes, and I'm happy to watch them. In addition, science movies take my mind off the worries and stresses I have. So, for these reasons, I like science fiction movies.
 
 # 자기소개
 
