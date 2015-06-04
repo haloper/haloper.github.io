@@ -53,9 +53,13 @@ $ My memorable movie is IInterstellar. Christopher Nolan was the director in the
 $ I can't go to the theater, because my sons are too young. So I prefer watching movies at home to theater. My recent whatched movie was Interstellar. I whatched it on my IP TV with my wife. Before the movie, we made some snack to eat and dimmed the light in my livingroom. The movie was about a team of explorers travel through a wormhole in an attempt to ensure humanity's survival. The movie was a Hollywood blockbuster film and had many wonderful scenes. So it took my mind off the worries and stresses I have. It was a greate movie.
 
 
+* Park
 
+@ You indicated in the survey that you enjoy going to a park. Which park do you like to go to? Who do you usually go to the park with? Please describe your favorite park in detail.
+$ I often go to a small park which is located in front of my house with my son. It only takes 1 minite on foot from my house. I usually go to the park with my son. The park is quitet and peaceful. As soon as I enter the park, I can see exercise equipments and benches. In addition, there are two badminton courts and a playground. I think this park is a good place to play with my son.
 
-
+@ Can you tell me what you usually do at the park? Describe your typical day at a park from the beginning to the end?
+$ I often go to a small park which is located in front of my house. I usually go to the park with my son, becuase my son like playing about in the park. When I go to the park, I usually take my son to a playground and care of him. And we take a walk together and have a conversation in the park. I think this park is a good place to play with my son.
 
 # 자기소개
 
