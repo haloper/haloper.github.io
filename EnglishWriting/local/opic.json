@@ -1,5 +1,6 @@
 {
 	"source_name" : "Opic Q&A",
-	"request_url" : "local/opic_qna.txt"
+	"request_url" : "local/opic_qna.txt",
+	"orderby" : "asc"
 }
 

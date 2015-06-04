@@ -66,7 +66,15 @@ var source = {
 			});
 		},
 		next: function() {
-			source.index = Math.floor(Math.random() * source.length);
+			if(source.config.orderby === "asc") {
+				if(++source.index >= source.length) source.index = 0;
+			}
+			else if(source.config.orderby === "desc") {
+				if(--source.index < 0) source.index = source.length - 1;
+			}
+			else {
+				source.index = Math.floor(Math.random() * source.length);
+			}
 			return {
 				keyword: source.data[source.index].keyword,
 				question: source.data[source.index].question,
