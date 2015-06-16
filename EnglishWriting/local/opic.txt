@@ -91,7 +91,7 @@ $ My favorite kind of music is balllads. I like to listen to it because it has t
 * Singing
 
 @ You indicated in the survey that you like to sing. Tell me about the types of music or songs you like to sing.
-$ I like to sing all kinds of songs but I especially like to sing ballads. I like to sing ballads because I can empathize with the lyrics and they are easy to sing along to. So I often practice singing ballads songs and sing them at Karaoke. Sing at Karaoke with my friends is the one of the my favorit habits.
+$ I like to sing all kinds of songs but I especially like to sing ballads. I like to sing ballads because I can empathize with the lyrics and they are easy to sing along to. So I often practice singing ballads songs and sing them at Karaoke. Sing at Karaoke with my friends is one of my favorits.
 
 * Swimming
 
