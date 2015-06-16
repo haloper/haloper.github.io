@@ -1,1 +1,351 @@
 
+* expressions
+
+@ 강가를 따라서
+$ along the river
+
+@ ~ 또한
+$ ~ as well
+
+@ 부상을 조심하다
+$ watch out for injuries
+ 
+@ 신발을 신다
+$ wear shoes
+
+@ 생각을 정리하다
+$ collect my thoughts
+
+@ 첫번째로,
+$ first of all
+
+@ A와 B 사이에는 차이점이 있다.
+$ There are differences between A and B
+
+@ 이곳에서 2년 동안 살았다
+$ I have been living here for two years
+
+@ 조깅을 가다
+$ go jogging
+
+@ 가족들과 모이다
+$ get together with family
+
+@ 성격 좋은
+$ easy-going
+
+@ 다정한
+$ nice
+
+@  어지러워진
+$ messy
+
+@ 널찍한
+$ spacious
+
+@ 아늑한
+$ cozy
+
+@ 아파트 단지
+$ an apartment complex
+
+@ 주차장
+$ a parking lot
+
+@ 놀이터
+$ a playground
+
+@ 반면에
+$ on the other hand
+
+@ ~와 비교하면
+$ compared to ~
+
+@ 공통점
+$ similarities
+
+@ 다시 꾸미다
+$ redecorated
+
+@ 책장
+$ bookshelf
+
+@ 서랍장 (작은거)
+$ a drawer
+
+@ 서랍장 (큰거)
+$ a dresser
+
+@ 화장대
+$ dressing table
+
+@ 옷장
+$ a closet
+
+@ 내 기분을 up시켜주다
+$ cheer me up
+
+@ 확인하다
+$ check out
+
+@ 산책하다
+$ take a work
+
+@ 걸어서
+$ on foot
+
+@ 남자 주인공
+$ a main actor
+
+@ 여자 주인공
+$ a main actress
+
+@ 만나도
+$ get together
+
+@ 요기하다
+$ grab a bite to eat
+
+@ 거대한
+$ huge
+
+@ 화려한 조명
+$ colorful rights
+
+@ 청중
+$ audience
+
+@ 공연장
+$ an auditorium
+
+@ 일주일에 두번
+$ twice a week
+
+@ 일년에 한번
+$ once a year
+
+@ 아주 가끔
+$ once in a while
+
+@ 2년에 한번
+$ every tow years
+
+@ 거의 매주 주말마다
+$ almost every weekend
+
+@ 추첨에서
+$ in a raffle
+
+@ 호수
+$ a lake
+
+@ 수영장
+$ public pools
+
+@ 시설
+$ facilities
+
+@ 사진을 찍다
+$ take a picture
+
+@ 평소 생활
+$ daily life
+
+@ 낮잠 자다
+$ take a nap
+
+@ 소나기를 만났다
+$ be caught in a shower
+
+@ 모기에 물리다
+$ be bitten by mosquitoes
+
+@ 진공청소기를 돌리다
+$ vacuum
+
+@ 분리수거 하다
+$ separate the trash
+
+@ 빨래를 널다
+$ hang out the laundry
+
+@ 빨래를 개다
+$ fold the laundry
+
+@ 가지고 다니기 쉬운
+$ easy to carry
+
+@ 직장 동료
+$ co-worker
+
+@ 친척들
+$ relatives
+
+@ 가족일
+$ family matter
+
+@ ~ 하곤 했었다
+$ used to ~
+
+@ 출근길에
+$ when I commute
+
+@ 자기 전에
+$ before I go to sleep
+
+@ 지루할때
+$ when I feel bored
+
+@ 스트레스 풀다
+$ relieve stress
+
+@ 기분을 좋게 해준다
+$ It put me in a good mood
+
+@ 가사가 감동적이다
+$ The lyrics are touching
+
+@ 가사에 공감하다
+$ empathize with the lyrics
+
+@ 따라 부르기 쉽다
+$ easy to sing along to
+
+@ 창피하다
+$ embarrassed
+
+@ 김치부친개
+$ kimchi pancakes
+
+@ 맛있는
+$ tasty
+
+@ 많은 사람이 좋아함
+$ a crowd-pleaser
+
+@ 요리 재료
+$ ingredients
+
+@ 끓는 물
+$ boiling water
+
+@ 간장으로 간을 맞추다
+$ season with the soy sauce
+
+@ ~ 하는 것을 독학했다
+$ I taught myself how to ~
+
+@ 짜다
+$ salty
+
+@ (맛이)밍밍하다
+$ bland
+
+@ 자전거를 타다
+$ ride a bicycle
+
+@ 살을 빼기 위해
+$ to lose weight
+
+@ 건강을 유지하기 위해
+$ to stay healthy
+
+@ 다이어트 하기로 결심하다
+$ I decided to go on a diet
+
+@ 운동을 통해 건강해지기로 결심했다.
+$ I decided to get fit by doing evercise
+
+@ 건강을 유지하기 위해
+$ to stay healthy
+
+@ 수영 강사가 수영을 가르쳐 주었다.
+$ My swimming instructor taught me how to swim.
+
+@ 워밍업을 하다
+$ do some warming-up
+
+@ 최소 30분
+$ at least 30 minutes
+
+@ 30분 이상
+$ more than 15 minutes
+
+@ 인공 호수
+$ an artificial lake
+
+@ 편안한 옷
+$ comfortable clothes
+
+@ 트래이닝 바지
+$ sweatpants
+
+@ 옷을 갈아입다
+$ change clothes
+
+@ 아령을 들다
+$ lift dumbbells
+
+@ 대화를 나누다
+$ have a conversation
+
+@ 몇 달전
+$ serveral months ago
+
+@ 악기
+$ musical instruments
+
+@ 지역 별미를 먹어보다
+$ try local specialties
+
+@ 아름다운 풍경
+$ beautiful scenery
+
+@ 투명하게 맑다
+$ crystal clear
+
+@ 관광지를 방문하다
+$ visit tourist attractions
+
+@ 놀이기구를 타다
+$ go on the rides
+
+@ 기념품을 사다
+$ buy souvenirs
+
+@ 친절한 현지인
+$ friendly locals
+
+@ 휴양지
+$ vacation spot
+
+@ 그곳은 ~으로 유명하다
+$ It is famous for ~
+
+@ 길을 물어보았다.
+$ I asked for direction
+
+@ 해변에서 쉬다
+$ relax at the beach
+
+@ 관광하다
+$ go sightseeing
+
+@ 휴대폰 충전기
+$ a cell phone charger
+
+@ 세면도구
+$ toiletries
+
+@ 숙박을 예약하다
+$ book accommodations
+
+@ lose to track of time
+$ 시간 가는줄 모르다
+
+@
+
+
+
+
+
