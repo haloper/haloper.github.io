@@ -96,9 +96,7 @@ $ I like to sing all kinds of songs but I especially like to sing ballads. I lik
 * Swimming
 
 @ You indicated in the survey that you swim. When do you usually go swimming? Why do you like swimming? What are the adventages of this activity?
-$ I usually go swimming with my family in the summer. I go swimming to spend time with my family and stay fit at the same time. Swimming is a whole body workout, so I think it's a great way to exercise.
-There are many advantages of swimming. For example, it's a good way to cool off in the summber. So, I always feel refreshed after a swim.
-I think swimming is a good way to stay healthy.
+$ I usually go swimming with my family in the summer. I go swimming to spend time with my family and stay fit at the same time. Swimming is a whole body workout, so I think it's a great way to exercise. There are many advantages of swimming. For example, it's a good way to cool off in the summber. So, I always feel refreshed after a swim. I think swimming is a good way to stay healthy.
 
 * Jogging / Walking
 
