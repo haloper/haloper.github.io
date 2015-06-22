@@ -343,7 +343,221 @@ $ book accommodations
 @ lose to track of time
 $ 시간 가는줄 모르다
 
-@
+@ 삼겹살 
+$ grilled pork strips
+
+@ 건강에 좋은
+$ good for health
+
+@ 반찬
+$ side dishes
+
+@ 고기
+$ meat
+
+@ 활기찬
+$ lively
+
+@ 많은 종류의 음식
+$ many different kinds of food
+
+@ 저렴한 가격
+$ reasonable prices
+
+@ 분위기
+$ atmosphere
+
+@ 찌개
+$ stew
+
+@ (음식의) 양이 많았다
+$ The portions were large
+
+@ 중독적인
+$ addictive
+
+@ 영양소
+$ nutrients
+
+@ 장보러 가다
+$ go grocery shopping
+
+@ ~ 쇼핑을 하러 가다
+$ go shopping for ~
+
+@ 세일을 하다
+$ have a clearance sale
+
+@ 일찍 자고 일찍 일어나다
+$ sleep and wake-up early
+
+@ 충분히 잠을 자다
+$ sleep enough
+
+@ 물을 많이 마시다
+$ drink lots of water
+
+@ 시력
+$ eyesight
+
+@ ~에 관해서라면
+$ when it comes to ~
+
+@ 전화 통화하다
+$ talk on the phone
+
+@ 약속
+$ appointment
+
+@ 원피스
+$ a dress
+
+@ 노출이 심한 옷
+$ skimpy clothes
+
+@ 교복
+$ school uniforms
+
+@ 놀러 나가다
+$ hang-out
+
+@ 산책하다
+$ take a walk
+
+@ 직원
+$ staff
+
+@ 효율적인
+$ ㄷㄹ랴챠둣
+
+@ 웃고 있다
+$ have a smile on the face
+
+@ 청원 경찰
+$ a security guard
+
+@ 소파
+$ couches
+
+@ 줄을 서서 기다리다
+$ waite in line
+
+@ 정수기
+$ a water purifier
+
+@ 안내 책자
+$ brochures
+
+@ 입금하다
+$ deposit money
+
+@ 출금하다
+$ withdraw money
+
+@ 이체하다
+$ transfer money
+
+@ 대출받다
+$ get a loan
+
+@ 은행계좌를 계설하다
+$ open a bank account
+
+@ 신용카드를 발급하다
+$ issue a credit card
+
+@ 추석
+$ Korean Tanksgiving Day
+
+@ 설날
+$ Korean New Year's Day
+
+@ 3일 동안 지속된다
+$ It lasts for three days.
+
+@ 고향
+$ hometowns
+
+@ 보름달에 소원을 빌다
+$ make a wish to the full-moon
+
+@ 용돈
+$ pocket money
+
+@ 동북아
+$ North East Asia
+
+@ ~으로 덮여있다
+$ cover with ~
+
+@ 반도
+$ peninsula
+
+@ 시립 도서관
+$ a city library
+
+@ 열람실
+$ a reference room
+
+@ 책을 빌리다
+$ check-out books
+
+@ 좌석을 예약하다
+$ reserve a seat
+
+@ 시끄럽게
+$ loudly
+
+@ 기사를 읽다
+$ read an article
+
+@ 재활용품
+$ recyclables
+
+@ 법으로 정해져 있다.
+$ It's required by law
+
+@ 제시간에
+$ on time
+
+@ 교통체증이 없다
+$ There is no traffic
+
+@ 환승
+$ transfer
+
+@ 교통카드
+$ transportation card
+
+@ 술집
+$ a pub
+
+@ 친구들과 놀다
+$ hang-out with friends
+
+@ 쌀쌀한
+$ chilly
+
+@ 안개낀
+$ foggy
+
+@ 찌는 듯한 더위
+$ boilling hot
+
+@ 폭풍우 치는
+$ stormy
+
+@ 습한
+$ humid
+
+@ 황사가 불어오다
+$ yellow dust blows
+
+@ 우기
+$ rainy season
+
+
+
 
 
 
