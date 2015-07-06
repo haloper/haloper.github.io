@@ -558,6 +558,100 @@ $ rainy season
 
 
 
+* 질문하기
+
+@ 당신의 집의 위치는 어디인가요?
+$ Where is your house located?
+
+@ 누구와 함께 사나요?
+$ Who do you live with?
+
+@ 집에는 몇 개의 방이 있나요?
+$ How many rooms are there in your house?
+
+@ 그럼 여기까지 하겠습니다
+$ Okay, That's all
+
+@ 어떤 걸 사용하는 것을 선호하나요?
+$ Which one do you prefer to use?
+
+@ 대중교통을 얼마나 자주 사용하나요?
+$ How often do you use transportation?
+
+@ 캐나다의 어디에 머무를 건가요?
+$ Where will you stay in Canada?
+
+@ 캐나다에 어느분과 함께 갈건가요?
+$ Who will you go to Canada with?
+
+@ 왜 여행지로 캐나다를 선택했나요?
+$ Why did you choose Canada for your trip?
+
+@ 캐나다에 얼마나 오래 머무를 건가요?
+$ How long will you stay in Canada?
+
+@ 좋은 여행 되세요
+$ Have a nice trip
+
+@ 이미 예약을 하셨나요?
+$ Did you already book a room?
+
+@ 호텔에서 공항 픽업 서비스를 제공하나요?
+$ Does the hotel provide an airport-pickup service?
+
+@ 아침식사가 포함되어 있나요?
+$ Is the breakfast included?
+
+@ 주로 어디로 가나요?
+$ Where do you usually go?
+
+@ 누구와 주로 산책을 가나요?
+$ Who do you go for a work with?
+
+@ 산책하기 전에 주로 무엇을 하나요?
+$ What do you usually do before walking?
+
+@ 주로 어떤걸 쇼핑하세요?
+$ What do you usually go shopping with?
+
+@ 그 프로그램에서 가장 좋아하는 연예인이 누구인가요?
+$ Who is your favorite celebrity in the show?
+
+@ 서부  캐나다에 산이 많이 있나요?
+$ Are there many mountains in western Canada?
+
+@ 서부 캐나다에 가장 큰 호수가 무엇인가요?
+$ What is the biggest lake in western Canada?
+
+@ 가족 중에서 누구와 가장 가깝나요?
+$ Who are you closest to in your family?
+
+@ 아버지 연세가 어떻게 되시나요?
+$ How old is your father?
+
+@ 아버지께서는 무슨일을 하시나요?
+$ What does your father do?
+
+@ 가족은 총 몇명인가요?
+$ How manu people are there in your family?
+
+@ 어머니는 어떻게 생기셨나요?
+$ What does your mother look like?
+
+@ 소스를 얼만큼 사용하나요?
+$ How much sauce do you use?
+
+@ 얼마나 오래 피자를 굽나요?
+$ How long do you bake the pizza?
+
+@ 어떤 기름을 사용하나요?
+$ What kind of oil do you use?
+
+@ 마지막으로 통화한게 언제였나요?
+$ When did you last talk on the phone?
+
+@ 보통 얼마나 오래 통화하시나요?
+$ How long do you usually talk on the phone?
 
 
 
