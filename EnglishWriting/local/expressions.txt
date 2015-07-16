@@ -557,6 +557,20 @@ $ yellow dust blows
 $ rainy season
 
 
+@ 흥미진진한
+$ exciting
+
+@ 편리한
+$ convenient
+
+@ 반도
+$ penisula
+
+
+
+
+
+
 
 * 질문하기
 
