@@ -1,6 +1,38 @@
 
 * expressions
 
+@ 아래로
+$ below
+
+@ 계단을 올라가다
+$ come up the stairs
+
+@ 아이용 물놀이장
+$ padding pool
+
+@ 주로
+$ mostly
+
+@ 침구류
+$ bedding
+
+@ 해양 스포츠
+$ water sport
+
+@ 마사지 받다
+$ get massage
+
+@ 쇼를 관람하다
+$ watch a show
+
+@ 느긋한
+$ easy going
+
+@ 여유로움을 느끼다
+$ feel relaxed
+
+
+
 @ 강가를 따라서
 $ along the river
 
@@ -37,7 +69,7 @@ $ easy-going
 @ 다정한
 $ nice
 
-@  어지러워진
+@ 어지러워진
 $ messy
 
 @ 널찍한
