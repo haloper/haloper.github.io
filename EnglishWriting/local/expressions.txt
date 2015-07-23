@@ -1,5 +1,30 @@
 
 * expressions
+@ 처음 이사온 이후로
+$ since I first moved in
+
+@ 3일 동안 계속 된다
+$ last for three days
+
+@ 그게 내가 ~을 좋아하는 이유야
+$ That's what I like about ~
+
+@ 얇다
+$ thin
+
+@ 고속도로 입구
+$ expressway entrance
+
+@ 필요한
+$ necessary
+
+@ 시청
+$ city hall
+
+@ 불편하다
+$ uncomfortable
+
+
 
 @ 아래로
 $ below
