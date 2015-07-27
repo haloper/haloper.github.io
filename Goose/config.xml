@@ -1,0 +1,11 @@
+<!-- 미사용은 -1 -->
+<config>
+  <sell>
+    <timer>09:01</timer>
+    <retrySec>15</retrySec>
+  </sell>
+  <buy>
+    <timer>14:57</timer>
+    <minItemCount>5</minItemCount>
+  </buy>
+</config>
