@@ -9,4 +9,7 @@
     <minItemCount>1</minItemCount>
     <limit>90</limit>
   </buy>
+  <etc>
+    <checkTime>10</checkTime>
+  </etc>
 </config>
