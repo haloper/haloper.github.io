@@ -6,7 +6,7 @@
   </sell>
   <buy>
     <timer>14:57</timer>
-    <minItemCount>5</minItemCount>
+    <minItemCount>1</minItemCount>
     <limit>90</limit>
   </buy>
 </config>
