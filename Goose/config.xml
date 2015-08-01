@@ -5,7 +5,7 @@
     <retrySec>15</retrySec>
   </sell>
   <buy>
-    <timer>14:57</timer>
+    <timer>14:30</timer>
     <minItemCount>1</minItemCount>
     <limit>90</limit>
   </buy>
