@@ -11,5 +11,6 @@
   </buy>
   <etc>
     <checkTime>7:30,8:30,14:00,13:00</checkTime>
+    <timeoutSec>30</timeoutSec>
   </etc>
 </config>
