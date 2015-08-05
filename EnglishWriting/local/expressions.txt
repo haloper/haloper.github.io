@@ -1,5 +1,19 @@
 
 * expressions
+
+@ 평균적으로
+$ on everage
+
+@ 규칙적으로
+$ regularly
+
+@ 초대해 주셔서 감사합니다
+$ Thank you for inviting me
+
+@ 근면한, 부지런한
+$ industrious
+
+
 @ 처음 이사온 이후로
 $ since I first moved in
 
