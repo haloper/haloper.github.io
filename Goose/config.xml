@@ -10,7 +10,7 @@
     <limit>90</limit>
   </buy>
   <etc>
-    <checkTime>7:30,8:30,14:00,13:00</checkTime>
+    <checkTime>7:30,8:00,8:30,13:00,14:00,14:30</checkTime>
     <timeoutSec>30</timeoutSec>
   </etc>
 </config>
