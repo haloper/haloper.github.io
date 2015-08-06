@@ -5,12 +5,12 @@
     <retrySec>15</retrySec>
   </sell>
   <buy>
-    <timer>14:30</timer>
+    <timer>14:00</timer>
     <minItemCount>1</minItemCount>
     <limit>90</limit>
   </buy>
   <etc>
-    <checkTime>7:30,8:00,8:30,13:00,14:00,14:30</checkTime>
+    <checkTime>7:30,8:00,8:30,13:00,13:30</checkTime>
     <timeoutSec>30</timeoutSec>
   </etc>
 </config>
