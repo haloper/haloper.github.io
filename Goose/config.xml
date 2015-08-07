@@ -3,6 +3,7 @@
   <sell>
     <timer>09:01</timer>
     <retrySec>15</retrySec>
+    <testCode>047560</testCode>
   </sell>
   <buy>
     <timer>14:00</timer>
