@@ -8,6 +8,7 @@
     <timer>14:00</timer>
     <minItemCount>1</minItemCount>
     <limit>90</limit>
+    <cycle>5</cycle>
   </buy>
   <etc>
     <checkTime>7:30,8:00,8:30,13:00,13:30</checkTime>
