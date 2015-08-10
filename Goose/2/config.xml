@@ -1,0 +1,18 @@
+<!-- 미사용은 -1 -->
+<config>
+  <sell>
+    <timer>09:01</timer>
+    <retrySec>15</retrySec>
+  </sell>
+  <buy>
+    <timer>14:00</timer>
+    <minItemCount>1</minItemCount>
+    <limit>90</limit>
+    <cycle>5</cycle>
+  </buy>
+  <etc>
+    <checkTime>7:30,8:00,8:30,13:00,13:30</checkTime>
+    <timeoutSec>30</timeoutSec>
+    <testCode>047560</testCode>
+  </etc>
+</config>
