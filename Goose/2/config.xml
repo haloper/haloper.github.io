@@ -2,16 +2,18 @@
 <config>
   <sell>
     <timer>09:01</timer>
-    <retrySec>15</retrySec>
   </sell>
   <buy>
-    <timer>14:00</timer>
-    <minItemCount>1</minItemCount>
+    <timer>12:00</timer>
     <limit>90</limit>
-    <cycle>5</cycle>
   </buy>
+  <monitoring>
+    <maxItemCount>5</maxItemCount>
+    <cycle>5</cycle>
+    <cutlineRate>3</cutlineRate>
+  </monitoring>
   <etc>
-    <checkTime>7:30,8:00,8:30,13:00,13:30</checkTime>
+    <checkTime>7:30,8:00,8:30,10:00,11:00,11:30</checkTime>
     <timeoutSec>30</timeoutSec>
     <testCode>047560</testCode>
   </etc>
