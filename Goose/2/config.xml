@@ -13,7 +13,7 @@
     <cutlineRate>3</cutlineRate>
   </monitoring>
   <etc>
-    <checkTime>7:30,8:00,8:30,10:00,11:00,11:30</checkTime>
+    <checkTime>7:30,8:00,8:30,8:45</checkTime>
     <timeoutSec>30</timeoutSec>
     <testCode>047560</testCode>
   </etc>
