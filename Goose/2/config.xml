@@ -10,8 +10,8 @@
   <monitoring>
     <maxItemCount>5</maxItemCount>
     <cycle>1</cycle>
-    <upCutlineRate>3</upCutlineRate>
-    <downCutlineRate>2</downCutlineRate>
+    <upCutlineRate>20</upCutlineRate>
+    <downCutlineRate>5</downCutlineRate>
   </monitoring>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
