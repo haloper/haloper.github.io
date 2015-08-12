@@ -10,7 +10,7 @@
   <monitoring>
     <maxItemCount>5</maxItemCount>
     <cycle>1</cycle>
-    <upCutlineRate>20</upCutlineRate>
+    <upCutlineRate>10</upCutlineRate>
     <downCutlineRate>5</downCutlineRate>
   </monitoring>
   <etc>
