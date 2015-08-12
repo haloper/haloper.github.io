@@ -9,7 +9,7 @@
   </buy>
   <monitoring>
     <maxItemCount>5</maxItemCount>
-    <cycle>1</cycle>
+    <cycle>5</cycle>
     <upCutlineRate>10</upCutlineRate>
     <downCutlineRate>5</downCutlineRate>
   </monitoring>
