@@ -4,7 +4,7 @@
     <timer>09:01</timer>
   </sell>
   <buy>
-    <timer>09:30</timer>
+    <timer>09:10</timer>
     <limit>90</limit>
   </buy>
   <monitoring>
