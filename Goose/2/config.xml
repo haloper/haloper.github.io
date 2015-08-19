@@ -17,6 +17,6 @@
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
     <timeoutSec>30</timeoutSec>
     <testCode>047560</testCode>
-    <flushLimit>500</flushLimit>
+    <flushLimit>2000</flushLimit>
   </etc>
 </config>
