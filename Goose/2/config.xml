@@ -9,7 +9,7 @@
   </buy>
   <monitoring>
     <maxItemCount>5</maxItemCount>
-    <cycle>5</cycle>
+    <cycle>2</cycle>
     <upCutlineRate>20</upCutlineRate>
     <downCutlineRate>10</downCutlineRate>
   </monitoring>
@@ -18,6 +18,6 @@
     <timeoutSec>30</timeoutSec>
     <testCode>047560</testCode>
     <flushLimit>1000</flushLimit>
-    <outputMaxLine>50</outputMaxLine>
+    <outputMaxLine>100</outputMaxLine>
   </etc>
 </config>
