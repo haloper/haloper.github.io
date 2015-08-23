@@ -19,5 +19,6 @@
     <testCode>047560</testCode>
     <flushLimit>1000</flushLimit>
     <outputMaxLine>100</outputMaxLine>
+    <showLog>INFO,ERROR,LOW,PROCESS</showLog>
   </etc>
 </config>
