@@ -17,8 +17,11 @@
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
     <timeoutSec>30</timeoutSec>
     <testCode>047560</testCode>
+  </etc>
+  <log>
     <flushLimit>1000</flushLimit>
     <outputMaxLine>100</outputMaxLine>
-    <showLog>INFO,ERROR,PROCESS</showLog>
-  </etc>
+    <showListbox>INFO,ERROR,PROCESS,LOW</showLog>
+    <showEmail>INFO,ERROR,PROCESS</showEmail>
+  </log>
 </config>
