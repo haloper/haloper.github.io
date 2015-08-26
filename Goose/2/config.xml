@@ -21,8 +21,9 @@
   <log>
     <flushLimit>1000</flushLimit>
     <outputMaxLine>100</outputMaxLine>
-    <showListbox>INFO,ERROR,PROCESS,LOW</showListbox>
-    <showFile>INFO,ERROR,PROCESS,LOW</showFile>
-    <showEmail>INFO,ERROR,PROCESS</showEmail>
+    <showEmail>ERROR,PROCESS</showEmail>
+    <showListbox>ERROR,PROCESS,INFO</showListbox>
+    <showFile>ERROR,PROCESS,INFO,LOW</showFile>
+    
   </log>
 </config>
