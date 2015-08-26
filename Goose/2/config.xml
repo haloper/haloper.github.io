@@ -5,7 +5,7 @@
   </sell>
   <buy>
     <timer>09:05</timer>
-    <limit>30</limit>
+    <limit>50</limit>
   </buy>
   <monitoring>
     <maxItemCount>10</maxItemCount>
