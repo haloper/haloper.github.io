@@ -8,7 +8,7 @@
     <limit>30</limit>
   </buy>
   <monitoring>
-    <maxItemCount>5</maxItemCount>
+    <maxItemCount>10</maxItemCount>
     <cycle>10</cycle>
     <upCutlineRate>40</upCutlineRate>
     <downCutlineRate>20</downCutlineRate>
