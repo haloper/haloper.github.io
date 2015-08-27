@@ -1,6 +1,16 @@
 
 * expressions
 
+@ 마음껏 뛰어놀다
+$ run and play freely
+
+@ 넓은
+$ spacious
+
+@ 예고편
+$ trailer
+
+
 @ 평균적으로
 $ on everage
 
