@@ -1,10 +1,12 @@
 <!-- 미사용은 -1 -->
 <config>
   <sell>
-    <timer>09:01</timer>
+    <timer>14:00</timer>
   </sell>
   <buy>
-    <timer>09:05</timer>
+    <startTime>09:00</startTime>
+    <endTime>12:00</endTime>
+    <targetRate>10</targetRate>
     <limit>90</limit>
   </buy>
   <monitoring>
