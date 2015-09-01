@@ -12,6 +12,7 @@
     <cycle>10</cycle>
     <upCutlineRate>40</upCutlineRate>
     <downCutlineRate>30</downCutlineRate>
+    <remonitoringTerm>30</remonitoringTerm>
   </monitoring>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
