@@ -6,13 +6,13 @@
   <buy>
     <timer>09:05</timer>
     <limit>90</limit>
+    <rebuyTerm>30</rebuyTerm>
   </buy>
   <monitoring>
     <maxItemCount>10</maxItemCount>
     <cycle>10</cycle>
     <upCutlineRate>40</upCutlineRate>
     <downCutlineRate>30</downCutlineRate>
-    <remonitoringTerm>30</remonitoringTerm>
   </monitoring>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
