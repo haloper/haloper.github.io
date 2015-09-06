@@ -25,7 +25,7 @@
     <outputMaxLine>100</outputMaxLine>
     <showEmail>ERROR,PROCESS</showEmail>
     <showListbox>ERROR,PROCESS,INFO</showListbox>
-    <showFile>ERROR,PROCESS,INFO,LOW</showFile>
+    <showFile>ERROR,PROCESS,INFO,LOW,REAL</showFile>
     
   </log>
 </config>
