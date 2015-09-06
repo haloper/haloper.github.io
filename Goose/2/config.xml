@@ -1,7 +1,7 @@
 <!-- 미사용은 -1 -->
 <config>
   <sell>
-    <timer>09:01</timer>
+    <timer>09:00:15</timer>
   </sell>
   <buy>
     <timer>09:05</timer>
