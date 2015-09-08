@@ -6,7 +6,7 @@
   <buy>
     <timer>09:05</timer>
     <limit>30</limit>
-    <rebuyTerm>30</rebuyTerm>
+    <rebuyTerm>15</rebuyTerm>
   </buy>
   <monitoring>
     <maxItemCount>10</maxItemCount>
