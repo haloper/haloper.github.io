@@ -16,7 +16,7 @@
   </monitoring>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
-    <timeoutSec>30</timeoutSec>
+    <timeoutSec>100</timeoutSec>
     <testCode>047560</testCode>
     <mailCycle>10</mailCycle>
     <logWriteTime>10</logWriteTime>
@@ -26,7 +26,7 @@
     <outputMaxLine>100</outputMaxLine>
     <showEmail>ERROR,PROCESS</showEmail>
     <showListbox>ERROR,PROCESS,INFO</showListbox>
-    <showFile>ERROR,PROCESS,INFO,LOW</showFile>
+    <showFile>ERROR,PROCESS,INFO,LOW,REAL</showFile>
     
   </log>
 </config>
