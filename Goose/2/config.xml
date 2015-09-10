@@ -14,6 +14,9 @@
     <upCutlineRate>20</upCutlineRate>
     <downCutlineRate>10</downCutlineRate>
   </monitoring>
+  <refresh>
+    <timer>11:00,13:00</timer>
+  </refresh>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
     <timeoutSec>200</timeoutSec>
