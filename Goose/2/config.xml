@@ -19,7 +19,7 @@
   </refresh>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
-    <timeoutSec>200</timeoutSec>
+    <timeoutSec>30</timeoutSec>
     <testCode>047560</testCode>
     <mailCycle>10</mailCycle>
     <logWriteTime>10</logWriteTime>
