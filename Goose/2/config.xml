@@ -11,8 +11,8 @@
   <monitoring>
     <maxItemCount>10</maxItemCount>
     <cycle>10</cycle>
-    <upCutlineRate>40</upCutlineRate>
-    <downCutlineRate>30</downCutlineRate>
+    <upCutlineRate>20</upCutlineRate>
+    <downCutlineRate>10</downCutlineRate>
   </monitoring>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
