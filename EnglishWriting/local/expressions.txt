@@ -1,6 +1,12 @@
 
 * expressions
 
+@ 직원
+$ employee
+
+@ 감기 조심하세요
+$ take care of catch a cold
+
 @ 마음껏 뛰어놀다
 $ run and play freely
 
