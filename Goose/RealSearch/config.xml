@@ -7,6 +7,7 @@
     <timer>09:05</timer>
     <limit>30</limit>
     <rebuyTerm>15</rebuyTerm>
+    <maxItemCount>10</maxItemCount>
   </buy>
   <realSearch>
     <name>상한가</name>
