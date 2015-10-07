@@ -15,7 +15,7 @@
     <downCutlineRate>10</downCutlineRate>
   </monitoring>
   <realSearch>
-    <name>상한가</name>
+    <name>상한가,상한가버퍼</name>
   </realSearch>
   <refresh>
     <timer>11:00,13:00</timer>
