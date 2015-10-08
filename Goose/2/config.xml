@@ -15,8 +15,8 @@
     <downCutlineRate>10</downCutlineRate>
   </monitoring>
   <realSearch>
-    <first>상한가</first>
-    <second>상한가버퍼</second>
+    <buy>상한가</buy>
+    <sell>상한가버퍼</sell>
   </realSearch>
   <refresh>
     <timer>11:00,13:00</timer>
