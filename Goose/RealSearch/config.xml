@@ -11,7 +11,7 @@
   </buy>
   <realSearch>
     <buy>상한가</buy>
-    <sell>상한가버퍼</sell>
+    <sell>버퍼</sell>
   </realSearch>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
