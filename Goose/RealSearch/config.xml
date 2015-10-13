@@ -10,8 +10,8 @@
     <maxItemCount>10</maxItemCount>
   </buy>
   <realSearch>
-    <buy>상한가</buy>
-    <sell>버퍼</sell>
+    <buy>매수</buy>
+    <sell>매도</sell>
   </realSearch>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
