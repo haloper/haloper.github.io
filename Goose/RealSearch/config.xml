@@ -5,6 +5,7 @@
   </sell>
   <buy>
     <timer>09:05</timer>
+    <sendConditionTerm>60</sendConditionTerm>
     <limit>30</limit>
     <rebuyTerm>15</rebuyTerm>
     <maxItemCount>10</maxItemCount>
