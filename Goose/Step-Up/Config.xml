@@ -1,0 +1,31 @@
+<config>
+  <sell>
+    <timer>09:00:15</timer>
+  </sell>
+  <buy>
+    <timer>09:05</timer>
+    <sendConditionTerm>10</sendConditionTerm>
+    <limit>50</limit>
+    <rebuyTerm>30</rebuyTerm>
+    <maxItemCount>10</maxItemCount>
+  </buy>
+  <realSearch>
+    <name>stepup</name>
+    <level>18,20,22,24,26,28</level>
+  </realSearch>
+  <etc>
+    <checkTime>7:30,8:00,8:30,8:45</checkTime>
+    <timeoutSec>30</timeoutSec>
+    <testCode>047560</testCode>
+    <mailCycle>10</mailCycle>
+    <logWriteTime>10</logWriteTime>
+  </etc>
+  <log>
+    <flushLimit>1000</flushLimit>
+    <outputMaxLine>100</outputMaxLine>
+    <showEmail>ERROR,PROCESS</showEmail>
+    <showListbox>ERROR,PROCESS,INFO</showListbox>
+    <showFile>ERROR,PROCESS,INFO,LOW,REAL</showFile>
+    
+  </log>
+</config>
