@@ -11,7 +11,7 @@
   </buy>
   <realSearch>
     <name>stepup</name>
-    <level>0,1,2,3,4,5</level>
+    <levelCount>5</levelCount>
   </realSearch>
   <etc>
     <checkTime>7:30,8:00,8:30,8:45</checkTime>
