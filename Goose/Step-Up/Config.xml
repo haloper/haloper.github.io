@@ -2,7 +2,7 @@
   <buy>
     <sendConditionTerm>10</sendConditionTerm>
     <limit>50</limit>
-    <rebuyTerm>30</rebuyTerm>
+    <rebuyTerm>10</rebuyTerm>
     <maxItemCount>3</maxItemCount>
   </buy>
   <realSearch>
