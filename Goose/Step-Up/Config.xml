@@ -3,7 +3,7 @@
     <sendConditionTerm>10</sendConditionTerm>
     <limit>50</limit>
     <rebuyTerm>30</rebuyTerm>
-    <maxItemCount>10</maxItemCount>
+    <maxItemCount>3</maxItemCount>
   </buy>
   <realSearch>
     <name>stepup</name>
