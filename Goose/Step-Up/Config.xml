@@ -4,6 +4,8 @@
     <limit>50</limit>
     <rebuyTerm>10</rebuyTerm>
     <maxItemCount>3</maxItemCount>
+    <noBuyTime>14:30</noBuyTime>
+    <sellTime>14:45</sellTime>
   </buy>
   <realSearch>
     <name>stepup</name>
