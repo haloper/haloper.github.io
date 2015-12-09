@@ -1,0 +1,28 @@
+<config>
+  <buy>
+    <sendConditionTerm>10</sendConditionTerm>
+    <limit>50</limit>
+    <checkTerm>5</checkTerm>
+    <rebuyTerm>10</rebuyTerm>
+    <maxItemCount>3</maxItemCount>
+    <noBuyTime>14:30</noBuyTime>
+    <sellTime>14:45</sellTime>
+  </buy>
+  <realSearch>
+    <name>pulse</name>
+  </realSearch>
+  <etc>
+    <timeoutSec>30</timeoutSec>
+    <testCode>047560</testCode>
+    <mailCycle>10</mailCycle>
+    <logWriteTime>10</logWriteTime>
+  </etc>
+  <log>
+    <flushLimit>1000</flushLimit>
+    <outputMaxLine>100</outputMaxLine>
+    <showEmail>ERROR,PROCESS</showEmail>
+    <showListbox>ERROR,PROCESS,INFO</showListbox>
+    <showFile>ERROR,PROCESS,INFO,LOW,REAL</showFile>
+    
+  </log>
+</config>
