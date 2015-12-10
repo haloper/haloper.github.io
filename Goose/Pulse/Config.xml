@@ -7,6 +7,7 @@
     <maxItemCount>3</maxItemCount>
     <noBuyTime>14:30</noBuyTime>
     <sellTime>14:45</sellTime>
+    <range>-1</range>
   </buy>
   <realSearch>
     <name>pulse</name>
