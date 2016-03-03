@@ -1,0 +1,93 @@
+* expressions
+
+@ 바람을 넣다
+$ inflate
+
+@ 상품
+$ merchandise
+
+@ 그들 자신 
+$ themselves
+
+@ (기타같은 것을) 치다
+$ strumming
+
+@ 인사하다
+$ bowing
+
+@ 현악기
+$ stringed instruments
+
+@ 홀짝이다
+$ sipping
+
+@ 공중전화
+$ payphone
+
+@ ~에 기대다
+$ leaning over
+
+@ 손잡이
+$ knobs
+
+@ 교통체증을 피하다
+$ be ahead of the traffic
+
+@ 박수(갈채) 
+$ applause
+
+@ 사기 (사기를 북돋우다 할 때)
+$ morale
+
+@ 연기하다 (미루다)
+$ postphone
+
+@ 연간
+$ annual
+
+@ 전시회
+$ exhibition
+
+@ 보여주다, 나타내다
+$ indicate
+
+@ 명백한 증거
+$ clear evidence
+
+@ 주장하다
+$ insist
+
+@ 성실함
+$ sincerity
+
+@ 연설하다
+$ address
+
+@ 집중적인
+$ intensive
+
+@ 10년
+$ decade
+
+@ 사회적인
+$ social
+
+@ 사교적인
+$ sociable
+`
+@ 가까운 미래에
+$ in the near future
+
+@ 알려진
+$ publicized
+
+
+
+
+
+
+
+
+
+
+
