@@ -21,7 +21,10 @@ var source = {
 				return new Promise(function(success) {
 					success();
 				});
-			});
+			}).fail(function(error) {
+                alert(error);
+            });
+
 		},
 		load: function(obj) {
 			source.data = [];
