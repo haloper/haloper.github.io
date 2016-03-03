@@ -10,7 +10,8 @@ var source = {
 			}
 			return $.ajax({
 	            type:"GET",
-	            url:url
+	            url:url,
+                dataType:"json"
 			}).done(function(json) {
 				if(typeof json == "string") {
 					source.config = $.parseJSON(json);
