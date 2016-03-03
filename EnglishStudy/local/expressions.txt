@@ -1,0 +1,760 @@
+
+* expressions
+
+@ 직원
+$ employee
+
+@ 감기 조심하세요
+$ take care of catch a cold
+
+@ 마음껏 뛰어놀다
+$ run and play freely
+
+@ 넓은
+$ spacious
+
+@ 예고편
+$ trailer
+
+
+@ 평균적으로
+$ on everage
+
+@ 규칙적으로
+$ regularly
+
+@ 초대해 주셔서 감사합니다
+$ Thank you for inviting me
+
+@ 근면한, 부지런한
+$ industrious
+
+
+@ 처음 이사온 이후로
+$ since I first moved in
+
+@ 3일 동안 계속 된다
+$ last for three days
+
+@ 그게 내가 ~을 좋아하는 이유야
+$ That's what I like about ~
+
+@ 얇다
+$ thin
+
+@ 고속도로 입구
+$ expressway entrance
+
+@ 필요한
+$ necessary
+
+@ 시청
+$ city hall
+
+@ 불편하다
+$ uncomfortable
+
+
+
+@ 아래로
+$ below
+
+@ 계단을 올라가다
+$ come up the stairs
+
+@ 아이용 물놀이장
+$ padding pool
+
+@ 주로
+$ mostly
+
+@ 침구류
+$ bedding
+
+@ 해양 스포츠
+$ water sport
+
+@ 마사지 받다
+$ get massage
+
+@ 쇼를 관람하다
+$ watch a show
+
+@ 느긋한
+$ easy going
+
+@ 여유로움을 느끼다
+$ feel relaxed
+
+
+
+@ 강가를 따라서
+$ along the river
+
+@ ~ 또한
+$ ~ as well
+
+@ 부상을 조심하다
+$ watch out for injuries
+ 
+@ 신발을 신다
+$ wear shoes
+
+@ 생각을 정리하다
+$ collect my thoughts
+
+@ 첫번째로,
+$ first of all
+
+@ A와 B 사이에는 차이점이 있다.
+$ There are differences between A and B
+
+@ 이곳에서 2년 동안 살았다
+$ I have been living here for two years
+
+@ 조깅을 가다
+$ go jogging
+
+@ 가족들과 모이다
+$ get together with family
+
+@ 성격 좋은
+$ easy-going
+
+@ 다정한
+$ nice
+
+@ 어지러워진
+$ messy
+
+@ 널찍한
+$ spacious
+
+@ 아늑한
+$ cozy
+
+@ 아파트 단지
+$ an apartment complex
+
+@ 주차장
+$ a parking lot
+
+@ 놀이터
+$ a playground
+
+@ 반면에
+$ on the other hand
+
+@ ~와 비교하면
+$ compared to ~
+
+@ 공통점
+$ similarities
+
+@ 다시 꾸미다
+$ redecorated
+
+@ 책장
+$ bookshelf
+
+@ 서랍장 (작은거)
+$ a drawer
+
+@ 서랍장 (큰거)
+$ a dresser
+
+@ 화장대
+$ dressing table
+
+@ 옷장
+$ a closet
+
+@ 내 기분을 up시켜주다
+$ cheer me up
+
+@ 확인하다
+$ check out
+
+@ 산책하다
+$ take a work
+
+@ 걸어서
+$ on foot
+
+@ 남자 주인공
+$ a main actor
+
+@ 여자 주인공
+$ a main actress
+
+@ 만나도
+$ get together
+
+@ 요기하다
+$ grab a bite to eat
+
+@ 거대한
+$ huge
+
+@ 화려한 조명
+$ colorful rights
+
+@ 청중
+$ audience
+
+@ 공연장
+$ an auditorium
+
+@ 일주일에 두번
+$ twice a week
+
+@ 일년에 한번
+$ once a year
+
+@ 아주 가끔
+$ once in a while
+
+@ 2년에 한번
+$ every tow years
+
+@ 거의 매주 주말마다
+$ almost every weekend
+
+@ 추첨에서
+$ in a raffle
+
+@ 호수
+$ a lake
+
+@ 수영장
+$ public pools
+
+@ 시설
+$ facilities
+
+@ 사진을 찍다
+$ take a picture
+
+@ 평소 생활
+$ daily life
+
+@ 낮잠 자다
+$ take a nap
+
+@ 소나기를 만났다
+$ be caught in a shower
+
+@ 모기에 물리다
+$ be bitten by mosquitoes
+
+@ 진공청소기를 돌리다
+$ vacuum
+
+@ 분리수거 하다
+$ separate the trash
+
+@ 빨래를 널다
+$ hang out the laundry
+
+@ 빨래를 개다
+$ fold the laundry
+
+@ 가지고 다니기 쉬운
+$ easy to carry
+
+@ 직장 동료
+$ co-worker
+
+@ 친척들
+$ relatives
+
+@ 가족일
+$ family matter
+
+@ ~ 하곤 했었다
+$ used to ~
+
+@ 출근길에
+$ when I commute
+
+@ 자기 전에
+$ before I go to sleep
+
+@ 지루할때
+$ when I feel bored
+
+@ 스트레스 풀다
+$ relieve stress
+
+@ 기분을 좋게 해준다
+$ It put me in a good mood
+
+@ 가사가 감동적이다
+$ The lyrics are touching
+
+@ 가사에 공감하다
+$ empathize with the lyrics
+
+@ 따라 부르기 쉽다
+$ easy to sing along to
+
+@ 창피하다
+$ embarrassed
+
+@ 김치부친개
+$ kimchi pancakes
+
+@ 맛있는
+$ tasty
+
+@ 많은 사람이 좋아함
+$ a crowd-pleaser
+
+@ 요리 재료
+$ ingredients
+
+@ 끓는 물
+$ boiling water
+
+@ 간장으로 간을 맞추다
+$ season with the soy sauce
+
+@ ~ 하는 것을 독학했다
+$ I taught myself how to ~
+
+@ 짜다
+$ salty
+
+@ (맛이)밍밍하다
+$ bland
+
+@ 자전거를 타다
+$ ride a bicycle
+
+@ 살을 빼기 위해
+$ to lose weight
+
+@ 건강을 유지하기 위해
+$ to stay healthy
+
+@ 다이어트 하기로 결심하다
+$ I decided to go on a diet
+
+@ 운동을 통해 건강해지기로 결심했다.
+$ I decided to get fit by doing evercise
+
+@ 건강을 유지하기 위해
+$ to stay healthy
+
+@ 수영 강사가 수영을 가르쳐 주었다.
+$ My swimming instructor taught me how to swim.
+
+@ 워밍업을 하다
+$ do some warming-up
+
+@ 최소 30분
+$ at least 30 minutes
+
+@ 30분 이상
+$ more than 15 minutes
+
+@ 인공 호수
+$ an artificial lake
+
+@ 편안한 옷
+$ comfortable clothes
+
+@ 트래이닝 바지
+$ sweatpants
+
+@ 옷을 갈아입다
+$ change clothes
+
+@ 아령을 들다
+$ lift dumbbells
+
+@ 대화를 나누다
+$ have a conversation
+
+@ 몇 달전
+$ serveral months ago
+
+@ 악기
+$ musical instruments
+
+@ 지역 별미를 먹어보다
+$ try local specialties
+
+@ 아름다운 풍경
+$ beautiful scenery
+
+@ 투명하게 맑다
+$ crystal clear
+
+@ 관광지를 방문하다
+$ visit tourist attractions
+
+@ 놀이기구를 타다
+$ go on the rides
+
+@ 기념품을 사다
+$ buy souvenirs
+
+@ 친절한 현지인
+$ friendly locals
+
+@ 휴양지
+$ vacation spot
+
+@ 그곳은 ~으로 유명하다
+$ It is famous for ~
+
+@ 길을 물어보았다.
+$ I asked for direction
+
+@ 해변에서 쉬다
+$ relax at the beach
+
+@ 관광하다
+$ go sightseeing
+
+@ 휴대폰 충전기
+$ a cell phone charger
+
+@ 세면도구
+$ toiletries
+
+@ 숙박을 예약하다
+$ book accommodations
+
+@ lose to track of time
+$ 시간 가는줄 모르다
+
+@ 삼겹살 
+$ grilled pork strips
+
+@ 건강에 좋은
+$ good for health
+
+@ 반찬
+$ side dishes
+
+@ 고기
+$ meat
+
+@ 활기찬
+$ lively
+
+@ 많은 종류의 음식
+$ many different kinds of food
+
+@ 저렴한 가격
+$ reasonable prices
+
+@ 분위기
+$ atmosphere
+
+@ 찌개
+$ stew
+
+@ (음식의) 양이 많았다
+$ The portions were large
+
+@ 중독적인
+$ addictive
+
+@ 영양소
+$ nutrients
+
+@ 장보러 가다
+$ go grocery shopping
+
+@ ~ 쇼핑을 하러 가다
+$ go shopping for ~
+
+@ 세일을 하다
+$ have a clearance sale
+
+@ 일찍 자고 일찍 일어나다
+$ sleep and wake-up early
+
+@ 충분히 잠을 자다
+$ sleep enough
+
+@ 물을 많이 마시다
+$ drink lots of water
+
+@ 시력
+$ eyesight
+
+@ ~에 관해서라면
+$ when it comes to ~
+
+@ 전화 통화하다
+$ talk on the phone
+
+@ 약속
+$ appointment
+
+@ 원피스
+$ a dress
+
+@ 노출이 심한 옷
+$ skimpy clothes
+
+@ 교복
+$ school uniforms
+
+@ 놀러 나가다
+$ hang-out
+
+@ 산책하다
+$ take a walk
+
+@ 직원
+$ staff
+
+@ 효율적인
+$ ㄷㄹ랴챠둣
+
+@ 웃고 있다
+$ have a smile on the face
+
+@ 청원 경찰
+$ a security guard
+
+@ 소파
+$ couches
+
+@ 줄을 서서 기다리다
+$ waite in line
+
+@ 정수기
+$ a water purifier
+
+@ 안내 책자
+$ brochures
+
+@ 입금하다
+$ deposit money
+
+@ 출금하다
+$ withdraw money
+
+@ 이체하다
+$ transfer money
+
+@ 대출받다
+$ get a loan
+
+@ 은행계좌를 계설하다
+$ open a bank account
+
+@ 신용카드를 발급하다
+$ issue a credit card
+
+@ 추석
+$ Korean Tanksgiving Day
+
+@ 설날
+$ Korean New Year's Day
+
+@ 3일 동안 지속된다
+$ It lasts for three days.
+
+@ 고향
+$ hometowns
+
+@ 보름달에 소원을 빌다
+$ make a wish to the full-moon
+
+@ 용돈
+$ pocket money
+
+@ 동북아
+$ North East Asia
+
+@ ~으로 덮여있다
+$ cover with ~
+
+@ 반도
+$ peninsula
+
+@ 시립 도서관
+$ a city library
+
+@ 열람실
+$ a reference room
+
+@ 책을 빌리다
+$ check-out books
+
+@ 좌석을 예약하다
+$ reserve a seat
+
+@ 시끄럽게
+$ loudly
+
+@ 기사를 읽다
+$ read an article
+
+@ 재활용품
+$ recyclables
+
+@ 법으로 정해져 있다.
+$ It's required by law
+
+@ 제시간에
+$ on time
+
+@ 교통체증이 없다
+$ There is no traffic
+
+@ 환승
+$ transfer
+
+@ 교통카드
+$ transportation card
+
+@ 술집
+$ a pub
+
+@ 친구들과 놀다
+$ hang-out with friends
+
+@ 쌀쌀한
+$ chilly
+
+@ 안개낀
+$ foggy
+
+@ 찌는 듯한 더위
+$ boilling hot
+
+@ 폭풍우 치는
+$ stormy
+
+@ 습한
+$ humid
+
+@ 황사가 불어오다
+$ yellow dust blows
+
+@ 우기
+$ rainy season
+
+
+@ 흥미진진한
+$ exciting
+
+@ 편리한
+$ convenient
+
+@ 반도
+$ penisula
+
+
+
+
+
+
+
+* 질문하기
+
+@ 당신의 집의 위치는 어디인가요?
+$ Where is your house located?
+
+@ 누구와 함께 사나요?
+$ Who do you live with?
+
+@ 집에는 몇 개의 방이 있나요?
+$ How many rooms are there in your house?
+
+@ 그럼 여기까지 하겠습니다
+$ Okay, That's all
+
+@ 어떤 걸 사용하는 것을 선호하나요?
+$ Which one do you prefer to use?
+
+@ 대중교통을 얼마나 자주 사용하나요?
+$ How often do you use transportation?
+
+@ 캐나다의 어디에 머무를 건가요?
+$ Where will you stay in Canada?
+
+@ 캐나다에 어느분과 함께 갈건가요?
+$ Who will you go to Canada with?
+
+@ 왜 여행지로 캐나다를 선택했나요?
+$ Why did you choose Canada for your trip?
+
+@ 캐나다에 얼마나 오래 머무를 건가요?
+$ How long will you stay in Canada?
+
+@ 좋은 여행 되세요
+$ Have a nice trip
+
+@ 이미 예약을 하셨나요?
+$ Did you already book a room?
+
+@ 호텔에서 공항 픽업 서비스를 제공하나요?
+$ Does the hotel provide an airport-pickup service?
+
+@ 아침식사가 포함되어 있나요?
+$ Is the breakfast included?
+
+@ 주로 어디로 가나요?
+$ Where do you usually go?
+
+@ 누구와 주로 산책을 가나요?
+$ Who do you go for a work with?
+
+@ 산책하기 전에 주로 무엇을 하나요?
+$ What do you usually do before walking?
+
+@ 주로 어떤걸 쇼핑하세요?
+$ What do you usually go shopping with?
+
+@ 그 프로그램에서 가장 좋아하는 연예인이 누구인가요?
+$ Who is your favorite celebrity in the show?
+
+@ 서부  캐나다에 산이 많이 있나요?
+$ Are there many mountains in western Canada?
+
+@ 서부 캐나다에 가장 큰 호수가 무엇인가요?
+$ What is the biggest lake in western Canada?
+
+@ 가족 중에서 누구와 가장 가깝나요?
+$ Who are you closest to in your family?
+
+@ 아버지 연세가 어떻게 되시나요?
+$ How old is your father?
+
+@ 아버지께서는 무슨일을 하시나요?
+$ What does your father do?
+
+@ 가족은 총 몇명인가요?
+$ How manu people are there in your family?
+
+@ 어머니는 어떻게 생기셨나요?
+$ What does your mother look like?
+
+@ 소스를 얼만큼 사용하나요?
+$ How much sauce do you use?
+
+@ 얼마나 오래 피자를 굽나요?
+$ How long do you bake the pizza?
+
+@ 어떤 기름을 사용하나요?
+$ What kind of oil do you use?
+
+@ 마지막으로 통화한게 언제였나요?
+$ When did you last talk on the phone?
+
+@ 보통 얼마나 오래 통화하시나요?
+$ How long do you usually talk on the phone?
+
+
+
+
+
