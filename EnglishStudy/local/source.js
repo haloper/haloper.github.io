@@ -10,8 +10,7 @@ var source = {
 			}
 			return $.ajax({
 	            type:"GET",
-	            url:url,
-                dataType:"json"
+	            url:url
 			}).done(function(json) {
 				if(typeof json == "string") {
 					source.config = $.parseJSON(json);
@@ -22,7 +21,7 @@ var source = {
 				return new Promise(function(success) {
 					success();
 				});
-			}).fail(function(error) {
+			}).fail(function(data, error) {
                 alert(error);
             });
 
