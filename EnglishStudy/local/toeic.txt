@@ -81,10 +81,164 @@ $ in the near future
 @ 알려진
 $ publicized
 
+@ 사다리
+$ ladder
 
+@ 정리하다
+$ organize
 
+@ (자리를) 차지하다
+$ occupy
 
+@ 가위
+$ scissors
 
+@ 서류철
+$ folder
+
+@ 가구
+$ furniture
+
+@ 서류가방
+$ briefcase
+
+@ 복사하다
+$ making photocpies
+
+@ 화분
+$ potted plant
+
+@ 전신주
+$ telephone pole
+
+@ 외바퀴 수레
+$ whellbarrow
+
+@ 정비소
+$ garage
+
+@ 모이다
+$ gather
+
+@ 뿌리다
+$ scatter
+
+@ 접시
+$ plate
+
+@ (물을) 따르다
+$ pour
+
+@ 식사하다
+$ dine
+
+@ 상품
+$ merchandise
+
+@ 면밀히 살펴보다
+$ examine
+
+@ 여행 가방
+$ suitcase
+
+@ 기둥
+$ pillar
+
+@ 쟁반
+$ tray
+
+@ (오목한) 그룻
+$ bowl
+
+@ 쌓다
+$ pile up
+
+@ 식당 야외에서 음식을 먹는 장소
+$ patio
+
+@ 등받이가 없는 의자
+$ stool
+
+@ 앞치마
+$ apron
+
+@ (무엇의 두 부분을 연결하여) 매다[채우다];
+$ fasten 
+
+@ ~을 향해 손을 뻗다
+$ reach for ~
+
+@ 전시하다
+$ exhibite
+
+@ (유리) 닦다
+$ wipe 
+
+@ (거리를) 쓸다
+$ sweep
+
+@ 대걸래
+$ mop
+
+@ (먼지를) 털다
+$ dust
+
+@ 부두
+$ pier
+
+@ 난간
+$ railing
+
+@ 분수
+$ fountain
+
+@ 건널목
+$ crosswalk
+
+@ 승객
+$ passenger
+
+@ 출입구
+$ doorway
+
+@ 강둑
+$ riverbank
+
+@ 노를 젓다
+$ paddle
+
+@ 기대다
+$ lean
+
+@ 천장
+$ ceiling
+
+@ 탑승
+$ boarding
+
+@ 돛단배
+$ sailboat
+
+@ 수도꼭지
+$ faucet
+
+@ 계단
+$ staircase
+
+@ 눞다
+$ lie
+
+@ 인도
+$ workway
+
+@ 좁은길, 오솔길
+$ pathway
+
+@ 복도
+$ hallway
+
+@ 아치길
+$ archway
 
 
 
