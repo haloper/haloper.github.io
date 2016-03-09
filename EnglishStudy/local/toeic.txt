@@ -240,6 +240,32 @@ $ hallway
 @ 아치길
 $ archway
 
+@ 경비
+$ expense
+
+@ 회계
+$ accounting
+
+@ 부서
+$ department
+
+@ 인사팀
+$ human resources
+
+@ (건물) 관리인
+$ superintendent
+
+@ 가전제품
+$ appliance
+
+@ 특징
+$ feature
+
+@ 자격
+$ qualification
+
+@ 의식, 식
+$ ceremony
 
 
 
