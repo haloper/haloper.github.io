@@ -267,7 +267,98 @@ $ qualification
 @ 의식, 식
 $ ceremony
 
+@ 인사과
+$ personnel
 
+@ 직무
+$ duty
+
+@ 지점
+$ branch
+
+@ 개조하다
+$ renovate
+
+@ 여행 일정표
+$ itinerary
+
+@ 승인
+$ approval
+
+@ 은회
+$ retirement
+
+@ 정기적인
+$ regular
+
+@ 증명하다
+$ prove
+
+@ 공사
+$ construction
+
+@ 본사
+$ headquarters
+
+@ 사무용품
+$ office supplies
+
+@ 신청서
+$ application
+
+@ 발급하다
+$ issue
+
+@ 확장하다
+$ expand
+
+@ 재고
+$ inventory
+
+@ 영수증
+$ receipt
+
+@ 대회
+$ competition
+
+@ 정전
+$ power failure
+
+@ 전문가
+$ expert
+
+@ 수정
+$ correction
+
+@ 오탈자
+$ misprint
+
+@ 재료
+$ material
+
+@ 약국
+$ pharmacy
+
+@ 연회
+$ banquet
+
+@ 원고
+$ manuscript
+
+@ 개선하다
+$ improve
+
+@ 최신의
+$ brand-new
+
+@ 공식적인
+$ official
+
+@ 승진하다
+$ promote
+
+@ 남은음식들
+$ leftovers
 
 
 
