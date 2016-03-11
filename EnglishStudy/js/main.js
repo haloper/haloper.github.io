@@ -15,6 +15,7 @@ function reloadingSource(config) {
 var main = {
 		LINKED_WORD_FORMAT: "<a href='http://endic.naver.com/search.nhn?sLn=kr&isOnlyViewEE=N&query={{keyword}}' target='naver_dictionary'>{{keyword}}</a>",
 		GOOGLE_TRANSLATE: "https://translate.google.co.kr/#en/ko/",
+        IMAGE_SEARCH: "<a href='https://www.google.co.kr/search?q={{keyword}}&newwindow=1&source=lnms&tbm=isch&sa=X' target='google_image'>Image</a>",
 		eventBinding: function() {
 			$("#check").bind("click", this.check);
 			$("#next").bind("click", this.next);
@@ -25,11 +26,13 @@ var main = {
 		},
 		check: function(event) {
 			$("#answer").show();
+            $("#image").show();
 		},
 		next: function(event) {
 			var data = source.next();
 			
 			$("#answer").hide();
+            $("#image").hide();
 			
 			$("#lastAnswer").html("").hide();
 			if(localStorage["question" + source.index]) {
@@ -42,6 +45,7 @@ var main = {
 			
 			$("#question").html(main.toLink(data.question));
 			$("#answer").html(main.toLink(data.answer));
+            $("#image").html(main.IMAGE_SEARCH.replace(/{{keyword}}/g, data.answer.trim()));
 			if(data.keyword) {
 				$("#keyword").html(data.keyword);
 				$("#keyword").parent().show();
