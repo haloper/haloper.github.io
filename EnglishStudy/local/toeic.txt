@@ -360,5 +360,147 @@ $ promote
 @ 남은음식들
 $ leftovers
 
+@ 천, 섬유
+$ fabric
 
+@ (시간이) 짧은
+$ brief
+
+@ 지원
+$ assistance
+
+@ 제안
+$ proposal
+
+@ 관리자
+$ supervisor
+
+@ 동료
+$ colleague
+
+@ 탑승하다
+$ board
+
+@ 삽화
+$ artwork
+
+@ 안내책자
+$ brochure
+
+@ 준비하다, 계획하다
+$ organize
+
+@ 선호하다
+$ prefer
+
+@ 이력서
+$ resume
+
+@ 소매
+$ retail
+
+@ 예산
+$ budget
+
+@ 환영회
+$ reception
+
+@ 교통체증에 걸리다
+$ be stuck in traffic
+
+@ ~을 받을 만하다
+$ deserve
+
+@ 시안
+$ draft
+
+@ 출퇴근
+$ commute
+
+@ 약속
+$ appointment
+
+@ 의도하다
+$ intend
+
+@ 처방(전)
+$ prescription
+
+@ 회계
+$ accounting
+
+@ 증상
+$ symptom
+
+@ 동행하다
+$ accompany
+
+@ 평가
+$ evaluation
+
+@ 전략
+$ strategy
+
+@ 임원
+$ board member
+
+@ 정확한
+$ accurate
+
+@ 조각품
+$ sculpture
+
+@ 정비공
+$ mechanic
+
+@ 확인
+$ confirmation
+
+@ 재산, 부동산
+$ property
+
+@ 분명히
+$ definitely
+
+@ 수용하다
+$ accommodate
+
+@ 환자
+$ patient
+
+@ 출발하다
+$ depart
+
+@ 택배원
+$ courier
+
+@ 임대계약
+$ lease
+
+@ 행하다
+$ conduct
+
+@ 보증금
+$ deposit
+
+@ 위통
+$ stomachache
+
+@ 간호사
+$ nurse
+
+@ 보험
+$ insurance
+
+@ 건강 검진
+$ physical exam
+
+@ 부동산 중개인
+$ real estate agents
+
+@ 짐
+$ luggage
+
+@ 통로측 좌성
+$ aisle seat
 
