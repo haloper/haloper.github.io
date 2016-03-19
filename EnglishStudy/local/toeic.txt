@@ -504,3 +504,95 @@ $ luggage
 @ 통로측 좌성
 $ aisle seat
 
+@ 배관공
+$ plumber
+
+@ 지원하다
+$ apply
+
+@ 부동산
+$ property
+
+@ 신원확인
+$ idenfitication
+
+@ 캠핑 용품
+$ camping gear
+
+@ 의류
+$ apparel
+
+@ 재고
+$ stock
+
+@ 현장에서
+$ on site
+
+@ 과다 청구하다
+$ overcharge
+
+@ 배송하다
+$ ship
+
+@ 일손이 부족한
+$ understaffed
+
+@ 오작동하다
+$ malfunction
+
+@ 사용 설명서
+$ instructions
+
+@ 수송
+$ transit
+
+@ 미리
+$ in advance
+
+@ 재고가 있는
+$ in stock
+
+@ 선물 포장하다
+$ gift-wrap
+
+@ 아는것이 많은
+$ knowledgeable
+
+@ 공급업체
+$ supplier
+
+@ 투자자
+$ investor
+
+@ 계약서
+$ agreement
+
+@ 전체의
+$ entire
+
+@ 시설
+$ facility
+
+@ 분기별의
+$ quarterly
+
+@ 잠재적인
+$ potential
+
+@ 지원자
+$ volunteer
+
+@ 경쟁자
+$ competitor
+
+@ 보장하다
+$ ensure
+
+@ 기금 모음
+$ fundraising
+
+@ 경쟁력을 갖춘
+$ competitive
+
+
+
