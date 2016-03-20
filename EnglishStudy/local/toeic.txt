@@ -594,5 +594,194 @@ $ fundraising
 @ 경쟁력을 갖춘
 $ competitive
 
+@ 회계사
+$ accountant
 
+@ 문의하다
+$ inquire
 
+@ 이력서
+$ resume
+
+@ 요금
+$ fee
+
+@ 전근가다
+$ tranfer
+
+@ 준비하다
+$ arrange
+
+@ 지원자
+$ candidate
+
+@ 경영
+$ management
+
+@ 결근한
+$ absent
+
+@ 야간 근무
+$ night shift
+
+@ 제한하다
+$ restrict
+
+@ 예산
+$ budget
+
+@ 경비
+$ expenses
+
+@ 숙박
+$ accommodation
+
+@ 부서
+$ devision
+
+@ 마감 기한인
+$ due
+
+@ 실험실
+$ laboratory
+
+@ 밝혀내다
+$ identified
+
+@ 수익
+$ profit
+
+@ 환급
+$ reimbursement
+
+@ 마감기한에 맞추다
+$ meet the deadline
+
+@ 최종안
+$ final draft
+
+@ 국내에서
+$ domestically
+
+@ 오솔길
+$ trail
+
+@ 현대의
+$ contemporary
+
+@ 설립하다
+$ found
+
+@ 성과
+$ achievement
+
+@ 고위직의
+$ senior
+
+@ (생물의) 종
+$ species
+
+@ 내과 의사
+$ physician
+
+@ 야생 동물
+$ wildlife
+
+@ 개인의
+$ individual
+
+@ 노령자
+$ elderly
+
+@ 기부
+$ donation
+
+@ 간식
+$ refreshments
+
+@ 기조 연설자
+$ keynote speaker
+
+@ 유인물
+$ handout
+
+@ 안전 수칙
+$ safety mesures
+
+@ 대저택
+$ mansion
+
+@ ~에 덧붙여
+$ along with
+
+@ 강의
+$ lecture
+
+@ 참가자 수
+$ turnout
+
+@ 임시로
+$ temporarily
+
+@ 출발
+$ departure
+
+@ 곧 있을
+$ upcoming
+
+@ 지침
+$ instruction
+
+@ 자주
+$ frequently
+
+@ 대략
+$ approximately
+
+@ 시행하다
+$ implement
+
+@ 감축하다
+$ downsize
+
+@ 규정
+$ regulation
+
+@ 급여
+$ wage
+
+@ 추정(치)
+$ estimate
+
+@ 점검
+$ inspection
+
+@ 다가오다
+$ approaching
+
+@ 불편
+$ inconvenience
+
+@ 사인
+$ autograph
+
+@ 특집으로 다루다
+$ feature
+
+@ 금지하다
+$ prohibit
+
+@ 해소하다
+$ free up
+
+@ 사무원
+$ clerk
+
+@ 침입하다
+$ break in
+
+@ ~때문에
+$ due to
+
+@ 동네
+$ neighborhood
