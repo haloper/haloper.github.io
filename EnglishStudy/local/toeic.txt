@@ -785,3 +785,143 @@ $ due to
 
 @ 동네
 $ neighborhood
+
+@ 직원
+$ crew
+
+@ 제한 사항
+$ restriction
+
+@ 마련하다
+$ arrange
+
+@ 기관
+$ institution
+
+@ 분위기
+$ atmosphere
+
+@ (물이) 새다
+$ leak
+
+@ ~에 관하여
+$ regarding
+
+@ 고문
+$ advisor
+
+@ (판매) 대리인
+$ representative
+
+@ 통화를 끊지 않고 대기하다
+$ stay on the line
+
+@ 직접
+$ in person
+
+@ 편집장
+$ editor-in-chief
+
+@ (교통)체증
+$ congrestion
+
+@ 대안(의)
+$ alternative
+
+@ 토론
+$ debate
+
+@ 재개하다
+$ resume
+
+@ 세계적인 명성을 가진
+$ world-renowned
+
+@ 대변인
+$ spokesperson
+
+@ 만나다
+$ encounter
+
+@ 장소
+$ venue
+
+@ 주민
+$ resident
+
+@ 기부자
+$ donor
+
+@ 부족
+$ shortage
+
+@ 법안
+$ bill
+
+@ 입장, 가입
+$ admission
+
+@ 공무원
+$ official
+
+@ 주파수를 맞추다
+$ tuning in
+
+@ (날씨가) 개다
+$ clear up
+
+@ 우회(로)
+$ detour
+
+@ 방송국
+$ station
+
+@ 시청자
+$ viewer
+
+@ 설립자
+$ founder
+
+@ (가격이) 적절한
+$ affordable
+
+@ 가정
+$ household
+
+@ 강조하다
+$ emphasize
+
+@ 식료품류
+$ groceries
+
+@ 제품
+$ goods
+
+@ 유행이 지난
+$ outdated
+
+@ 다듬다
+$ trim
+
+@ 파티, 연회
+$ feast
+
+@ 측정하다
+$ measure
+
+@ 원예
+$ gardening
+
+@ 독점적으로
+$ exclusively
+
+@ 세제
+$ laundry detergent
+
+@ 유효한
+$ good
+
+@ 무료
+$ free of charge
+
+
