@@ -924,4 +924,117 @@ $ good
 @ 무료
 $ free of charge
 
+@ 주제의, 주제와 관련된
+$ thematic
+
+@ 만족하다
+$ satisfy
+
+@ 일반적으로
+$ polularly
+
+@ 인기 있는
+$ popular
+
+@ 대중화하다
+$ popularize
+
+@ 인기
+$ popularity
+
+@ 상당한, 커다란
+$ significant
+
+@ 공헌
+$ contribution
+
+@ 선택 장치
+$ selector
+
+@ 선택 가능한 것들
+$ selection
+
+@ 선택적인
+$ selective
+
+@ 비서
+$ secretary
+
+@ 꽃병
+$ vase
+
+@ 강사
+$ instructor
+
+@ 사회성
+$ sociability
+
+@ 구성하다
+$ compose
+
+@ 합성의
+$ composite
+
+@ 백만장자
+$ millionaire
+
+@ 복리후생
+$ benefit
+
+@ 지명하다
+$ appoint
+
+@ 임명하다
+$ name
+
+@ (기업)합병
+$ merger
+
+@ 숙달
+$ expertness
+
+@ 전문적 의견을 말하다
+$ expertize
+
+@ 인정하다
+$ recognize
+
+@ 비평가
+$ critic
+
+@ 추천
+$ recommendation
+
+@ 수업료
+$ tuituion
+
+@ 탁월성
+$ excellence
+
+@ 제출
+$ submission
+
+@ 선거
+$ election
+
+@ 꾸준한
+$ steady
+
+@ 성장
+$ growth
+
+@ 무심코
+$ absently
+
+@ 불참자
+$ absentee
+
+@ 부재
+$ absence
+
+@ 의도
+$ intention
+
+@ 확신하는
+$ confident
 
