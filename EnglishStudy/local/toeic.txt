@@ -1038,3 +1038,48 @@ $ intention
 @ 확신하는
 $ confident
 
+@ 해외로
+$ abroad
+
+@ (비록) ~ 일지라도
+$ although
+
+@ 헌신하다
+$ devote
+
+@ 확고히 하다
+$ establish
+
+@ 추가 요금
+$ surcharge
+
+@ 수입품
+$ imported product
+
+@ 부과하다
+$ impose
+
+@ 콘센트
+$ outlet
+
+@ 접수원
+$ receptionist
+
+@ 출장 부페 업자
+$ caterer
+
+@ 거주하다
+$ reside
+
+@ 시장
+$ mayor
+
+@ 자선단체
+$ charity
+
+@ 세입자
+$ tenant
+
+@ 다과
+$ refreshments
+
