@@ -1083,3 +1083,185 @@ $ tenant
 @ 다과
 $ refreshments
 
+@ 구별하다
+$ distinguish
+
+@ 필수적인
+$ essential
+
+@ 감독하다
+$ oversee
+
+@ 장애가 있는
+$ disabled
+
+@ 제약회사
+$ pharmaceuticals
+
+@ 근무중인
+$ on duty
+
+@ 감독
+$ foreman
+
+@ 설득하다
+$ persuade
+
+@ 우울한
+$ groomy
+
+@ (회사의) 이사
+$ director
+
+@ 집주인
+$ landlord
+
+@ 점검하다
+$ inspect
+
+@ 물이 새는
+$ leaky
+
+@ 지팡이
+$ cane
+
+@ 예측하다
+$ predict
+
+@ 운동하다
+$ exercise
+
+@ 적절한
+$ appropriate
+
+@ 위원회
+$ committee
+
+@ 정화기
+$ purifier
+
+@ 부탁을 하다
+$ ask for favor
+
+@ 통찰력
+$ insight
+
+@ 가급적 빨리
+$ at your earlist convenience
+
+@ 외모
+$ appearance
+
+@ 전통
+$ tradition
+
+@ 요구하다
+$ demand
+
+@ 접근
+$ approach
+
+@ 긴장한
+$ nervous
+
+@ (알람이) 울리다
+$ go off
+
+@ 수입하다
+$ import
+
+@ 해외
+$ overseas
+
+@ 약
+$ medication
+
+@ 출입국 관리관
+$ immigration officer
+
+@ 보상
+$ reward
+
+@ 장점, 강점
+$ strength
+
+@ 식사 손님
+$ diner
+
+@ 얼룩
+$ spot
+
+@ 보존하다
+$ preserve
+
+@ 희귀한
+$ rare
+
+@ 윤곽을 보여주다
+$ outline
+
+@ ~에 익숙하다
+$ be used to ~ing
+
+@ ~에 반대하다
+$ object to ~ing
+
+@ ~을 기대하다
+$ look forward to ~ing
+
+@ ~에 헌신하다
+$ be committed to ~ing
+
+@ 좀더
+$ further
+
+@ ~하느라 바쁘다
+$ be bush ~ing
+
+@ ~하는 데 어려움을 겪다
+$ have difficulty ~ing
+
+@ ~해도 소용없다
+$ be no use ~ing
+
+@ ~할 가치가 있다
+$ be worth ~ing
+
+@ ~하지 않을 수 없다
+$ cannot help ~ing
+
+@ ~하는데 시간을 보내다
+$ spend time ~ing
+
+@ 부동산 중개인
+$ realtor
+
+@ 규제, 규정
+$ regulation
+
+@ 학사 학위
+$ bachelor's degree
+
+@ 충성
+$ royalty
+
+@ 주문하다
+$ place an order
+
+@ 전채요리
+$ appetizer
+
+@ ~에 동의하다, ~와 어울리다
+$ go along with
+
+@ 역시
+$ as well
+
+@ 억제하다
+$ curb
+
+@ 불경기
+$ recession
+
+@ 전체적인
+$ overall
