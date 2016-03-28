@@ -1265,3 +1265,68 @@ $ recession
 
 @ 전체적인
 $ overall
+
+@ 풍경
+$ landscape
+
+@ 사려 깊은
+$ considerate
+
+@ 알아볼 수 있는
+$ recognizable
+
+@ 책임이 있는
+$ responsible
+
+@ 간주하다
+$ consider
+
+@ 이용 가능한
+$ accessible
+
+@ 고정된
+$ steady
+
+@ 농산물
+$ produce
+
+@ 가파른, 급격한
+$ steep
+
+@ 신뢰하다
+$ rely
+
+@ 신뢰할 만한
+$ reliable
+
+@ 매우
+$ extremely
+
+@ 해안가, 부둣가
+$ waterfront
+
+@ 가치가 있는
+$ worth
+
+@ 협력하는
+$ cooperative
+
+@ 결함이 있는
+$ defective
+
+@ 유익한
+$ informative
+
+@ ~에도 불구하고
+$ despite
+
+@ 효과적이지 못한
+$ ineffective
+
+@ 적임의
+$ eligible
+
+@ 성취하다
+$ accomplish
+
+
