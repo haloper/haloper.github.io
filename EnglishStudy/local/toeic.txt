@@ -1329,4 +1329,82 @@ $ eligible
 @ 성취하다
 $ accomplish
 
+@ 너무나 추운
+$ freezing
+
+@ 노숙자 보호소
+$ homeless shelter
+
+@ 보람있는
+$ rewarding
+
+@ 전념하는, 헌신적인
+$ dedicated
+
+@ 정교한, 세련된
+$ sophisticated
+
+@ 교육생
+$ trainee
+
+@ (빚을) 청산하다
+$ pay off
+
+@ 빚
+$ debt
+
+@ 여전히 ~이다
+$ remain
+
+@ 미지불의
+$ unsettled
+
+@ 물이 흐르는 것
+$ water running
+
+@ 시력
+$ vision
+
+@ 사임
+$ resignation
+
+@ 지명
+$ nomination
+
+@ 힘든
+$ demanding
+
+@ 최근의
+$ latest
+
+@ 실험
+$ experiment
+
+@ 자원하다
+$ volunteer
+
+@ 기밀의
+$ classified
+
+@ 단호한
+$ determined
+
+@ 사려 깊은
+$ considerate
+
+@ 보람있는
+$ rewarding
+
+@ 복잡한
+$ complicated
+
+@ 돌보다, 관리하다
+$ look after
+
+@ 결정하다
+$ determine
+
+@ 독립적인
+$ dependent
+
 
