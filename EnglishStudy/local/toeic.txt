@@ -1407,4 +1407,53 @@ $ determine
 @ 독립적인
 $ dependent
 
+@ 일정에 뒤쳐진
+$ behind schedule
+
+@ 간결한, 간단명료한
+$ to the point
+
+@ 탑승한
+$ on board
+
+@ 집에 있는 것처럼 편히 쉬다
+$ make oneself at home
+
+@ 통제되는
+$ under control
+
+@ (기준) 보다 높은
+$ above
+
+@ (기준) 보다 낮은
+$ below
+
+@ (셋 이상) 사이에
+$ among
+
+@ 수요가 있는
+$ in demand
+
+@ 운동화
+$ athletic shoes
+
+@ 책임을 맡고 있는
+$ in charge
+
+@ 고장난
+$ out of order
+
+@ 공손함
+$ courtesy / 채ㅕㄱㅅ대ㅕ눋ㄴㄴ
+
+@ 예의 바르게
+$ courteously
+
+@ 공손한, 예의 있는
+$ courteous
+
+@ 소지품
+$ possenssions
+
+
 
