@@ -74,7 +74,7 @@ $ social
 
 @ 사교적인
 $ sociable
-`
+
 @ 가까운 미래에
 $ in the near future
 
@@ -285,7 +285,7 @@ $ itinerary
 @ 승인
 $ approval
 
-@ 은회
+@ 은퇴
 $ retirement
 
 @ 정기적인
@@ -1444,7 +1444,7 @@ $ in charge
 $ out of order
 
 @ 공손함
-$ courtesy / 채ㅕㄱㅅ대ㅕ눋ㄴㄴ
+$ courtesy
 
 @ 예의 바르게
 $ courteously
