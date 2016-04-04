@@ -1006,7 +1006,7 @@ $ critic
 $ recommendation
 
 @ 수업료
-$ tuituion
+$ tuition
 
 @ 탁월성
 $ excellence
