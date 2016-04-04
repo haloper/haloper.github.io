@@ -1455,5 +1455,99 @@ $ courteous
 @ 소지품
 $ possenssions
 
+@ 확실한
+$ definite
+
+@ 이례적인, 특출한
+$ exceptional
+
+@ 대담한, 과감한
+$ bold
+
+@ 유익한
+$ benificial
+
+@ 예방하다
+$ prevent
+
+@ 이상적인
+$ ideal
+
+@ 대체품
+$ replacement
+
+@ 동등한
+$ equivalent
+
+@ 현대의, 동시대의
+$ contemporary
+
+@ 지하층
+$ basement
+
+@ 작물
+$ crop
+
+@ ~ 와는 반대로
+$ contrary to ~
+
+@ 경제적인
+$ economical
+
+@ 상당한
+$ considerable
+
+@ 기밀의
+$ confidential
+
+@ 각각의
+$ respective
+
+@ 근면한
+$ industrious
+
+@ 연속적인
+$ successive
+
+@ 공해
+$ pollution
+
+@ 예측하다
+$ predict
+
+@ 가장 멀리
+$ farthest
+
+@ 더 멀리
+$ farther
+
+@ 훨씬, 단연코
+$ by far
+
+@ 조심스러운
+$ cautious
+
+@ 유리한
+$ advantageous
+
+@ 엄청난
+$ enormous
+
+@ 엄청남
+$ enormity
+
+@ 급한
+$ urgent
+
+@ 조건부의
+$ conditional
+
+@ 당일의
+$ overnight
+
+@ 상호적인
+$ mutual
+
+
 
 
