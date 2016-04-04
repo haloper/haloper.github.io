@@ -1548,6 +1548,84 @@ $ overnight
 @ 상호적인
 $ mutual
 
+@ 동기부여된
+$ motivated
 
+@ 지정된
+$ designated
 
+@ 지정하다
+$ designate
+
+@ 견적의
+$ estimated
+
+@ 평가자, 견적인
+$ estimator
+
+@ 고객
+$ patron
+
+@ 연속적인
+$ lasting
+
+@ 기한이 지난
+$ overdue
+
+@ 휴게실
+$ lounge
+
+@ 기념품
+$ souvenir
+
+@ 금지된
+$ prohibited
+
+@ 예금하다
+$ deposit
+
+@ 발견하다
+$ discover
+
+@ (법 등에) 따르다
+$ comply with
+
+@ 규제하다
+$ regulate
+
+@ ~을 전문으로 하다
+$ specialize in ~
+
+@ 유명인사, 연예인
+$ celebrity
+
+@ 조짐을 보이다
+$ promise
+
+@ 유망한
+$ promising
+
+@ 두드러진
+$ distinguishing
+
+@ 뚜껑
+$ lid
+
+@ 동봉하다, 둘러싸다
+$ enclose
+
+@ 실용적인
+$ practical
+
+@ 기량이 뛰어난
+$ accomplished
+
+@ 지정된
+$ reserved
+
+@ 이로운
+$ beneficial
+
+@ 먼
+$ distant
 
