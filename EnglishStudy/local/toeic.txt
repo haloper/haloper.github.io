@@ -501,7 +501,7 @@ $ real estate agents
 @ 짐
 $ luggage
 
-@ 통로측 좌성
+@ 통로측 좌석
 $ aisle seat
 
 @ 배관공
@@ -1628,4 +1628,48 @@ $ beneficial
 
 @ 먼
 $ distant
+
+@ 확인하다
+$ verify
+
+@ 수정하다
+$ revise
+
+@ 생산성
+$ productivity
+
+@ 신장시키다, 북돋우다
+$ boost
+
+@ ~이 없다. 부족하다
+$ lack
+
+@ 바램, 갈망
+$ desire
+
+@ 시도하다
+$ make and attempt
+
+@ 안전상의 위험요소
+$ safety hazard
+
+@ 비극적인
+$ tragic
+
+@ 참사, 재난
+$ disaster
+
+@ 학기
+$ semester
+
+@ 선언하다
+$ declare
+
+@ 자동차 부품
+$ auto parts
+
+@ 허락하다
+$ permit
+
+
 
