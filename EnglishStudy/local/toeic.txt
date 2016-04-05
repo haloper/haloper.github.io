@@ -1453,7 +1453,7 @@ $ courteously
 $ courteous
 
 @ 소지품
-$ possenssions
+$ possessions
 
 @ 확실한
 $ definite
