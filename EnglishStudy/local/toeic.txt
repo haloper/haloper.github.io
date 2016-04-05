@@ -40,7 +40,7 @@ $ applause
 $ morale
 
 @ 연기하다 (미루다)
-$ postphone
+$ postpone
 
 @ 연간
 $ annual
