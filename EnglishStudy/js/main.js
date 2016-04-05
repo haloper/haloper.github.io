@@ -16,6 +16,7 @@ var main = {
 		LINKED_WORD_FORMAT: "<a href='http://endic.naver.com/search.nhn?sLn=kr&isOnlyViewEE=N&query={{keyword}}' target='naver_dictionary'>{{keyword}}</a>",
 		GOOGLE_TRANSLATE: "https://translate.google.co.kr/#en/ko/",
         IMAGE_SEARCH: "<a href='https://www.google.co.kr/search?q={{keyword}}&newwindow=1&source=lnms&tbm=isch&sa=X' target='google_image'>Image</a>",
+        position : '',
 		eventBinding: function() {
 			$("#check").bind("click", this.check);
 			$("#next").bind("click", this.next);
@@ -23,11 +24,21 @@ var main = {
 			$("#last").bind("click", this.last)
 			$("#text").bind("change", this.writing);
 			$("#sourceSelect").bind("change", this.sourceChange);
+            $("#changePosition").bind("click", this.changePosition);
 		},
 		check: function(event) {
 			$("#answer").show();
             $("#image").show();
 		},
+        changePosition: function(event) {
+            if(main.position != 'reverse') {
+                main.position = 'reverse';
+            }
+            else {
+                main.position = '';
+            }
+            localStorage['position'] = main.position;
+        },
 		next: function(event) {
 			var data = source.next();
 			
@@ -43,8 +54,8 @@ var main = {
 				$("#last").hide();
 			}
 			
-			$("#question").html(main.toLink(data.question));
-			$("#answer").html(main.toLink(data.answer));
+			$("#question").html(main.toLink(main.position != 'reverse' ? data.question : data.answer));
+			$("#answer").html(main.toLink(main.position != 'reverse' ? data.answer : data.question));
             $("#image").html(main.IMAGE_SEARCH.replace(/{{keyword}}/g, data.answer.trim()));
 			if(data.keyword) {
 				$("#keyword").html(data.keyword);
@@ -58,6 +69,7 @@ var main = {
 		},
 		load: function(event) {
 			source.load({keyword: "have"}).then(function() {
+                main.position = localStorage['position'];
 				main.next();
 				$("#total").text(source.length);
 			});
