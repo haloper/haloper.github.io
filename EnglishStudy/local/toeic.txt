@@ -1671,5 +1671,82 @@ $ auto parts
 @ 허락하다
 $ permit
 
+@ 다 떨어지다
+$ run out
+
+@ 칭찬하다
+$ praise
+
+@ 절실한
+$ desperate
+
+@ 봉투
+$ envelope
+
+@ ~을 감안하여
+$ considering
+
+@ 수익성이 있는
+$ profitable
+
+@ 상담
+$ consultation
+
+@ 광범위한
+$ comprehensive
+
+@ 권리
+$ right
+
+@ 예상하다
+$ anticipate
+
+@ 예상보다 많다
+$ higher than anticipated
+
+@ 공식적인
+$ formal
+
+@ 설득력 있는
+$ persuasive
+
+@ 길이가 긴
+$ lengthy
+
+@ 제시하다
+$ present
+
+@ 면
+$ cotton
+
+@ 천
+$ cloth
+
+@ 능력 있는
+$ talented
+
+@ 반영하다
+$ reflect
+
+@ 관리
+$ official
+
+@ 기다리다
+$ await
+
+@ (돈을) 벌다
+$ earn
+
+@ 많은
+$ a number of
+
+@ 연관된
+$ relevant
+
+@ 빨래
+$ laundry
+
+@ 자극하다
+$ stimulate
 
 
