@@ -1806,13 +1806,97 @@ $ suspect
 @ 존경하다
 $ respect
 
-@ acquire
-$ 획득하다
+@ 획득하다
+$ acquire
 
-@ require
-$ 필요로 하다
+@ 필요로 하다
+$ require
 
-@ inquire
-$ 묻다
+@ 묻다
+$ inquire
+
+@ 정중하게
+$ respectfully
+
+@ 일상적으로, 정기적으로
+$ routinely
+
+@ 상당히
+$ considerably
+
+@ 즉시
+$ promptly
+
+@ 철저히
+$ thoroughly
+
+@ 약간
+$ slightly
+
+@ 호의적으로
+$ favorably
+
+@ 실수로
+$ accidentally
+
+@ 적절히, 올바로
+$ properly
+
+@ 좁게, 제한적으로
+$ narrowly
+
+@ 분명히
+$ obviously
+
+@ 점점 더
+$ increasingly
+
+@ 아마, 짐작컨데
+$ presumably
+
+@ 유감스럽게
+$ regrettably
+
+@ 아마
+$ possibly
+
+@ 거의
+$ nearly
+
+@ 매우
+$ highly
+
+@ 곧
+$ shortly
+
+@ 최근에
+$ lately
+
+@ 요금
+$ fare
+
+@ 얼룩
+$ stain
+
+@ 늦어도 ~ 까지는
+$ no later than
+
+@ 그러는 동안에
+$ meanwhile
+
+@ 그러나
+$ still
+
+@ 재포장하다
+$ repave
+
+@ 뿐만 아니라
+$ furthermore
+
+@ 아주 넓은(많은)
+$ extensive
+
+@ 빚지다, 미납하다
+$ owe
 
 
