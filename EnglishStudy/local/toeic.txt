@@ -1749,4 +1749,70 @@ $ laundry
 @ 자극하다
 $ stimulate
 
+@ 행하다
+$ undergo
+
+@ 바로 지금
+$ at the moment
+
+@ 철저하게
+$ thoroughly
+
+@ 소지품
+$ belongings
+
+@ 주인없는
+$ unattended
+
+@ 버려진
+$ abandoned
+
+@ 넓은
+$ broad
+
+@ 넓히다
+$ broaden
+
+@ 수사
+$ investigation
+
+@ 놀라게 하다
+$ startle
+
+@ ~으로 평가하다
+$ regard
+
+@ 칭찬하다
+$ praise
+
+@ 주주
+$ stockholder
+
+@ 제시하다
+$ present
+
+@ 출입굽관리 사무소
+$ immigration
+
+@ 설문지
+$ questionnaire
+
+@ 검사하다
+$ inspect
+
+@ 의심하다
+$ suspect
+
+@ 존경하다
+$ respect
+
+@ acquire
+$ 획득하다
+
+@ require
+$ 필요로 하다
+
+@ inquire
+$ 묻다
+
 
