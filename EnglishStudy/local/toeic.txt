@@ -1899,4 +1899,33 @@ $ extensive
 @ 빚지다, 미납하다
 $ owe
 
+@ 두꺼운
+$ thick
+
+@ 유해한
+$ harmful
+
+@ ~의 부재시
+$ in one's absence
+
+@ 특히
+$ in particular
+
+@ 접하다
+$ encounter
+
+@ 보장하다. 확보하다
+$ guarantee
+
+@ (식물을)이식하다
+$ transplant
+
+@ 교류하다
+$ interact
+
+@ 의무적인
+$ mandatory
+
+
+
 
