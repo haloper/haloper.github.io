@@ -1926,6 +1926,78 @@ $ interact
 @ 의무적인
 $ mandatory
 
+@ ~의 소유이다
+$ belong to ~
+
+@ 하청업체
+$ contractor
+
+@ 정치인
+$ politician
+
+@ 모방하다
+$ mimic
+
+@ 옷, 복장
+$ outfit
+
+@ 고소하다
+$ file a complaint
+
+@ 식권
+$ meal voucher
+
+@ 뒤쪽의
+$ rear
+
+@ 뾰루지
+$ rash
+
+@ 베끼다
+$ transcribe
+
+@ 선행하다
+$ precede
+
+@ (한도를) 넘다
+$ exceed
+
+@ ~하도록 (목적)
+$ so that ~
+
+@ ~에도 불구하고
+$ even if
+
+@ ~ 이므로
+$ now that
+
+@ ~ 가 아니라면
+$ unless
+
+@ 냉장고
+$ refrigerator
+
+@ 부서지기 쉬운
+$ delicate
+
+@ 떨리다
+$ tremble
+
+@ 자선단체
+$ charity
+
+@ 인력
+$ workforce
+
+@ 수요를 충족시키다
+$ meet the demand
+
+@ 나중에
+$ afterward
+
+@ 밖으로
+$ outward
+
 
 
 
