@@ -1998,6 +1998,95 @@ $ afterward
 @ 밖으로
 $ outward
 
+@ ~에 관한
+$ concerning
+
+@ 조언하다 / 조언, 충고
+$ advise / advice
+
+@ 반응하다
+$ react
+
+@ 화가나서
+$ angrily
+
+@ 변호사
+$ attorney
+
+@ 낙관적인
+$ optimistic
+
+@ 의존하다
+$ rely
+
+@ 분명한, 눈에띄는
+$ evident
+
+@ 추구하다
+$ seek
+
+@ 조언의
+$ advisory
+
+@ 부서간의
+$ interdepartmental
+
+@ 친척
+$ relative
+
+@ 비교적
+$ relatively
+
+@ 불안해하는
+$ anxious
+
+@ 불만
+$ frustration
+
+@ 완화하다, 덜다
+$ alleviate
+
+@ 의무
+$ obligation
+
+@ 가죽끈
+$ leash
+
+@ (여행의) 한 구간
+$ leg
+
+@ 무도회
+$ ball
+
+@ 놀랍게도
+$ surprisingly
+
+@ 운전 기사
+$ chauffeur
+
+@ 실수로
+$ mistakenly
+
+@ 방부제
+$ preservative
+
+@ 창립자, 주최자
+$ organizer
+
+@ 상
+$ prize
+
+@ 창조성
+$ creativity
+
+@ 많은 다수의
+$ multiple
+
+@ (미국 정부의) 부서
+$ bureau
+
+@ 발생시키다. 초래하다
+$ incur
 
 
 
