@@ -1749,7 +1749,7 @@ $ laundry
 @ 자극하다
 $ stimulate
 
-@ 행하다
+@ (안좋은 일이나 변화를) 겪다
 $ undergo
 
 @ 바로 지금
