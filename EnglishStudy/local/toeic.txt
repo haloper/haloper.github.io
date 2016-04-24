@@ -1404,7 +1404,7 @@ $ look after
 @ 결정하다
 $ determine
 
-@ 독립적인
+@ 의존하는
 $ dependent
 
 @ 일정에 뒤쳐진
