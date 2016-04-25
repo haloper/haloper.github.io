@@ -2088,5 +2088,128 @@ $ bureau
 @ 발생시키다. 초래하다
 $ incur
 
+@ 어구
+$ phrase
+
+@ 철저한
+$ thorough
+
+@ 점점 더
+$ increasingly
+
+@ 상
+$ prize
+
+@ (맛이) 신
+$ sour
+
+@ 심하게
+$ heavily
+
+@ 자신감 있는
+$ confident
+
+@ 적절한
+$ proper
+
+@ 마지막 순간의
+$ last-minute
+
+@ 가정 교사
+$ tutor
+
+@ 파산
+$ bankruptcy
+
+@ 관리자의
+$ managerial
+
+@ 제공하다. 내놓다
+$ dispense
+
+@ 다시 모이다
+$ reconvene
+
+@ 교통 위반 딱지
+$ traffic ticket
+
+@ 회계 감사
+$ auditing
+
+@ 주지사
+$ governor
+
+@ 연방의
+$ federal
+
+@ 석유
+$ petroleum
+
+@ 겸손한, 적당한
+$ modest
+
+@ 익숙하게 하다
+$ familiarize
+
+@ 유모
+$ nanny
+
+@ 생물학
+$ biology
+
+@ 철저하고 상세한
+$ in-depth
+
+@ 혐의, 주장
+$ allegation
+
+@ 전기
+$ biography
+
+@ 고무 샌들, 슬리퍼
+$ flip flop
+
+@ 성년
+$ legal age
+
+@ 사면, 경사로
+$ ramp
+
+@ 응급 구조 요원
+$ paramedic
+
+@ (상처 등을) 받다
+$ sustain
+
+@ 입법 의회 의원
+$ councilmember
+
+@ 명성 있는, 일류의
+$ prestigious
+
+@ 입증된
+$ proven
+
+@ 설득하다. 확신시키다
+$ convince
+
+@ 자물쇠 제조공
+$ locksmith
+
+@ 공짜의, 무료의
+$ complimentary
+
+@ 환경, 상황
+$ circumstance
+
+@ 인정하다, 고마워 하다
+$ appreciate
+
+@ 중요하다
+$ matter
+
+@ 고용, 취업
+$ employment
+
 
 
