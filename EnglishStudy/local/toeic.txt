@@ -2211,5 +2211,47 @@ $ matter
 @ 고용, 취업
 $ employment
 
+@ 생각하다
+$ deem
+
+@ 복도, 통로
+$ corridor
+
+@ 발전, 진보
+$ advancement
+
+@ 유익한
+$ instructive
+
+@ 가치 있는
+$ worthwhile
+
+@ 알고 있는, 인식하는
+$ aware
+
+@ 직장 폐쇄, 시즌 중단
+$ lockout
+
+@ 나머지
+$ remainder
+
+@ 뛰어나다. 빛나다
+$ shine
+
+@ 또래, 동년배
+$ peer
+
+@ 활주로, (패션쇼장의) 무대
+$ runway
+
+@ 따르기, 준수
+$ compliance
+
+@ 등록
+$ enrollment
+
+@ 부족 건물, 별관
+$ annex
+
 
 
