@@ -2253,5 +2253,307 @@ $ enrollment
 @ 부족 건물, 별관
 $ annex
 
+@ (여러 가지 중 하나의) 측면
+$ aspect
+
+@ 촉진시키다
+$ expedite
+
+@ 답사하다. 탐험하다
+$ explore
+
+@ 홍수
+$ flood
+
+@ 영감을 주다
+$ inspire
+
+@ 매력적인
+$ inviting
+
+@ 의식, 관심, 경각심
+$ awareness
+
+@ 얻다, 모으다
+$ garner
+
+@ 점점 커지는
+$ ever-growing
+
+@ 줄이다
+$ lessen
+
+@ 전염
+$ infection
+
+@ 잘 자라다. 번성하다
+$ flourish
+
+@ 글자
+$ lettering
+
+@ 뚜렷한
+$ distinct
+
+@ 보조금
+$ grant
+
+@ 인정하다
+$ admit
+
+@ 후회하다
+$ regret
+
+@ 보상, 보상금
+$ compensation
+
+@ 사업가, 기업가
+$ entrepreneur
+
+@ 깨닫다
+$ realize
+
+@ 양도 가능한
+$ transferable
+
+@ 재산, 큰돈, 행운
+$ fortune
+
+@ 경작하다. 일구다
+$ cultivate
+
+@ 조용한, 평온한
+$ serene
+
+@ 왕조
+$ dynasty
+
+@ 성향, 기질
+$ nature
+
+@ 지역
+$ district
+
+@ ~에 다시 적용하다
+$ readjust to
+
+@ 동의하다
+$ consent
+
+@ 누설하다
+$ divulge
+
+@ 더러운, 불결한
+$ filthy
+
+@ 수단
+$ means
+
+@ 나아가다. 이끌다
+$ head
+
+@ 거래
+$ transaction
+
+@ 발명가
+$ inventor
+
+@ 면도기
+$ shaver
+
+@ 고무
+$ rubber
+
+@ 전단, 광고지
+$ flyer
+
+@ 쓰레기
+$ litter
+
+@ 혼합물
+$ compound
+
+@ 즐겁게 하다
+$ amuse
+
+@ 기쁘게 하다
+$ entertain
+
+@ 지겹게 하다
+$ bore
+
+@ 당황하게 하다
+$ embarrass
+
+@ 당황하게 하다
+$ overwhelm
+
+@ 감동시키다
+$ impress
+
+@ 슬프게 하다
+$ depress
+
+@ 실망시키다
+$ disappoint
+
+@ 좌절시키다
+$ frustrate
+
+@ 무섭게 하다
+$ frighten
+
+@ 매혹시키다
+$ fascinate
+
+@ 매료시키다
+$ charm
+
+@ 짜증나게 하다
+$ irritate
+
+@ 협조적인
+$ accommodating
+
+@ 까다로운
+$ demanding
+
+@ 감동적인
+$ touching
+
+@ 눈에 띄는, 이목을 끄는
+$ striking
+
+@ 정교한, 세련된
+$ sophisticated
+
+@ 관중
+$ spectator
+
+@ 소리 지르다
+$ yell
+
+@ 뛰어난
+$ outstanding
+
+@ 포함하다
+$ involve
+
+@ 혹독한
+$ inclement
+
+@ 고의로
+$ purposely
+
+@ 장애가 있는
+$ impaired
+
+@ 장애가 있는
+$ handicapped
+
+@ 지구, 세계
+$ globe
+
+@ 지친
+$ exhausted
+
+@ 환대, 후대, 접대
+$ hospitality
+
+@ 청결
+$ cleanliness
+
+@ 일치하는, 적절한
+$ corresponding
+
+@ 바닷가
+$ seashore
+
+@ 발생하다
+$ break out
+
+@ 과제, 임무
+$ assignment
+
+@ 연속적인
+$ consecutive
+
+@ 아껴쓰다
+$ conserve
+
+@ 조립하다
+$ put together
+
+@ 끝이나다. 막을 내리다
+$ culminate
+
+@ 상징적인
+$ iconic
+
+@ 필수적인
+$ vital
+
+@ 파산
+$ bankruptcy
+
+@ 변호사
+$ attorney
+
+@ ~을 향해 떠나다
+$ depart for
+
+@ 서신
+$ correspondence
+
+@ 반드시 해야 하는
+$ imperative
+
+@ 아파트
+$ condominium
+
+@ 그 뒤에, 이어서
+$ subsequently
+
+@ 식이 요법의
+$ dietary
+
+@ 보편적으로, 어디에서나
+$ universally
+
+@ 책임자
+$ executive
+
+@ 가치 있는
+$ of value
+
+@ 더 열등한
+$ inferior
+
+@ (연구등의) 결과
+$ finding
+
+@ 결론짓다
+$ conclude
+
+@ 풀
+$ glue
+
+@ 전임자
+$ predecessor
+
+@ 성숙한
+$ mature
+
+@ 조심스럽게
+$ attentively
+
+@ 연료
+$ fuel
+
+@ 메추라기
+$ quail
+
+@ 분류기
+$ sorter
 
 
