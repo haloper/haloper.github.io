@@ -2556,4 +2556,241 @@ $ quail
 @ 분류기
 $ sorter
 
+@ 관세
+$ tariff
+
+@ 절망하다
+$ despair
+
+@ 승무원
+$ flight attendant
+
+@ 소책자
+$ booklet
+
+@ 수화
+$ sign language
+
+@ ~월 ~일자로
+$ as of
+
+@ ~에 따라
+$ as per
+
+@ ~에 관해
+$ as for
+
+@ ~로 부터 맞은편에
+$ across from
+
+@ 차이
+$ discrepancy
+
+@ 진술
+$ statement
+
+@ 가구, 가정
+$ household
+
+# 처참한, 형편없는
+$ disastrous
+
+@ 고집스럽게, 끈질기게
+$ persistently
+
+@ 냉장고
+$ refrigerator
+
+@ 편의시설
+$ amenities
+
+@ 차용, 임차
+$ tenancy
+
+@ 침체
+$ downturn
+
+@ 솔직한, 노골적인
+$ outspoken
+
+@ 소송
+$ lawsuit
+
+@ 도둑질
+$ theft
+
+@ 부양가족
+$ dependant
+
+@ 오히려
+$ rather
+
+@ ~에도 불구하고
+$ though
+
+@ 산사태
+$ landslide
+
+@ 시장 점유율
+$ market share
+
+@ 방치하다
+$ neglect
+
+@ ~에 대해
+$ concerning
+
+@ 관대, 아량
+$ generosity
+
+@ 필수의, 의무적인
+$ imperative
+
+@ 화장품
+$ cosmetic
+
+@ 도착하다. 가다
+$ make it
+
+@ 목걸이
+$ necklace
+
+@ 주전자
+$ kettle
+
+@ 만두
+$ dumpling
+
+@ 동정심, 연민
+$ sympathy
+
+@ 문학
+$ literature
+
+@ 경품 추첨
+$ raffle
+
+@ ~ 을 이어받다 (떠맡다)
+$ take over
+
+@ 소송
+$ case
+
+@ 전사적으로
+$ companywide
+
+@ 획기적인, 시기원을 이룬
+$ groundbreaking
+
+@ 고수하다
+$ adhere
+
+@ 장래의, 유망한
+$ prospective
+
+@ 소유하다
+$ possess
+
+@ 포상, 칭찬
+$ accolade
+
+@ 가정용품
+$ houseware
+
+@ (날씨가) 축고 사나운
+$ inclement
+
+@ 장식하다
+$ adorn
+
+@ ~을 되찾다
+$ have back
+
+@ 약혼자
+$ fiance
+
+@ (주주) 총회
+$ general meeting
+
+@ ~을 방문하다
+$ pay a visit to
+
+@ 개발도상국
+$ developing country
+
+@ 부유함
+$ wealth
+
+@ 베테랑
+$ veteran
+
+@ 소득세
+$ income tax
+
+@ 알맞은, 편리한
+$ favorable
+
+@ 안식처, 피난처
+$ haven
+
+@ 마음속에 그리다
+$ envision
+
+@ 약속, 헌신
+$ commitment
+
+@ 운동 선수의
+$ athletic
+
+@ 두드러진, 주목할만한
+$ noticeable
+
+@ 평가, 판단
+$ appraisal
+
+@ 자급자족할 수 있는
+$ self-sufficient
+
+@ 없어서는 안되는, 꼭 필요한
+$ indispensable
+
+@ 적절하, 관련있는
+$ pertinent
+
+@ 점차
+$ gradually
+
+@ 점차 중단 하다
+$ phase out
+
+@ 작업 현장
+$ factory floor
+
+@ 운동 선수
+$ athlete
+
+@ 견디다
+$ endure
+
+@ 짜증스러운
+$ annoying
+
+@ 덜거덕거리는
+$ rattling
+
+@ 줄을 서다
+$ form a line
+
+@ (피해 등을) 입다
+$ suffer
+
+@ 사소한
+$ minor
+
+@ 탈수
+$ dehydration
+
+
+
+
 
