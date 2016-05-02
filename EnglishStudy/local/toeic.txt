@@ -2790,6 +2790,195 @@ $ minor
 @ 탈수
 $ dehydration
 
+@ 위치시키다
+$ situate
+
+@ 조만간
+$ shortly
+
+@ 상호간의
+$ reciprocal
+
+@ 재고하다
+$ reconsider
+
+@ 흔들리다
+$ sway
+
+@ 믿을 만한, 신뢰할 만한
+$ dependable
+
+@ 분류하다
+$ classify
+
+@ ~을 방해하다
+$ interfere with
+
+@ 금고
+$ vault
+
+@ 시운전
+$ trial operation
+
+@ 광범위한
+$ extensive
+
+@ 뇌물
+$ bribery
+
+@ 심리학자
+$ psychologist
+
+@ 튼튼한
+$ robust
+
+@ 생명력, 활력
+$ vitality
+
+@ 활력을 주는
+$ vitalize
+
+@ 독촉하다
+$ urge
+
+@ 훈련된
+$ disciplined
+
+@ 상당한, 중요한
+$ substantial
+
+@ 분대, 선수단, 팀
+$ squad
+
+@ 녹다
+$ melt
+
+@ 놀랍게도
+$ shockingly
+
+@ 수위, 관리인
+$ concierge
+
+@ 할부
+$ installment
+
+@ 공연단, 극단
+$ troupe
+
+@ 이상주의자
+$ idealist
+
+@ 예외적인
+$ exceptional
+
+@ 경리
+$ bookkeeper
+
+@ 익숙한
+$ accustomed
+
+@ 출마
+$ candidacy
+
+@ 상응하는
+$ corresponding
+
+@ 습한, 축축한
+$ damp
+
+@ 다루다, 치료하다, 처리하다
+$ treat
+
+@ 증대시키다
+$ intensify
+
+@ 발췌하다. 발췌문
+$ extract
+
+@ 선약
+$ prior engagement
+
+@ 맛이 뛰어난
+$ gourmet
+
+@ 시가 총액
+$ market capitalization
+
+@ 무료의
+$ complimentary
+
+@ 본토, 대륙
+$ mainland
+
+@ 해고하다, 해산시키다
+$ dismiss
+
+@ 화폐의
+$ monetary
+
+@ 냄비
+$ pot
+
+@ 강요하는
+$ insistent
+
+@ 널리 퍼지다
+$ prevail
+
+@ 발생하다, 일어나다
+$ arise
+
+@ 합병, 통합
+$ consolidation
+
+@ ~에 호소하다
+$ appeal to
+
+@ 다양한
+$ diverse
+
+@ 여객기
+$ airliner
+
+@ 좌석 안내원
+$ usher
+
+@ 야구장
+$ ballpark
+
+@ 졸업장, 수료증, 학위
+$ diploma
+
+@ 알맞게
+$ moderately
+
+@ 호기심
+$ curiosity
+
+@ 극복하다
+$ overcome
+
+@ 이상한
+$ odd
+
+@ 성가신
+$ pesky
+
+@ 쿵 (부딪치는 소리)
+$ klunk
+
+@ 도살된
+$ slaughtered
+
+@ 쭈글쭈글한, 뒤틀린
+$ crumpled
+
+@ 가까스로
+$ barely
+
+@ 쏘다. 찌르다
+$ sting
+
 
 
 
