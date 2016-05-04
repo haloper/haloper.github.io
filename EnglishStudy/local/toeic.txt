@@ -84,9 +84,6 @@ $ publicized
 @ 사다리
 $ ladder
 
-@ 정리하다
-$ organize
-
 @ (자리를) 차지하다
 $ occupy
 
@@ -243,9 +240,6 @@ $ archway
 @ 경비
 $ expense
 
-@ 회계
-$ accounting
-
 @ 부서
 $ department
 
@@ -351,7 +345,7 @@ $ improve
 @ 최신의
 $ brand-new
 
-@ 공식적인
+@ 공식적인, 공무원, 관리
 $ official
 
 @ 승진하다
@@ -387,20 +381,14 @@ $ artwork
 @ 안내책자
 $ brochure
 
-@ 준비하다, 계획하다
+@ 준비하다, 계획하다, 정리하다
 $ organize
 
 @ 선호하다
 $ prefer
 
-@ 이력서
-$ resume
-
 @ 소매
 $ retail
-
-@ 예산
-$ budget
 
 @ 환영회
 $ reception
@@ -480,9 +468,6 @@ $ lease
 @ 행하다
 $ conduct
 
-@ 보증금
-$ deposit
-
 @ 위통
 $ stomachache
 
@@ -509,9 +494,6 @@ $ plumber
 
 @ 지원하다
 $ apply
-
-@ 부동산
-$ property
 
 @ 신원확인
 $ idenfitication
@@ -579,7 +561,7 @@ $ quarterly
 @ 잠재적인
 $ potential
 
-@ 지원자
+@ 지원자, 지원하다
 $ volunteer
 
 @ 경쟁자
@@ -599,9 +581,6 @@ $ accountant
 
 @ 문의하다
 $ inquire
-
-@ 이력서
-$ resume
 
 @ 요금
 $ fee
@@ -666,9 +645,6 @@ $ domestically
 @ 오솔길
 $ trail
 
-@ 현대의
-$ contemporary
-
 @ 설립하다
 $ found
 
@@ -695,9 +671,6 @@ $ elderly
 
 @ 기부
 $ donation
-
-@ 간식
-$ refreshments
 
 @ 기조 연설자
 $ keynote speaker
@@ -743,9 +716,6 @@ $ implement
 
 @ 감축하다
 $ downsize
-
-@ 규정
-$ regulation
 
 @ 급여
 $ wage
@@ -831,7 +801,7 @@ $ alternative
 @ 토론
 $ debate
 
-@ 재개하다
+@ 재개하다, 이력서
 $ resume
 
 @ 세계적인 명성을 가진
@@ -861,9 +831,6 @@ $ bill
 @ 입장, 가입
 $ admission
 
-@ 공무원
-$ official
-
 @ 주파수를 맞추다
 $ tuning in
 
@@ -884,9 +851,6 @@ $ founder
 
 @ (가격이) 적절한
 $ affordable
-
-@ 가정
-$ household
 
 @ 강조하다
 $ emphasize
@@ -1017,7 +981,7 @@ $ submission
 @ 선거
 $ election
 
-@ 꾸준한
+@ 꾸준한, 고정된
 $ steady
 
 @ 성장
@@ -1034,9 +998,6 @@ $ absence
 
 @ 의도
 $ intention
-
-@ 확신하는
-$ confident
 
 @ 해외로
 $ abroad
@@ -1073,9 +1034,6 @@ $ reside
 
 @ 시장
 $ mayor
-
-@ 자선단체
-$ charity
 
 @ 세입자
 $ tenant
@@ -1124,9 +1082,6 @@ $ leaky
 
 @ 지팡이
 $ cane
-
-@ 예측하다
-$ predict
 
 @ 운동하다
 $ exercise
@@ -1269,9 +1224,6 @@ $ overall
 @ 풍경
 $ landscape
 
-@ 사려 깊은
-$ considerate
-
 @ 알아볼 수 있는
 $ recognizable
 
@@ -1283,9 +1235,6 @@ $ consider
 
 @ 이용 가능한
 $ accessible
-
-@ 고정된
-$ steady
 
 @ 농산물
 $ produce
@@ -1335,9 +1284,6 @@ $ freezing
 @ 노숙자 보호소
 $ homeless shelter
 
-@ 보람있는
-$ rewarding
-
 @ 전념하는, 헌신적인
 $ dedicated
 
@@ -1371,17 +1317,11 @@ $ resignation
 @ 지명
 $ nomination
 
-@ 힘든
-$ demanding
-
 @ 최근의
 $ latest
 
 @ 실험
 $ experiment
-
-@ 자원하다
-$ volunteer
 
 @ 기밀의
 $ classified
@@ -1454,9 +1394,6 @@ $ courteous
 
 @ 소지품
 $ possessions
-
-@ 확실한
-$ definite
 
 @ 이례적인, 특출한
 $ exceptional
@@ -1581,7 +1518,7 @@ $ souvenir
 @ 금지된
 $ prohibited
 
-@ 예금하다
+@ 예금하다, 보증금
 $ deposit
 
 @ 발견하다
@@ -1674,9 +1611,6 @@ $ permit
 @ 다 떨어지다
 $ run out
 
-@ 칭찬하다
-$ praise
-
 @ 절실한
 $ desperate
 
@@ -1713,9 +1647,6 @@ $ persuasive
 @ 길이가 긴
 $ lengthy
 
-@ 제시하다
-$ present
-
 @ 면
 $ cotton
 
@@ -1727,9 +1658,6 @@ $ talented
 
 @ 반영하다
 $ reflect
-
-@ 관리
-$ official
 
 @ 기다리다
 $ await
@@ -1797,9 +1725,6 @@ $ immigration
 @ 설문지
 $ questionnaire
 
-@ 검사하다
-$ inspect
-
 @ 의심하다
 $ suspect
 
@@ -1812,9 +1737,6 @@ $ acquire
 @ 필요로 하다
 $ require
 
-@ 묻다
-$ inquire
-
 @ 정중하게
 $ respectfully
 
@@ -1826,9 +1748,6 @@ $ considerably
 
 @ 즉시
 $ promptly
-
-@ 철저히
-$ thoroughly
 
 @ 약간
 $ slightly
@@ -1848,9 +1767,6 @@ $ narrowly
 @ 분명히
 $ obviously
 
-@ 점점 더
-$ increasingly
-
 @ 아마, 짐작컨데
 $ presumably
 
@@ -1865,9 +1781,6 @@ $ nearly
 
 @ 매우
 $ highly
-
-@ 곧
-$ shortly
 
 @ 최근에
 $ lately
@@ -1893,9 +1806,6 @@ $ repave
 @ 뿐만 아니라
 $ furthermore
 
-@ 아주 넓은(많은)
-$ extensive
-
 @ 빚지다, 미납하다
 $ owe
 
@@ -1910,9 +1820,6 @@ $ in one's absence
 
 @ 특히
 $ in particular
-
-@ 접하다
-$ encounter
 
 @ 보장하다. 확보하다
 $ guarantee
@@ -2010,9 +1917,6 @@ $ react
 @ 화가나서
 $ angrily
 
-@ 변호사
-$ attorney
-
 @ 낙관적인
 $ optimistic
 
@@ -2072,9 +1976,6 @@ $ preservative
 
 @ 창립자, 주최자
 $ organizer
-
-@ 상
-$ prize
 
 @ 창조성
 $ creativity
@@ -2424,9 +2325,6 @@ $ touching
 @ 눈에 띄는, 이목을 끄는
 $ striking
 
-@ 정교한, 세련된
-$ sophisticated
-
 @ 관중
 $ spectator
 
@@ -2592,14 +2490,11 @@ $ statement
 @ 가구, 가정
 $ household
 
-# 처참한, 형편없는
+@ 처참한, 형편없는
 $ disastrous
 
 @ 고집스럽게, 끈질기게
 $ persistently
-
-@ 냉장고
-$ refrigerator
 
 @ 편의시설
 $ amenities
@@ -2636,9 +2531,6 @@ $ market share
 
 @ 방치하다
 $ neglect
-
-@ ~에 대해
-$ concerning
 
 @ 관대, 아량
 $ generosity
@@ -2868,9 +2760,6 @@ $ troupe
 @ 이상주의자
 $ idealist
 
-@ 예외적인
-$ exceptional
-
 @ 경리
 $ bookkeeper
 
@@ -2879,9 +2768,6 @@ $ accustomed
 
 @ 출마
 $ candidacy
-
-@ 상응하는
-$ corresponding
 
 @ 습한, 축축한
 $ damp
@@ -2903,9 +2789,6 @@ $ gourmet
 
 @ 시가 총액
 $ market capitalization
-
-@ 무료의
-$ complimentary
 
 @ 본토, 대륙
 $ mainland
@@ -2979,7 +2862,227 @@ $ barely
 @ 쏘다. 찌르다
 $ sting
 
+@ ~을 검토하다
+$ go over
 
+@ ~에 보조를 맞추다
+$ keep up with
+
+@ 부족, 결핍
+$ scarcity
+
+@ 예상, 예측
+$ forecast
+
+@ ~을 초래하다
+$ bring about
+
+@ 쌓이다. 축적되다
+$ build up
+
+@ 불규칙적으로
+$ irregularly
+
+@ 작동되는
+$ up and running
+
+@ 명확한
+$ definite
+
+@ 점유자
+$ occupant
+
+@ 점유; 거주
+$ occupancy
+
+@ 간과하다. 못보다
+$ overlook
+
+@ ~ 하기를 열망하다
+$ be eager to
+
+@ 침체된, 부진한
+$ stagnant
+
+@ 암시하다
+$ imply
+
+@ ~을 처리하다[버리다]
+$ dispose of
+
+@ 용기, 그릇
+$ receptacle
+
+@ 정신 없이 바쁜
+$ hectic
+
+@ 사임하다
+$ step down
+
+@ 유창하게
+$ fluently
+
+@ 현재
+$ resently
+
+@ 원기
+$ vigor
+
+@ 마침내
+$ eventually
+
+@ 섭취하다
+$ ingest
+
+@ 낮잠 자다
+$ nap
+
+@ 초보자
+$ novice
+
+@ 비어 있는
+$ vacant
+
+@ 초연하다, 초연
+$ premiere
+
+@ 지부, 계열사
+$ affiliate
+
+@ 수입, 수익
+$ earnings
+
+@ 가라앉다. 감소하다
+$ dip
+
+@ 파업
+$ strike
+
+@ 목표
+$ objective
+
+@ 유능한, 능력 있는
+$ competent
+
+@ 고요한, 조용한
+$ tranquil
+
+@ 피상적인
+$ superficial
+
+@ 간이 매점, 가판대
+$ kiosk
+
+@ 매력 있는
+$ attractive
+
+@ 목격자, 증인
+$ witness
+
+@ 공증하다
+$ notarize
+
+@ 거절하다
+$ decline
+
+@ ~에 동의하다
+$ consent to
+
+@ 소형 트럭
+$ pickup truck
+
+@ 드물게
+$ infrequently
+
+@ 심오하게
+$ perfoundly
+
+@ 처음부터
+$ from the scratch
+
+@ 주거(지), 주택
+$ dwelling
+
+@ 국경, 경계선
+$ border
+
+@ 동기 부여를 하는
+$ motivational
+
+@ 신입 사원
+$ hire
+
+@ 경험 많은, 노련한
+$ seasoned
+
+@ ~ 맛의
+$ flavored
+
+@ 전술
+$ tactic
+
+@ 주저, 망설임
+$ hesitation
+
+@ 능숙한
+$ proficient
+
+@ 친숙한
+$ acquainted
+
+@ 좌초시키다
+$ strand
+
+@ 배형 배
+$ vessel
+
+@ 황혼, 해질녘
+$ dusk
+
+@ 놀라게 하는, 놀라운
+$ stunning
+
+@ 대인 관계
+$ interpersonal
+
+@ 세심한
+$ attentive
+
+@ 중증의, 심한
+$ severe
+
+@ (통증이) 격렬한, 급성의
+$ acute
+
+@ 호흡기와 관련된
+$ respiratory
+
+@ 양식 있는, 현명한
+$ sensible
+
+@ (행동의) 적절성, 예절
+$ propriety
+
+@ 그 다음의, 차후의
+$ subsequent
+
+@ 음향 시설
+$ acoustic
+
+@ 결과, 영향
+$ consequence
+
+@ 획일적인, 균일한
+$ uniform
+
+@ 인내, 참을성
+$ patience
+
+@ 도매업체
+$ wholesaler
+
+@ ~을 선물로 주다
+$ git away
 
 
 
