@@ -2995,7 +2995,7 @@ $ pickup truck
 $ infrequently
 
 @ 심오하게
-$ perfoundly
+$ profoundly
 
 @ 처음부터
 $ from the scratch
