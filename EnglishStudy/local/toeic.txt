@@ -906,7 +906,7 @@ $ popularize
 @ 인기
 $ popularity
 
-@ 상당한, 커다란
+@ 특별한 의미가 있는, 중요한
 $ significant
 
 @ 공헌
