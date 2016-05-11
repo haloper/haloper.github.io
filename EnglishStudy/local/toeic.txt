@@ -943,7 +943,7 @@ $ composite
 $ millionaire
 
 @ 복리후생
-$ benefit
+$ benefits
 
 @ 지명하다
 $ appoint
