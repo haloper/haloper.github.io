@@ -1,28 +1,14 @@
-* expressions
+* word
 
 @ 바람을 넣다
 $ inflate
 
-@ 상품
-$ merchandise
 
-@ 그들 자신 
-$ themselves
-
-@ (기타같은 것을) 치다
-$ strumming
-
-@ 인사하다
-$ bowing
-
-@ 현악기
-$ stringed instruments
 
 @ 홀짝이다
 $ sipping
 
-@ 공중전화
-$ payphone
+
 
 @ ~에 기대다
 $ leaning over
@@ -39,11 +25,7 @@ $ applause
 @ 사기 (사기를 북돋우다 할 때)
 $ morale
 
-@ 연기하다 (미루다)
-$ postpone
 
-@ 연간
-$ annual
 
 @ 전시회
 $ exhibition
@@ -75,8 +57,7 @@ $ social
 @ 사교적인
 $ sociable
 
-@ 가까운 미래에
-$ in the near future
+
 
 @ 알려진
 $ publicized
@@ -93,14 +74,12 @@ $ scissors
 @ 서류철
 $ folder
 
-@ 가구
-$ furniture
+
 
 @ 서류가방
 $ briefcase
 
-@ 복사하다
-$ making photocpies
+
 
 @ 화분
 $ potted plant
@@ -129,8 +108,6 @@ $ pour
 @ 식사하다
 $ dine
 
-@ 상품
-$ merchandise
 
 @ 면밀히 살펴보다
 $ examine
@@ -147,8 +124,6 @@ $ tray
 @ (오목한) 그룻
 $ bowl
 
-@ 쌓다
-$ pile up
 
 @ 식당 야외에서 음식을 먹는 장소
 $ patio
@@ -189,8 +164,7 @@ $ railing
 @ 분수
 $ fountain
 
-@ 건널목
-$ crosswalk
+
 
 @ 승객
 $ passenger
@@ -207,14 +181,11 @@ $ paddle
 @ 기대다
 $ lean
 
-@ 천장
-$ ceiling
 
 @ 탑승
 $ boarding
 
-@ 돛단배
-$ sailboat
+
 
 @ 수도꼭지
 $ faucet
@@ -243,8 +214,7 @@ $ expense
 @ 부서
 $ department
 
-@ 인사팀
-$ human resources
+
 
 @ (건물) 관리인
 $ superintendent
@@ -252,14 +222,11 @@ $ superintendent
 @ 가전제품
 $ appliance
 
-@ 특징
-$ feature
 
 @ 자격
 $ qualification
 
-@ 의식, 식
-$ ceremony
+
 
 @ 인사과
 $ personnel
@@ -267,8 +234,7 @@ $ personnel
 @ 직무
 $ duty
 
-@ 지점
-$ branch
+
 
 @ 개조하다
 $ renovate
@@ -279,8 +245,6 @@ $ itinerary
 @ 승인
 $ approval
 
-@ 은퇴
-$ retirement
 
 @ 정기적인
 $ regular
@@ -291,11 +255,6 @@ $ prove
 @ 공사
 $ construction
 
-@ 본사
-$ headquarters
-
-@ 사무용품
-$ office supplies
 
 @ 신청서
 $ application
@@ -315,17 +274,12 @@ $ receipt
 @ 대회
 $ competition
 
-@ 정전
-$ power failure
-
 @ 전문가
 $ expert
 
 @ 수정
 $ correction
 
-@ 오탈자
-$ misprint
 
 @ 재료
 $ material
@@ -345,11 +299,6 @@ $ improve
 @ 최신의
 $ brand-new
 
-@ 공식적인, 공무원, 관리
-$ official
-
-@ 승진하다
-$ promote
 
 @ 남은음식들
 $ leftovers
@@ -383,9 +332,6 @@ $ brochure
 
 @ 준비하다, 계획하다, 정리하다
 $ organize
-
-@ 선호하다
-$ prefer
 
 @ 소매
 $ retail
@@ -453,7 +399,7 @@ $ definitely
 @ 수용하다
 $ accommodate
 
-@ 환자
+@ 환자, 참을성 있는
 $ patient
 
 @ 출발하다
@@ -3084,16 +3030,213 @@ $ wholesaler
 @ ~을 선물로 주다
 $ git away
 
-@ conscious
-$
+@ 의식하는, 자각하는
+$ conscious
 
-@ struggle
-$
+@ 투쟁하다, 몸부림치다, 허우적거리다
+$ struggle
 
-@ barely
-$
+@ 간신히, 가까스로, 빠듯하게
+$ barely
 
-@ simultaneously
-$
+@ 동시에 ((with)); 일제히
+$ simultaneously
 
+@ 고층건물
+$ skyscraper
+
+@ 탑
+$ pagoda
+
+@ 골목, 좁은 길
+$ alleyway
+
+@ 유혹적인, 솔직한
+$ inviting
+
+@ 불빛, 홍조, 빛나다, 상기되다
+$ glow
+
+@ 벽돌
+$ brick
+
+@ 골목
+$ alley
+
+@ 소란스러운
+$ rowdy
+
+@ 가득 채우다
+$ jam
+
+@ 구호를 외치다
+$ chant
+
+@ 점잔 빼며 걷다
+$ strut
+
+@ ~을 치장하다
+$ trick out
+
+@ 발톱
+$ claw
+
+@ 패배시키다
+$ defeat
+
+@ ~을 반대하는 사람, (시합의) 상대
+$ opponent
+
+@ 으르렁거리며 말하다
+$ snarl
+
+@ 관중
+$ spectator
+
+@ 배짱
+$ gut
+
+@ 사나운, 험악한
+$ fierce
+
+@ 피하다, 꺼리다, 겁내다
+$ shrink away
+
+@ (돈, 종이등의) 뭉치
+$ wad
+
+@ 넘어지다, 넘어뜨리다
+$ topple
+
+@ 능글맞은 웃음; 히죽히죽 웃다
+$ smirk
+
+@ 심판
+$ referee
+
+@ (공격하기 위해) 다가가다
+$ advance
+
+@ ~보다 훨씬 더 크다
+$ tower over
+
+@ 찢다
+$ tear
+
+@ 서투른, 어색한
+$ awkward
+
+@ 화난, 속상한
+$ sore
+
+@ (게임, 시합에서) 이기다
+$ beat
+
+@ 동료, 친구
+$ associate
+
+@ 값비싼
+$ pricey
+
+@ 싸구려의
+$ junky
+
+@ 식은땀을 흘리다
+$ sweat
+
+@ 어디선지 모르게
+$ out of nowhere
+
+@ 미끄러지다
+$ skid
+
+@ 폭력배
+$ goon
+
+@ 밀치다
+$ shove
+
+@ (엔진이) 고속으로 돌아가다
+$ gun
+
+@ 떠나다, 이륙하다
+$ take off
+
+@ 때리다, 탁 소리가 나게 치다
+$ smack
+
+@ 영재
+$ prodigy
+
+@ 진실돈
+$ bona fide
+
+@ 승승장구하고 있다
+$ be on a roll
+
+@ 활짝 웃다
+$ grin
+
+@ 멈추다. 서다
+$ pull up
+
+@ 신음 소리를 내다
+$ groan
+
+@ ~에 휘말리다
+$ be caught up in
+
+@ 불시 단속, 습격
+$ raid
+
+@ 감방
+$ cell
+
+@ 몹시 화가 난
+$ furious
+
+@ 흘낏 보다
+$ glance
+
+@ 당황해 하는
+$ sheepish
+
+@ 껴안다
+$ embrace
+
+@ 휙 수그리다, 피하다
+$ duck
+
+@ 얼간이, 멍청이
+$ knucklehead
+
+@ 호통치기 시작하다
+$ start in on
+
+@ 움츠리다, 움찍하다
+$ cringe
+
+@ 투덜거리다
+$ grumble
+
+@ 중얼거리다
+$ mumble
+
+@ 확실하다고 말하다. 즉시 떠나다
+$ book it
+
+@ 좌절감을 주다, 불만스럽게 하다
+$ frustrate
+
+@ (부정한 수단으로) 돈을 얻다
+$ hustle
+
+@ 꼼지락거리다
+$ fidget
+
+@ (어깨를) 으쓱하다
+$ shrug
+
+@ 이끌다, 조종하다
+$ steer
 

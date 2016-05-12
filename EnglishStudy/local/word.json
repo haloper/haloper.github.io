@@ -1,0 +1,5 @@
+{
+	"source_name" : "Word",
+	"request_url" : "local/word.txt",
+	"orderby" : "random"
+}

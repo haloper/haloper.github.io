@@ -1,0 +1,5 @@
+{
+	"source_name" : "Word_Old",
+	"request_url" : "local/word_old.txt",
+	"orderby" : "random"
+}

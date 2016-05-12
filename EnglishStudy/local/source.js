@@ -6,7 +6,7 @@ var source = {
 		index: 0,
 		init: function(url) {
 			if(!url) {
-				url = "local/toeic.json";
+				url = "local/word.json";
 			}
 			return $.ajax({
 	            type:"GET",
