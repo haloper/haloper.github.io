@@ -1,14 +1,93 @@
 * word
 
+@ 상품
+$ merchandise
+
+@ 그들 자신 
+$ themselves
+
+@ (기타같은 것을) 치다
+$ strumming
+
+@ 인사하다
+$ bowing
+
+@ 현악기
+$ stringed instruments
+
+@ 공중전화
+$ payphone
+
+@ 연기하다 (미루다)
+$ postpone
+
+@ 연간
+$ annual
+
+@ 가까운 미래에
+$ in the near future
+
+@ 가구
+$ furniture
+
+@ 복사하다
+$ making photocpies
+
+@ 쌓다
+$ pile up
+
+@ 건널목
+$ crosswalk
+
+
+@ 천장
+$ ceiling
+
+@ 돛단배
+$ sailboat
+
+@ 인사팀
+$ human resources
+
+
+@ 특징
+$ feature
+
+@ 의식, 식
+$ ceremony
+
+@ 선호하다
+$ prefer
+
+@ 공식적인, 공무원, 관리
+$ official
+
+@ 승진하다
+$ promote
+
+@ 오탈자
+$ misprint
+
+@ 정전
+$ power failure
+
+@ 본사
+$ headquarters
+
+@ 은퇴
+$ retirement
+
+@ 지점
+$ branch
+
+@ 사무용품
+$ office supplies
+
 @ 바람을 넣다
 $ inflate
 
-
-
 @ 홀짝이다
 $ sipping
-
-
 
 @ ~에 기대다
 $ leaning over
@@ -24,8 +103,6 @@ $ applause
 
 @ 사기 (사기를 북돋우다 할 때)
 $ morale
-
-
 
 @ 전시회
 $ exhibition
@@ -57,8 +134,6 @@ $ social
 @ 사교적인
 $ sociable
 
-
-
 @ 알려진
 $ publicized
 
@@ -74,12 +149,8 @@ $ scissors
 @ 서류철
 $ folder
 
-
-
 @ 서류가방
 $ briefcase
-
-
 
 @ 화분
 $ potted plant
@@ -214,27 +285,20 @@ $ expense
 @ 부서
 $ department
 
-
-
 @ (건물) 관리인
 $ superintendent
 
 @ 가전제품
 $ appliance
 
-
 @ 자격
 $ qualification
-
-
 
 @ 인사과
 $ personnel
 
 @ 직무
 $ duty
-
-
 
 @ 개조하다
 $ renovate
@@ -245,7 +309,6 @@ $ itinerary
 @ 승인
 $ approval
 
-
 @ 정기적인
 $ regular
 
@@ -254,7 +317,6 @@ $ prove
 
 @ 공사
 $ construction
-
 
 @ 신청서
 $ application
@@ -280,7 +342,6 @@ $ expert
 @ 수정
 $ correction
 
-
 @ 재료
 $ material
 
@@ -298,7 +359,6 @@ $ improve
 
 @ 최신의
 $ brand-new
-
 
 @ 남은음식들
 $ leftovers
@@ -3239,4 +3299,196 @@ $ shrug
 
 @ 이끌다, 조종하다
 $ steer
+
+@ 기관, 협회
+$ institute
+
+@ 요약해서
+$ for short
+
+@ 정차
+$ pit stop
+
+@ (차량 운전자가) 멈추다
+$ pull up
+
+@ 희미하게 빛나다
+$ gleam
+
+@ 짜증난
+$ impatient
+
+@ 빈정대는
+$ sarcastic
+
+@ 조심해라
+$ heads up
+
+@ 줄무늬를 넣다
+$ streak
+
+@ 쌩 하고 지나가다
+$ whiz
+
+@ 갑자기 멈추다
+$ stop short
+
+@ 받침대
+$ rack
+
+@ (음식을) 씹다
+$ chew
+
+@ ~을 대신해서
+$ in place of
+
+@ 뜨다
+$ float
+
+@ (기계 등을) 작동시키다
+$ fire up
+
+@ (소리를) 내다; (힘껏) 내던지다
+$ pitch
+
+@ 오류가 전혀 없는
+$ immaculate
+
+@ 아주 얇은
+$ wafer-thin
+
+@ 시력의
+$ optic
+
+@ ~을 엉망으로 만들다
+$ mess up
+
+@ 뒤쫓다. 추적하다
+$ chase
+
+@ 잠깐 지나갈게요
+$ coming through
+
+@ 머리가 금발인
+$ blond
+
+@ 열광시키다
+$ thrill
+
+@ 지껄여대다; (액체가) 솟구치다
+$ gush
+
+@ 구체
+$ orb
+
+@ 감싸다
+$ encase
+
+@ 열렬한, 열광적인
+$ enthusiastic
+
+@ 해체되다
+$ disintegrate
+
+@ 흘리다
+$ spill
+
+@ 털썩 주저앉다
+$ plop
+
+@ 흩어지다
+$ strew
+
+@ 열광적인 팬
+$ enthusiast
+
+@ 화학식
+$ formula
+
+@ 도마뱀
+$ lizard
+
+@ 마음대로
+$ at will
+
+@ 수축
+$ shrink
+
+@ 따끔거리는
+$ tingly
+
+@ 털썩 놓다
+$ slap
+
+@ 홱 잡아당기다
+$ yank
+
+@ 부풀리다
+$ puff
+
+@ 도우미
+$ companion
+
+@ 문지르다
+$ rub
+
+@ 학대, 남용, 오용
+$ abuse
+
+@ (피부의) 표피
+$ epidermis
+
+@ 찰과상
+$ abrasion
+
+@ 팔뚝
+$ forearm
+
+@ 간병인
+$ caregiver
+
+@ 위협적인
+$ threatening
+
+@ 껴안고 싶은
+$ huggable
+
+@ 악의는 아니었다
+$ no offense
+
+@ 쿡 찌르다
+$ prod
+
+@ 기분 상하게 하다
+$ offend
+
+@ 소독약
+$ disinfectant
+
+@ 공기를 빼다
+$ deflate
+
+@ 정돈된
+$ neat
+
+@ 기품 있는
+$ distinguished
+
+@ 만지작거리다
+$ fiddle
+
+@ 인계하다
+$ hand over
+
+@ 아래턱
+$ jaw
+
+@ (엔진의) 회전 속도를 올리다
+$ rev
+
+@ 서성거리다
+$ pace
+
+@ 미묘한
+$ subtle
 
