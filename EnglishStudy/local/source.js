@@ -76,7 +76,7 @@ var source = {
 				if(--source.index < 0) source.index = source.length - 1;
 			}
 			else {
-				source.index = Math.floor(Math.random() * source.length);
+				source.index = Random(1, source.length - 1, 2);
 			}
 			return {
 				keyword: source.data[source.index].keyword,
