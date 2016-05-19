@@ -3492,3 +3492,276 @@ $ pace
 @ 미묘한
 $ subtle
 
+@ 참가자, 신입생
+$ entrant
+
+@ 제시하다. 제안하다
+$ come up with
+
+@ ~을 감동시키다
+$ blow away
+
+@ 구기다. (얼굴이) 일그러지다
+$ crumple
+
+@ 볼장 다 본
+$ washed up
+
+@ 막다른 길
+$ dead end
+
+@ 홱 뒤집다
+$ flip
+
+@ 발목
+$ ankle
+
+@ ~을 대대적으로 개혁하다
+$ shake up
+
+@ 번개
+$ bolt
+
+@ 날카로운 소리를 내다
+$ crack
+
+@ 주먹으로 치다
+$ knuckle
+
+@ (마음을) 사로잡다
+$ obsess
+
+@ 알아볼 수 없는
+$ unrecognizable
+
+@ 주먹
+$ fist
+
+@ 당황하게 하다
+$ rattle
+
+@ 단호한
+$ decisive
+
+@ 느긋한
+$ chill
+
+@ 징징거리다
+$ whine
+
+@ 녀석, 친구
+$ fellow
+
+@ 얼굴을 찡그리다
+$ frown
+
+@ 토할것 같다. 말문을 막다
+$ gag
+
+@ 사라지다
+$ vanish
+
+@ (손으로) 쥐기, 짜기
+$ squeeze
+
+@ 찬성, 격려
+$ thumbs-up
+
+@ 후드티
+$ goodie
+
+@ 손바닥
+$ palm
+
+@ 친구; 이봐
+$ pal
+
+@ 속삭임
+$ murmur
+
+@ 깜짝 놀라게 하다
+$ startle
+
+@ 미끄러지듯 나아가다
+$ slither
+
+@ 신경의
+$ neural
+
+@ 붕괴되다. 무너지다
+$ collapse
+
+@ 거물
+$ mogul
+
+@ 뛰다. 뛰어오르다
+$ leap
+
+@ 헉 하는 소리를 냄
+$ gasp
+
+@ 공중, 상공
+$ midair
+
+@ 소리치다
+$ exclaim
+
+@ 조카
+$ nephew
+
+@ 윙윙거리다
+$ buzz
+
+@ 볼안해하는
+$ anxious
+
+@ 인상적인
+$ imposing
+
+@ 획기적인
+$ revolutionary
+
+@ 사리사욕
+$ self-interest
+
+@ 모욕하다
+$ insult
+
+@ 발뒤꿈치
+$ heel
+
+@ ~을 갖고 도망치다
+$ walk off with
+
+@ 낄낄거림
+$ chuckle
+
+@ (가문, 조직등을 상징하는) 문장
+$ crest
+
+@ 활짝 웃다. 비추다
+$ beam
+
+@ 세게 치다
+$ slug
+
+@ 몸싸움을 벌이다
+$ wrestle
+
+@ (연기, 구름 등이) 피어오르다
+$ billow
+
+@ 기침하다
+$ cough
+
+@ 완전히 에워싸다
+$ engulf
+
+@ 불길, 불꽃
+$ flame
+
+@ 꺼리는, 마지못한
+$ reluctant
+
+@ (걷잡을 수 없이 큰) 화재
+$ inferno
+
+@ 귀를 먹먹하게 하다
+$ deafen
+
+@ 임시변통의
+$ makeshift
+
+@ 기념비
+$ memorial
+
+@ 비통해하다
+$ grieve
+
+@ 위로하다
+$ console
+
+@ 거의 ~ 아니게, 간신히
+$ barely
+
+@ 멍한
+$ numb
+
+@ 부적절한
+$ inappropriate
+
+@ 마구 웃기 시작하다
+$ crack up
+
+@ 조화, 화합
+$ unison
+
+@ 친구
+$ buddy
+
+@ 어울리다
+$ hang out
+
+@ 말하기 시작하다
+$ pipe up
+
+@ 절망
+$ despair
+
+@ 한 발로 깡충깡추 뛰다
+$ hop
+
+@ 발을 끌며 걷다
+$ shuffle
+
+@ (어깨와 허리를) 흔들며 움직이다
+$ shimmy
+
+@ 복부
+$ belly
+
+@ 고통, 괴로움
+$ distress
+
+@ 꼼지락꼼지락 움직이다
+$ wiggle
+
+@ 발가락
+$ toe
+
+@ ~에 발가락이 차이다
+$ stub
+
+@ 노려보다
+$ scowl
+
+@ 쉿
+$ shoo
+
+@ 뒤뚱뒤뚱 걷다
+$ waddle
+
+@ (작은 카펫같이 생긴) 깔개
+$ rug
+
+@ (좁은 틈 사이에) 끼워 넣다
+$ wedge
+
+@ 어렴풋이 나타나다
+$ loom
+
+@ 기울어지다
+$ tip
+
+@ (피해 등을) 입다
+$ sustain
+
+@ 청소년기
+$ adolescence
+
+@ 사춘기
+$ puberty
+
+@ 겨드랑이
+$ amrpit
+
