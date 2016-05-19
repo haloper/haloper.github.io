@@ -4,6 +4,7 @@ var source = {
 		config: null,
 		keywords: [],
 		index: 0,
+		random: undefined,
 		init: function(url) {
 			if(!url) {
 				url = "local/word.json";
@@ -62,6 +63,7 @@ var source = {
 					}
 				}
 				source.length = source.data.length; 
+				source.random = Random(1, source.length - 1).concaveSlopeTransform();
 				source.next();
 				return new Promise(function(success) {
 					success();
@@ -76,7 +78,7 @@ var source = {
 				if(--source.index < 0) source.index = source.length - 1;
 			}
 			else {
-				source.index = Random(1, source.length - 1, 2);
+				source.index = source.random.nextInt();
 			}
 			return {
 				keyword: source.data[source.index].keyword,
