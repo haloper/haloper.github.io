@@ -3765,3 +3765,175 @@ $ puberty
 @ 겨드랑이
 $ armpit
 
+@ 청소년
+$ adolescent
+
+@ 성인
+$ manhood
+
+@ 멍청한
+$ dumb
+
+@ 몹시 화나게 하다
+$ exasperate
+
+@ 안정시키다
+$ stabilize
+
+@ 곰곰이 생각하다
+$ ponder
+
+@ (자동차 경적을) 울리다
+$ honk
+
+@ (거리, 시간상으로) 가운데 쯤에
+$ halfway
+
+@ (식사, 요리를) 잽싸게 만들어 내다
+$ whip up
+
+@ 재빨리 움직이다
+$ dodge
+
+@ 잠깐 보다
+$ glimpse
+
+@ 거닐다
+$ stroll
+
+@ (벽에서 돌출된) 선반
+$ ledge
+
+@ 소란
+$ commotion
+
+@ 황폐한
+$ run-down
+
+@ 더러워진
+$ grimy
+
+@ 피해
+$ harm
+
+@ 어둑한
+$ dim
+
+@ 속삭이다
+$ whisper
+
+@ 빗자루
+$ broom
+
+@ 봉인하다
+$ seal
+
+@ 살금살금 움직이다
+$ creep
+
+@ 침을 뱉다
+$ spit
+
+@ 위협하다
+$ menace
+
+@ 무리, 군중
+$ swarm
+
+@ 움켜잡다
+$ clutch
+
+@ 곤충
+$ insect
+
+@ 필사적인
+$ desperate
+
+@ 부드럽게 잡다
+$ cradle
+
+@ (충격을) 흡수하다
+$ absorb
+
+@ 인도, 보도
+$ pavement
+
+@ 재빨리 움직이다
+$ scramble
+
+@ 안도하게 하다
+$ relieve
+
+@ 끼익 하는 소리
+$ squeak
+
+@ 덧대다. 때우다
+$ patch
+
+@ 이마
+$ forehead
+
+@ 쿵 하는 소리
+$ thump
+
+@ 털이 많은
+$ hairy
+
+@ 알맞은, 적절한
+$ proper
+
+@ 취미
+$ pastime
+
+@ 몰래 가져가다
+$ sneak
+
+@ ~ 하는 내내
+$ throughout
+
+@ 복잡한, 정교한
+$ elaborate
+
+@ 감탄하며 바라보다
+$ admire
+
+@ 산산이 부수다
+$ shatter
+
+@ (대형) 통
+$ barrel
+
+@ 모습을 드러내다
+$ emerge
+
+@ 희미한, 약한
+$ faint
+
+@ (거칠게) 던지다
+$ hurl
+
+@ 전구
+$ bulb
+
+@ (몹시) 무섭게 하다
+$ terrify
+
+@ 무릎
+$ lap
+
+@ 세게 밀다
+$ slam
+
+@ 굴러 떨어지다
+$ tumble
+
+@ (스스로) 대비를 하다
+$ brace
+
+@ (물 속에서) 첨벙거리다
+$ splash
+
+@ 후퇴하다
+$ retreat
+
+
