@@ -4074,10 +4074,182 @@ $ roar
 @ ∼을 제외하고, 게다가
 $ besides
 
+@ 수확하다
+$ harvest
 
+@ (힘들여) 끌다
+$ haul
 
+@ 4륜 우마차
+$ wagon
 
+@ 작은 실수
+$ slip
 
+@ 썰매
+$ sled
+
+@ 필사적인
+$ desperate
+
+@ 코를 킁킁거리며 냄새를 맡다
+$ sniff
+
+@ 콧김을 뿜다
+$ snort
+
+@ 발굽
+$ hoof
+
+@ 살금살금 걷다
+$ creep
+
+@ (힘든 문제를 해결하기 위해) 씨름하다
+$ wrestle
+
+@ 마구
+$ harness
+
+@ ~을 뒤쫓다
+$ trail
+
+@ 광채
+$ luster
+
+@ (소리없이) 활짝 웃다
+$ grin
+
+@ 휙 숙이다. 피하다
+$ duck
+
+@ 부탁하다
+$ beg
+
+@ 간지럼을 태우다
+$ tickle
+
+@ 피식 웃다
+$ giggle
+
+@ 박수를 치다
+$ clap
+
+@ 소환하다
+$ summon
+
+@ 무더기
+$ mound
+
+@ 외치다
+$ exclaim
+
+@ ~인 체하다
+$ pretend
+
+@ (하늘로) 솟구치다
+$ soar
+
+@ 두려움을 모르는
+$ fearless
+
+@ 비틀 거리다
+$ stumble
+
+@ (한줄기의) 강한 바람
+$ blast
+
+@ 의식을 잃은
+$ unconscious
+
+@ 떨다
+$ shiver
+
+@ 몸을 움츠리다
+$ huddle
+
+@ (정신적) 고통, 괴로움, 곤경
+$ distress
+
+@ 고대의
+$ ancient
+
+@ 부상을 입히다
+$ wound
+
+@ 집어 넣다
+$ tuck
+
+@ 망토
+$ cloak
+
+@ 안장
+$ saddle
+
+@ 산등성이
+$ ridge
+
+@ 산비탈
+$ hillside
+
+@ 드러내다
+$ reveal
+
+@ 이끼
+$ moss
+
+@ 응시하다
+$ gaze
+
+@ 저주하다
+$ curse
+
+@ 통치다
+$ ruler
+
+@ 억누르다. 참다
+$ contain
+
+@ 비밀로 하다
+$ conceal
+
+@ 초상화
+$ portrait
+
+@ 애원하다
+$ plead
+
+@ 응시하다
+$ peer
+
+@ 걱정하는
+$ fearful
+
+@ 애도하다
+$ mourn
+
+@ 슬품, 비탄
+$ grief
+
+@ 끔찍한
+$ awful
+
+@ (특별한) 행사
+$ occasion
+
+@ 열렬한, 간절히 바라는
+$ eager
+
+@ 변변치 않은, 초라한
+$ humble
+
+@ 구렛나루
+$ whisker
+
+@ 경쾌한
+$ breezy
+
+@ 개발하다
+$ exploit
 
 
 
