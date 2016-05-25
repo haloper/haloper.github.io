@@ -3936,4 +3936,158 @@ $ splash
 @ 후퇴하다
 $ retreat
 
+@ 해군 대장
+$ admiral 
+
+@ 사건, 일
+$ affair 
+
+@ 담요
+$ blanket
+
+@ 무거운 짐(물리적, 정신적)
+$ burden
+
+@ 우리, 새장
+$ cage
+
+@ 분필
+$ chalk
+
+@ 기후, 풍토
+$ climate
+
+@ 석탄
+$ coal
+
+@ 깃털, 영광스러운 것
+$ feather
+
+@ 사람들, 가족, 민속의, 서민의
+$ folk
+
+@ 장례식
+$ funeral
+
+@ 구멍
+$ hollow
+
+@ 여행
+$ journey
+
+@ 새끼양
+$ lamb
+
+@ 자유
+$ liberty
+
+@ 통나무
+$ log
+
+@ 상인
+$ merchant
+
+@ 맹세, 선서
+$ oath
+
+@ 성, 궁궐, 궁전
+$ alace
+
+@ 발음
+$ pronunciation
+
+@ 지갑, 핸드북
+$ purse
+
+@ 고삐, 억제하다, 지배하다
+$ rein
+
+@ 교대자
+$ relay
+
+@ 수수께끼
+$ riddle
+
+@ 파멸, 화근, 파멸의 원인(복수 유적)
+$ ruin
+
+@ 상처, 흔적
+$ scar
+
+@ 학자, 학식이 있는 사람
+$ scholar
+
+@ 씨
+$ seed
+
+@ 그늘
+$ shade
+
+@ 삽
+$ spade
+
+@ 승리
+$ triumph
+
+@ 항해, 긴 배 여행
+$ voyage
+
+@ 걱정되는, 열망하는
+$ anxious
+
+@ 잔인한, 참혹한
+$ cruei
+
+@ 중대한, 위독한
+$ grave
+
+@ 공손한, 예의바른
+$ polite
+
+@ 귀중한
+$ precious
+
+@ 빠른
+$ rapid
+
+@ 종교적인, 신앙심이 깊은
+$ religious
+
+@ 재미있게 하다
+$ amuse
+
+@ 묻다
+$ bury
+
+@ 고용하다, 약속하다
+$ engage
+
+@ 엿듣다
+$ overhear
+
+@ 제거하다(rid-rid-rid)
+$ rid
+
+@ 으르렁거리다, 울부짖다
+$ roar
+
+@ ∼을 제외하고, 게다가
+$ besides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
