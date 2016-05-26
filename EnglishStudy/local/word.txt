@@ -4033,7 +4033,7 @@ $ voyage
 $ anxious
 
 @ 잔인한, 참혹한
-$ cruei
+$ cruel
 
 @ 중대한, 위독한
 $ grave
