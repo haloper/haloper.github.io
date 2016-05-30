@@ -4248,6 +4248,109 @@ $ breezy
 @ (부당하게) 이용하다
 $ exploit
 
+@ (편하게) 자리를 잡다
+$ settle
+
+@ 교외
+$ suburb
+
+@ 어마어마한
+$ vast
+
+@ 기이한
+$ weird
+
+@ 멍, 타박상
+$ bruise
+
+@ 실마리, 증거
+$ clue
+
+@ 억누르다, 방지하다
+$ contain
+
+@ 평가하다, 가늠하다
+$ assess
+
+@ 사유지
+$ estate
+
+@ 개량하다
+$ refine
+
+@ 보완하다
+$ complement
+
+@ 울타리
+$ hedge
+
+@ (물, 공기 등을) 확 뿌리다
+$ blast
+
+@ (사람의) 키, 지명도
+$ stature
+
+@ ~에 물결 무늬를 만들다, 갈비(뼈)
+$ rib
+
+@ 추진력
+$ thrust
+
+@ 이리저리 빠져 나가다
+$ weave
+
+@ 없애다
+$ eliminate
+
+@ (표면을) 스치듯 지나가다
+$ skim
+
+@ (나무의) 잔가지
+$ twig
+
+@ 십여 개, 12개짜리 한 묶음
+$ dozen
+
+@ (시야를 가리는) 희부연 것, 안개
+$ haze
+
+@ 망설이다
+$ hesitate
+
+@ 이용하다, 활용하다
+$ harness
+
+@ 다락(방)
+$ attic
+
+@ 방해하다
+$ interfere
+
+@ 모호한, 애매한
+$ vague
+
+@ 닮다
+$ resemble
+
+@ (어떤 장소에서) 가장 크다, 지배하다
+$ dominate
+
+@ 참새
+$ sparrow
+
+@ 귀한, 소중한
+$ preciouse
+
+@ 내던지다
+$ fling
+
+@ 베다
+$ slash
+
+@ 크게 실망시키다
+$ dismay
+
+
 
 
 
