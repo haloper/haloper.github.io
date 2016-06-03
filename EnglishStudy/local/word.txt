@@ -4350,6 +4350,69 @@ $ slash
 @ 크게 실망시키다
 $ dismay
 
+@ 파괴
+$ destruction
+
+@ 눈썹
+$ eyebrow
+
+@ (미간을) 찡그리다
+$ furrow
+
+@ 집중하다
+$ concentrate
+
+@ 돕다. 지원하다
+$ aid
+
+@ 볼, 뺨
+$ cheek
+
+@ 오도가도 못하게 발을 묶다
+$ strand
+
+@ 거만한, 오만한
+$ arrogant
+
+@ 간청하다
+$ beg
+
+@ 겁먹게 하다. 놀라게 하다
+$ frighten
+
+@ 뚫고 들어가다. 관통하다
+$ penetrate
+
+@ 무더기
+$ mound
+
+@ 급히 하강하기, 잠수
+$ dive
+
+@ 비틀거리다
+$ stagger
+
+@ 크게 흔들림, 몸서리
+$ shudder
+
+@ 창백한
+$ pale
+
+@ 엷은 안개
+$ mist
+
+@ 솟아 나오다. 샘솟다
+$ well
+
+@ (부상자를 싣는) 들것
+$ stretcher
+
+@ 참사, 재앙
+$ catastrophe
+
+@ 껍질을 벗기다
+$ peel
+
 
 
 
