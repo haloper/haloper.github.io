@@ -4413,7 +4413,92 @@ $ catastrophe
 @ 껍질을 벗기다
 $ peel
 
+@ 집중하다
+$ concentrate
 
+@ 벌거벗은, 텅 빈
+$ bare
+
+@ (세게) 잡아당기다
+$ tug
+
+@ 한가롭게 거닐다
+$ stroll
+
+@ 항구, 항만
+$ harbor
+
+@ (잃은 것을) 되찾다
+$ regain
+
+@ (개인, 단체의) 안녕, 행복; 복지, 후생
+$ welfare
+
+@ 굴러 떨어지다, 폭락하다
+$ tumble
+
+@ 아주 멋진, 아름다운, 선명한, 화려한
+$ gorgeous
+
+@ (사람이 앉거나 서 있는) 자세
+$ posture
+
+@ 쓰다듬다
+$ pat
+
+@ 협상하다
+$ bargain
+
+@ 대성당
+$ cathedral
+
+@ 합창단
+$ choir
+
+@ 행진, 행렬
+$ procession
+
+@ 제단
+$ altar
+
+@ 목구멍
+$ throat
+
+@ 망설이다
+$ hesitate
+
+@ 쿠션, 베개
+$ pillow
+
+@ 교리
+$ doctrine
+
+@ (공중에서) 부드럽게 퍼지다
+$ waft
+
+@ 대하다, 다루다
+$ treat
+
+@ (어떤 경우에) 어울리는, 적합한
+$ fitting
+
+@ 뻣뻣해지다, 경직되다
+$ stiffen
+
+@ (꽉)움켜쥐다
+$ clasp
+
+@ 훌륭한, 우수한
+$ marvelous
+
+@ 다리를 절다
+$ limp
+
+@ 긴장시키다
+$ tense
+
+@ (과일, 꽃 등을) 꺾다
+$ pluck
 
 
 
