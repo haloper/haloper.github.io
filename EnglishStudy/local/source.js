@@ -63,7 +63,8 @@ var source = {
 					}
 				}
 				source.length = source.data.length; 
-				source.random = Random(1, source.length - 1).concaveSlopeTransform();
+				// source.random = Random(1, source.length - 1).concaveSlopeTransform();
+				source.random = Random(1, source.length - 1);
 				source.next();
 				return new Promise(function(success) {
 					success();
