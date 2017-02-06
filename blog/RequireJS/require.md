@@ -6,7 +6,7 @@ AMD(Asynchronous Module Definition) spec의 구현체
 > AMD는 동적로딩, 의존성 관리, 모듈화를 구현하기 위한 API 디자인
 
 **동적로딩**
-HTML 페이지 상에서 <script> tag를 선언하여 script 파일을 로딩하는 전통적인 방식은 성능상의 문제가 있다. 브라우저는 <script> tag를 읽는 순간 script의 내용을 파싱해야 하고, 그동안 브라우저는 멈춰있게 된다. RequireJS는 페이지 랜덩링 이후에 <script> 태그를 동적으로 생성해서 삽입해 준다.
+HTML 페이지 상에서 script tag를 선언하여 script 파일을 로딩하는 전통적인 방식은 성능상의 문제가 있다. 브라우저는 script tag를 읽는 순간 script의 내용을 파싱해야 하고, 그동안 브라우저는 멈춰있게 된다. RequireJS는 페이지 랜덩링 이후에 script 태그를 동적으로 생성해서 삽입해 준다.
 
 **의존성 관리**
 Javascript는 의존성 관리가 되지 않는다. 가장 많이쓰이는 라이브러리를 위쪽에 배치하는 수 밖에....  
@@ -28,7 +28,7 @@ RequireJS는 불필요하게 Window namespace를 더럽히지 않고, 필요한 
     * app.js
     * require.js
 
-index.html 페이지에는 아래와 같은 <script> tag 하나만 선언해 주면 된다.
+index.html 페이지에는 아래와 같은 script tag 하나만 선언해 주면 된다.
 ```
 <script data-main="js/app.js" src="js/require.js"></script>
 ```
@@ -110,8 +110,9 @@ define(["my/cart", "my/inventory"],
 
 #### Configuration Options
 
-**shim**:
-모듈화 되지 않은 javascript 라이브러리들을 사용할 수 있게 해줌
+**baseUrl**: module id를 찾기 위한 기본 경로. baseUrl를 기준으로 상대경로로 표시함. 예외 ("/"로 시작, "http"로 시작, ".js"로 종료)
+**path**: baseUrl로 부터의 특정 경로를 하나의 값으로 설정할 수 있음
+**shim**: 모듈화 되지 않은 javascript 라이브러리들을 사용할 수 있게 해줌
 ```
 requirejs.config({
     shim: {
@@ -128,12 +129,46 @@ requirejs.config({
     }
 });
 ```  
-* **bundles**:  
-* **map**:
-* **config**:
+* **bundles**: 여러 module들을 하나의 script로 묶여저 있는 상태의 파일을 가져다 쓸 때 사용
+* **map**: 여러개의 모듈을 하나의 id에 매핑할 수 있고, 매핑된 id를 가져다 쓰는 곳에 따라 실제 어떤 모듈을 사용하게 되는지 설정할 수 있음
+```
+requirejs.config({
+    map: {
+        '*': { // some/oldmodule을 제외한 모든 모듈에서는 foo1.2 사용
+            'foo': 'foo1.2'
+        },
+        'some/oldmodule': { // some/oldmodule에서는 foo1.0 module 사용
+            'foo': 'foo1.0'
+        }
+    }
+});
+```
+* **config**: 모듈 내부에서 사용할 수 있는 설정값들을 정의함
+```
+requirejs.config({
+    config: {
+        'bar': {
+            size: 'large'
+        },
+        'baz': {
+            color: 'blue'
+        }
+    }
+});
+define(['module'], function (module) {
+    //Will be the value 'blue'
+    //modue은 해당 module의 기본 정보와 config 정보를 가지고 있는 dependency
+    var color = module.config().color;
+});
+```
 * **waitSeconds**: 모듈 로딩시 timeout 설정
-* **enforceDefine**:
-* **urlArgs**:
+* **enforceDefine**: 모든 모듈들이 define으로 정의되어야만 하도록 강제함. 아닐 시 오류 발생
+* **urlArgs**: 이 설정값을 이용하면 브라우저 캐쉬로 인해 수정된 script 파일이 적용되지 않는 문제를 해결할 수 있음.  
+scriptfilename.js?urlArgs <- 이런식으로 스크립트 파일을 호출함.  
+urlArgs에 빌드 시간을 넣어주게 되면 굉장히 효율적일듯...
+```
+urlArgs: "bust=" +  (new Date()).getTime()
+```
 
 #### Optimizer
 
@@ -169,12 +204,48 @@ node ../../r.js -o cssIn=main.css out=main-built.css
 ```
 
 #### Plugin
-*
-
-
-
-
+* Specify a Text File Dependency  
+Static 파일을 읽어와 String 형식으로 사용 가능
+```
+require(["some/module", "text!some/module.html", "text!some/module.css"],
+    function(module, html, css) {
+        //the html variable will be the text
+        //of the some/module.html file
+        //the css variable will be the text
+        //of the some/module.css file.
+    }
+);
+```
+* Define an I18N Bundle  
+다국어 처리를 지원함
+```
+//Contents of my/nls/colors.js
+define({
+    "root": {
+        "red": "red",
+        "blue": "blue",
+        "green": "green"
+    },
+    "fr-fr": true
+});
+```
+```
+//Contents of my/nls/fr-fr/colors.js
+define({
+    "red": "rouge",
+    "blue": "bleu",
+    "green": "vert"
+});
+```
+```
+define(["i18n!my/nls/colors"], function(colors) {
+    return {
+        testMessage: "The name for red in this locale is: " + colors.red
+    }
+});
+```
 
 #### 참고 사이트
 * http://d2.naver.com/helloworld/591319
 * http://requirejs.org/docs/api.html
+* https://github.com/requirejs/example-multipage-shim

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page 2</title>
+        <script src="js/lib/require.js"></script>
+        <script>
+            requirejs(['./js/common'], function (common) {
+                //js/common sets the baseUrl to be js/ so
+                //can just ask for 'app/main2' here instead
+                //of 'js/app/main2'
+                requirejs(['app/main3']);
+            });
+        </script>
+    </head>
+    <body>
+        <a href="page1.html">Go to Page 1</a>
+    </body>
+</html>

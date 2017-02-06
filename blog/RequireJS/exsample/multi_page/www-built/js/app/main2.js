@@ -1,0 +1,1 @@
+define("app/controller/c2",["./Base"],function(e){var n=new e("Controller 2");return n}),define("app/model/m2",["./Base"],function(e){var n=new e("This is the data for Page 2");return n}),define("app/main2",["jquery","app/lib","app/controller/c2","app/model/m2"],function(e,n,r,o,a){r.setModel(o),e(function(){r.render(n.getBody())})});
