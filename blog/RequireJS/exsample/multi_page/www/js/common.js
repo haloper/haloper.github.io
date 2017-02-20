@@ -8,7 +8,8 @@
 requirejs.config({
     baseUrl: 'js/lib',
     paths: {
-        app: '../app'
+        app: '../app',
+        res: '../res'
     },
     shim: {
         backbone: {
