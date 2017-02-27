@@ -5,7 +5,6 @@ define(["module", "jquery", "require", "backbone", "underscore"],
         $('body')
             .append('<div>backbone version: ' + Backbone.VERSION + '</div>')
             .append('<div>underscore version: ' + _.VERSION + '</div>')
-            .append('<div>require version: ' + require.VERSION + '</div>')
             .append('<div>userName ' + userName + '</div>');
     });
 });
