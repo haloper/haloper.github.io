@@ -51,7 +51,7 @@ function all() {
   let a = timeAsync(2, "A");
   let b = timeAsync(3, "B");
   let c = timeAsync(4, "C");
-  return Promise.all([a, b, c]).then(function(results) {
+  return Promise.all([a, b, c, setTimeout(function() { console.log("hello"); }, 2000)]).then(function(results) {
     console.log("모든 성공");
     console.log(results);
   }, function(reason) {

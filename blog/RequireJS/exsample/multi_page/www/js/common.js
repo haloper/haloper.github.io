@@ -8,7 +8,8 @@
 requirejs.config({
     baseUrl: 'js/lib',
     paths: {
-        app: '../app'
+        app: '../app',
+        res: '../res'
     },
     shim: {
         backbone: {
@@ -19,7 +20,7 @@ requirejs.config({
             exports: '_'
         }
     },
-    urlArgs: "ver1",
+    urlArgs: "ver2",
     config: {
         "app/main3" : {
           userName: 'hoon'
