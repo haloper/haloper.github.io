@@ -55,7 +55,7 @@
     }
 
     function buy() {
-        colsole.log("buy!!!")
+        console.log("buy!!!")
         return new Promise((resolve) => {
             $("#order_buy_tab").click()
             $("#ask_9 td:nth-child(4)").click()
@@ -74,7 +74,7 @@
     }
 
     function sell() {
-        colsole.log("sell!!!")
+        console.log("sell!!!")
         return new Promise((resolve) => {
             $("#order_sell_tab").click()
             $("#bid_9 td:nth-child(4)").click()
