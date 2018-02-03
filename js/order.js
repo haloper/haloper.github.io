@@ -26,6 +26,7 @@
             sell()
           }
         }
+        beforeMoney = nowMoney
       }, 1000 * 60)
     }
 
