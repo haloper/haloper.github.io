@@ -10,6 +10,7 @@
     `
     $('body').append(html)
     attachEvent()
+    changeStatus()
     ai()
 
     function ai() {
