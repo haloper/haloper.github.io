@@ -10,10 +10,33 @@
     `
     $('body').append(html)
     attachEvent()
+    changeStatus()
+    ai()
+
+    function ai() {
+      let beforeMoney = getCurrentMoney()
+      setInterval(() => {
+        let nowMoney = getCurrentMoney()
+        console.log("before : " + beforeMoney + " current : " + nowMoney)
+        if (checkCanBuy()) {
+          if (nowMoney > beforeMoney) {
+            buy()
+          }
+        } else {
+          if (nowMoney < beforeMoney) {
+            sell()
+          }
+        }
+        beforeMoney = nowMoney
+      }, 1000 * 60)
+    }
+
+    function getCurrentMoney() {
+      return Number($("#bid_1 td:nth-child(4)").text().replace(/\,/g, ''))
+    }
 
     function attachEvent() {
         $('#gazua_order_btn').off("click").on("click", orderClick)
-
     }
 
     function checkCanBuy() {
@@ -27,17 +50,14 @@
 
     function orderClick() {
         if (checkCanBuy()) {
-            buy().then(() => {
-                changeStatus()
-            })
+            buy()
         } else {
-            sell().then(() => {
-                changeStatus()
-            })
+            sell()
         }
     }
 
     function buy() {
+        console.log("buy!!!")
         return new Promise((resolve) => {
             $("#order_buy_tab").click()
             $("#ask_9 td:nth-child(4)").click()
@@ -47,6 +67,7 @@
             function func() {
                 if (!checkCanBuy()) {
                     clearInterval(intervalId)
+                    changeStatus()
                     resolve()
                 }
             }
@@ -55,6 +76,7 @@
     }
 
     function sell() {
+        console.log("sell!!!")
         return new Promise((resolve) => {
             $("#order_sell_tab").click()
             $("#bid_9 td:nth-child(4)").click()
