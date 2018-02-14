@@ -63,9 +63,9 @@ def cal_que(q):
     return item
 
 
-def write_result(result, filename, test_rate):
+def write_result(result, filename, test_filename, test_rate):
     f = open(filename, 'w')
-    f_test = open(filename + "_test", "w")
+    f_test = open(test_filename, "w")
     for row in result:
         data = ",".join(map(str, row)) + "\n"
         ran = random.randrange(0,100)
@@ -77,8 +77,13 @@ def write_result(result, filename, test_rate):
     f.close()
 
 
-data_folder = "../server/data/"
-refined_foler = "../server/data/refined/"
-result = read_data(data_folder + "20180207")
-write_result(result, refined_foler + "20180207", 5)
+def filter(filename):
+    data_folder = "../server/data/"
+    refined_foler = "../server/data/refined/"
+    result = read_data(data_folder + filename)
+    write_result(result, refined_foler + filename, refined_foler + '/test/' + filename, 30)
+
+
+filter("20180212")
+
 
