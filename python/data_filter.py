@@ -1,7 +1,7 @@
 import numpy as np
 import random
 
-FEATURE_SIZE = 5
+FEATURE_SIZE = 10
 LABEL_PAD = 1
 
 
@@ -51,7 +51,7 @@ def cal_que(q):
 
     current_money = que[FEATURE_SIZE - 1][11]
     next_money = que[FEATURE_SIZE][11]
-    label = next_money - current_money
+    diff = next_money - current_money
     item = []
     for i in range(FEATURE_SIZE):
         for j in range(1,11):
@@ -59,6 +59,11 @@ def cal_que(q):
                 item.append(que[i,j] - current_money)
             else:
                 item.append(que[i,j])
+    if diff < 0:
+        label = 1
+    else:
+        label = 0
+
     item.append(label)
     return item
 
@@ -78,12 +83,20 @@ def write_result(result, filename, test_filename, test_rate):
 
 
 def filter(filename):
-    data_folder = "../server/data/"
-    refined_foler = "../server/data/refined/"
-    result = read_data(data_folder + filename)
-    write_result(result, refined_foler + filename, refined_foler + '/test/' + filename, 30)
+    DATA_FOLDER = "../server/data/"
+    REFINED_TRAIN_FOLDER = "../server/data/refined/train/"
+    REFINED_TEST_FOLDER = "../server/data/refined/test/"
+    result = read_data(DATA_FOLDER + filename)
+    write_result(result, REFINED_TRAIN_FOLDER + filename, REFINED_TEST_FOLDER + filename, 30)
 
 
+filter("20180207")
+filter("20180208")
+filter("20180209")
+filter("20180210")
+filter("20180211")
 filter("20180212")
+filter("20180213")
+filter("20180214")
 
 
