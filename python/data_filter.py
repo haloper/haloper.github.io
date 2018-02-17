@@ -3,6 +3,10 @@ import random
 
 FEATURE_SIZE = 10
 LABEL_PAD = 1
+DATA_FOLDER = "../server/data/"
+REFINED_TRAIN_FOLDER = "../server/data/refined/train/"
+REFINED_TEST_FOLDER = "../server/data/refined/test/"
+TEST_PERCENT = 30
 
 
 def read_data(filename):
@@ -83,11 +87,8 @@ def write_result(result, filename, test_filename, test_rate):
 
 
 def filter(filename):
-    DATA_FOLDER = "../server/data/"
-    REFINED_TRAIN_FOLDER = "../server/data/refined/train/"
-    REFINED_TEST_FOLDER = "../server/data/refined/test/"
     result = read_data(DATA_FOLDER + filename)
-    write_result(result, REFINED_TRAIN_FOLDER + filename, REFINED_TEST_FOLDER + filename, 30)
+    write_result(result, REFINED_TRAIN_FOLDER + filename, REFINED_TEST_FOLDER + filename, TEST_PERCENT)
 
 
 filter("20180207")

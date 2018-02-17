@@ -20,12 +20,17 @@ import argparse
 import tensorflow as tf
 
 import data_loader
+import datetime
+
+
+DATA_FOLDER = "../server/data/"
 
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--batch_size', default=100, type=int, help='batch size')
 parser.add_argument('--train_steps', default=100000, type=int,
                     help='number of training steps')
+parser.add_argument('--date', default=None, help='predict date')
 
 def main(argv):
     args = parser.parse_args(argv[1:])
@@ -61,6 +66,16 @@ def main(argv):
 
     print('\nTest set accuracy: {accuracy:0.3f}\n'.format(**eval_result))
 
+
+    if args.date == None:
+        today = datetime.datetime.now().strftime("%Y%m%d")
+
+    today = "20180214"
+
+    print(today)
+    log_date = datetime.date.fromtimestamp(25303161 * 60)
+    print(log_date.strftime("%Y-%m-%d %H:%M"))
+
     # Generate predictions from the model
     # expected = ['Setosa', 'Versicolor', 'Virginica']
     # predict_x = {
@@ -83,6 +98,15 @@ def main(argv):
     #
     #     print(template.format(data_loader.SPECIES[class_id],
     #                           100 * probability, expec))
+
+
+
+def get_real_data(filename):
+    file = open(filename, "r")
+    for line in file:
+        pass
+
+    file.close()
 
 
 if __name__ == '__main__':
