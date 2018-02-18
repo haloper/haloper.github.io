@@ -91,13 +91,16 @@ def filter(filename):
     write_result(result, REFINED_TRAIN_FOLDER + filename, REFINED_TEST_FOLDER + filename, TEST_PERCENT)
 
 
-filter("20180207")
-filter("20180208")
-filter("20180209")
-filter("20180210")
-filter("20180211")
-filter("20180212")
-filter("20180213")
-filter("20180214")
+def main():
+    filter("20180207")
+    filter("20180208")
+    filter("20180209")
+    filter("20180210")
+    filter("20180211")
+    filter("20180212")
+    filter("20180213")
+    filter("20180214")
 
 
+if __name__ == '__main__':
+    main()
