@@ -17,12 +17,15 @@ def main(argv):
     args = parser.parse_args(argv[1:])
     classifier = model.get_classifier()
 
+    today = None
     if args.date == None:
         today = datetime.datetime.now().strftime("%Y%m%d")
+    else:
+        today = args.date
 
-    today = "20180214"
+    # today = "20180214"
 
-    print("Target file : " , today)
+    # print("Target file : " , today)
 
     file = open("../server/data/" + today, "r")
     lines = file.readlines()
@@ -45,13 +48,14 @@ def main(argv):
 
     item.pop()
 
-    print(item)
+    # print(item)
 
     predict_x = {}
     expected = model.LABELS[:]
 
     for i in range(len(model.COLUMN_NAMES)):
-        predict_x[model.COLUMN_NAMES[i]] = item[i]
+        predict_x[model.COLUMN_NAMES[i]] = []
+        predict_x[model.COLUMN_NAMES[i]].append(item[i])
 
 
     predictions = classifier.predict(
@@ -61,18 +65,18 @@ def main(argv):
 
 
     for pred_dict, expec in zip(predictions, expected):
-        template = ('\nPrediction is "{}" ({:.1f}%), expected "{}"')
+        template = ('{},{:.1f}')
 
         class_id = pred_dict['class_ids'][0]
         probability = pred_dict['probabilities'][class_id]
 
         print(template.format(model.LABELS[class_id],
-                              100 * probability, expec))
+                              100 * probability))
 
 
 
 
 
 if __name__ == '__main__':
-    tf.logging.set_verbosity(tf.logging.INFO)
+    tf.logging.set_verbosity(tf.logging.FATAL)
     tf.app.run(main)
