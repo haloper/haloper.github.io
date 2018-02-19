@@ -24,12 +24,15 @@
               + "," + obj.bid4.count
               + "," + obj.bid5.price
               + "," + obj.bid5.count
-    sendLog(log)
+    sendLog(log).then((data) => {
+      console.log(data)
+    })
   }, 1000 * 60)
 
   function sendLog (log) {
-    $.ajax({ url: 'http://localhost:9080?data=' + log
+    return $.ajax({ url: 'http://localhost:9080?data=' + log
         , dataType: 'jsonp'
+        , jsonpCallback: "jcallback"
     });
 
   }

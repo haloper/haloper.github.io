@@ -1,6 +1,10 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
+const exec = require('child_process').exec
+
+const PYTHON_PATH = "/Users/nhnent/Documents/github/haloper.github.io/python/"
+const PREDICTER = "python3 ./predicter.py"
 
 app.get('/', (req, res) => {
   let data = req.query.data
@@ -13,10 +17,22 @@ app.get('/', (req, res) => {
   fs.appendFile('/Users/nhnent/Documents/github/haloper.github.io/server/data/' + fileName, data + '\n', function (err) {
     if(err) {
         console.log(err)
+        return
     }
     console.log(data)
+
+    exec("cd " + PYTHON_PATH, function (error, stdout, stderr) {
+        exec(PREDICTER, function (error, stdout, stderr) {
+            if(error) {
+                console.log(stderr)
+                return
+            }
+            let msg = stdout
+            res.send("jcallback('" + msg + "')")
+        })
+    })
   });
-  res.send("console.log('ok')")
+
  });
 
 app.listen(9080, () => {

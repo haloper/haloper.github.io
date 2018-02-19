@@ -46,6 +46,10 @@ def main(argv):
 
     item = data_filter.cal_que(q)
 
+    if item is None:
+        print("Data is bad")
+        return
+
     item.pop()
 
     # print(item)
@@ -65,12 +69,13 @@ def main(argv):
 
 
     for pred_dict, expec in zip(predictions, expected):
-        template = ('{},{:.1f}')
+        template = ('{},{},{:.1f}')
 
         class_id = pred_dict['class_ids'][0]
         probability = pred_dict['probabilities'][class_id]
 
-        print(template.format(model.LABELS[class_id],
+        print(template.format(add_item[0],
+                              model.LABELS[class_id],
                               100 * probability))
 
 

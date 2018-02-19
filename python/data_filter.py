@@ -100,6 +100,11 @@ def main():
     filter("20180212")
     filter("20180213")
     filter("20180214")
+    filter("20180215")
+    filter("20180216")
+    filter("20180217")
+    filter("20180218")
+    filter("20180219")
 
 
 if __name__ == '__main__':
