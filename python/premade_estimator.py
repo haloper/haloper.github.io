@@ -62,7 +62,7 @@ def main(argv):
     # Generate predictions from the model
     expected = ['Setosa', 'Versicolor', 'Virginica']
     predict_x = {
-        'SepalLength': [5.1, 5.9, 6.9],
+        'SepalLength': [6.2, 5.9, 6.9],
         'SepalWidth': [3.3, 3.0, 3.1],
         'PetalLength': [1.7, 4.2, 5.4],
         'PetalWidth': [0.5, 1.5, 2.1],

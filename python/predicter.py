@@ -23,7 +23,7 @@ def main(argv):
     else:
         today = args.date
 
-    # today = "20180214"
+    today = "20180216"
 
     # print("Target file : " , today)
 
@@ -55,20 +55,17 @@ def main(argv):
     # print(item)
 
     predict_x = {}
-    expected = model.LABELS[:]
 
     for i in range(len(model.COLUMN_NAMES)):
         predict_x[model.COLUMN_NAMES[i]] = []
         predict_x[model.COLUMN_NAMES[i]].append(item[i])
 
-
     predictions = classifier.predict(
         input_fn=lambda:data_loader.eval_input_fn(predict_x,
                                                 labels=None,
-                                                batch_size=1))
+                                                batch_size=100))
 
-
-    for pred_dict, expec in zip(predictions, expected):
+    for pred_dict in predictions:
         template = ('{},{},{:.1f}')
 
         class_id = pred_dict['class_ids'][0]
