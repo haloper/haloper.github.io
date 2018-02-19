@@ -21,16 +21,18 @@ app.get('/', (req, res) => {
     }
     console.log(data)
 
-    exec("cd " + PYTHON_PATH, function (error, stdout, stderr) {
-        exec(PREDICTER, function (error, stdout, stderr) {
-            if(error) {
-                console.log(stderr)
-                return
-            }
-            let msg = stdout
-            res.send("jcallback('" + msg + "')")
-        })
-    })
+    let msg = "OK"
+
+    res.send("jcallback('" + msg + "')")
+    // exec("cd " + PYTHON_PATH, function (error, stdout, stderr) {
+    //     exec(PREDICTER, function (error, stdout, stderr) {
+    //         if(error) {
+    //             console.log(stderr)
+    //             return
+    //         }
+    //         let msg = stdout
+    //     })
+    // })
   });
 
  });
