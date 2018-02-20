@@ -64,7 +64,7 @@ def get_classifier():
     classifier = tf.estimator.DNNClassifier(
         feature_columns=my_feature_columns,
         # Two hidden layers of 10 nodes each.
-        hidden_units=[80, 120, 150, 200, 170, 120, 80, 50, 20, 5],
+        hidden_units=[80, 80, 80, 80],
         # The model must choose between 3 classes.
         n_classes=2,
         model_dir="models/ver_1_0_0",

@@ -40,7 +40,7 @@ def train_input_fn(features, labels, batch_size):
     dataset = tf.data.Dataset.from_tensor_slices((dict(features), labels))
 
     # Shuffle, repeat, and batch the examples.
-    dataset = dataset.batch(batch_size)
+    dataset = dataset.repeat().batch(batch_size)
 
     # Return the dataset.
     return dataset

@@ -42,30 +42,32 @@ def main(argv):
     classifier = tf.estimator.DNNClassifier(
         feature_columns=my_feature_columns,
         # Two hidden layers of 10 nodes each.
-        hidden_units=[10, 10],
+        hidden_units=[80, 80, 80, 80],
         # The model must choose between 3 classes.
-        n_classes=3)
+        n_classes=3,
+        model_dir="models/premade_1_0_0",
+        dropout=0.1)
 
     # Train the Model.
     classifier.train(
         input_fn=lambda:iris_data.train_input_fn(train_x, train_y,
                                                  args.batch_size),
         steps=args.train_steps)
+    #
+    # # Evaluate the model.
+    # eval_result = classifier.evaluate(
+    #     input_fn=lambda:iris_data.eval_input_fn(test_x, test_y,
+    #                                             args.batch_size))
 
-    # Evaluate the model.
-    eval_result = classifier.evaluate(
-        input_fn=lambda:iris_data.eval_input_fn(test_x, test_y,
-                                                args.batch_size))
-
-    print('\nTest set accuracy: {accuracy:0.3f}\n'.format(**eval_result))
+    # print('\nTest set accuracy: {accuracy:0.3f}\n'.format(**eval_result))
 
     # Generate predictions from the model
     expected = ['Setosa', 'Versicolor', 'Virginica']
     predict_x = {
-        'SepalLength': [6.2, 5.9, 6.9],
-        'SepalWidth': [3.3, 3.0, 3.1],
-        'PetalLength': [1.7, 4.2, 5.4],
-        'PetalWidth': [0.5, 1.5, 2.1],
+        'SepalLength': [5.9, 5.9, 6.9],
+        'SepalWidth': [3.1, 3.0, 3.1],
+        'PetalLength': [4.1, 4.2, 5.4],
+        'PetalWidth': [1.4, 1.5, 2.1],
     }
 
     predictions = classifier.predict(
