@@ -26,7 +26,7 @@ def read_data(filename):
                 result.append(item)
             q.pop(0)
 
-    print("total count : ", total_data_count, ", success data : ", len(result), ", bad data : ", total_data_count - len(result))
+    print(filename, " - total count : ", total_data_count, ", success data : ", len(result), ", bad data : ", total_data_count - len(result))
     file.close()
 
     return result
@@ -60,13 +60,35 @@ def cal_que(q):
     for i in range(FEATURE_SIZE):
         for j in range(1,11):
             if j % 2 == 1:
-                item.append(que[i,j] - current_money)
+                item.append((que[i,j] - current_money) / 1000)
             else:
                 item.append(que[i,j])
-    if diff < 0:
-        label = 1
-    else:
+
+    # label : 0 ~ 10
+    rate = (diff / current_money) * 100
+    if rate < -1:
         label = 0
+    elif rate < -0.6:
+        label = 1
+    elif rate < -0.3:
+        label = 2
+    elif rate < -0.1:
+        label = 3
+    elif rate < 0:
+        label = 4
+    elif rate == 0:
+        label = 5
+    elif rate > 1:
+        label = 10
+    elif rate > 0.6:
+        label = 9
+    elif rate > 0.3:
+        label = 8
+    elif rate > 0.1:
+        label = 7
+    elif rate > 0:
+        label = 6
+
 
     item.append(label)
     return item
@@ -92,20 +114,22 @@ def filter(filename):
 
 
 def main():
-    # filter("20180207")
-    # filter("20180208")
-    # filter("20180209")
-    # filter("20180210")
-    # filter("20180211")
-    # filter("20180212")
-    # filter("20180213")
-    # filter("20180214")
-    # filter("20180215")
-    # filter("20180216")
-    # filter("20180217")
-    # filter("20180218")
-    # filter("20180219")
+    filter("20180207")
+    filter("20180208")
+    filter("20180209")
+    filter("20180210")
+    filter("20180211")
+    filter("20180212")
+    filter("20180213")
+    filter("20180214")
+    filter("20180215")
+    filter("20180216")
+    filter("20180217")
+    filter("20180218")
+    filter("20180219")
     filter("20180220")
+    filter("20180221")
+    filter("20180222")
 
 
 if __name__ == '__main__':

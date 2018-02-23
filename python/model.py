@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 
-LABELS = ['UP', 'DOWN']
+LABELS = ['-1', '-0.6', '-0.3', '-0.1', '-0', '0', '0+', '0.1', '0.3', '0.6', '1']
 COLUMN_NAMES = [
     'ask_1_5_val', 'ask_1_5_cnt',
     'ask_1_4_val', 'ask_1_4_cnt',
@@ -64,11 +64,11 @@ def get_classifier():
     classifier = tf.estimator.DNNClassifier(
         feature_columns=my_feature_columns,
         # Two hidden layers of 10 nodes each.
-        hidden_units=[80, 80, 80, 80],
+        hidden_units=[400] * 6,
         # The model must choose between 3 classes.
-        n_classes=2,
+        n_classes=11,
         model_dir="models/ver_1_0_0",
-        dropout=0.1)
+        dropout=0.3)
 
     return classifier
 
