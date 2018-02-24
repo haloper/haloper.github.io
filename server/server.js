@@ -1,41 +1,34 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
-const exec = require('child_process').exec
+const util = require('util');
+const exec = util.promisify(require('child_process').exec);
 
 const PYTHON_PATH = "/Users/nhnent/Documents/github/haloper.github.io/python/"
-const PREDICTER = "python3 ./predicter.py"
+
+async function request(req, res) {
+    let data = req.query.data
+    let today = new Date()
+    let year = today.getFullYear()
+    let month = (today.getMonth() + 1) < 10 ? '0' + (today.getMonth() + 1) : (today.getMonth() + 1)
+    let day = today.getDate() < 10 ? '0' + today.getDate() : today.getDate()
+    let fileName = "" + year + month + day
+
+    // const {err} = await fs.appendFile('/Users/nhnent/Documents/github/haloper.github.io/server/data/' + fileName, data + '\n')
+    // if(err) {
+    //     console.log(err)
+    //     return
+    // }
+    console.log(data)
+    const { stdout, stderr } = await exec(PYTHON_PATH + '/predictor.sh');
+
+    res.send("jcallback('" + stdout + "')")
+}
+
 
 app.get('/', (req, res) => {
-  let data = req.query.data
-  let today = new Date()
-  let year = today.getFullYear()
-  let month = (today.getMonth() +1) < 10 ? '0' + (today.getMonth() +1) : (today.getMonth() +1)
-  let day = today.getDate() < 10 ? '0' + today.getDate() : today.getDate()
-  let fileName = "" + year + month + day
-
-  fs.appendFile('/Users/nhnent/Documents/github/haloper.github.io/server/data/' + fileName, data + '\n', function (err) {
-    if(err) {
-        console.log(err)
-        return
-    }
-    console.log(data)
-
-    let msg = "OK"
-
-    res.send("jcallback('" + msg + "')")
-    // exec("cd " + PYTHON_PATH, function (error, stdout, stderr) {
-    //     exec(PREDICTER, function (error, stdout, stderr) {
-    //         if(error) {
-    //             console.log(stderr)
-    //             return
-    //         }
-    //         let msg = stdout
-    //     })
-    // })
-  });
-
- });
+  request(req, res);
+});
 
 app.listen(9080, () => {
   console.log('http://localhost:9080');
