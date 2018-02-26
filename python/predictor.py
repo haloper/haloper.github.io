@@ -11,28 +11,23 @@ import data_loader
 parser = argparse.ArgumentParser()
 parser.add_argument('--date', default=None, help='predict date')
 
-ROOT_DIR = "/Users/hoon/Documents/github/haloper.github.io/"
 
-def main(argv):
-    args = parser.parse_args(argv[1:])
-
+def predict(date, time):
     classifier = model.get_classifier()
-
-    if args.date == None:
-        today = datetime.datetime.now().strftime("%Y%m%d")
-    else:
-        today = args.date
-
-    today = "20180213"
-
-    # print("Target file : " , today)
-
-    file = open(ROOT_DIR + "server/data/" + today, "r")
+    file = open("../server/data/" + date, "r")
     lines = file.readlines()
     file.close()
 
     line_size = data_filter.FEATURE_SIZE
-    last_lines = lines[line_size * -1:]
+    if time == None:
+        last_lines = lines[line_size * -1:]
+    else:
+        for i in range(len(lines)):
+            if lines[i].startswith(time) and i >= line_size:
+                last_lines = lines[i-line_size:i]
+                break;
+        else:
+            return "Time is not valued"
 
     q = []
 
@@ -47,8 +42,7 @@ def main(argv):
     item = data_filter.cal_que(q)
 
     if item is None:
-        print("Data is bad")
-        return
+        return "Data is bad"
 
     item.pop()
 
@@ -68,14 +62,30 @@ def main(argv):
                                                   batch_size=100))
 
     for pred_dict in predictions:
-        template = ('{}, {}, {:.10f}')
+        template = ('"time":{}, "label":{}, "probability":{:.10f}')
 
         class_id = pred_dict['class_ids'][0]
         probability = pred_dict['probabilities'][class_id]
 
-        print(template.format(last_time,
-                              model.LABELS[class_id],
-                              100 * probability))
+        return "{" + template.format(last_time,
+                               model.LABELS[class_id],
+                               100 * probability) + "}"
+
+
+
+def main(argv):
+    args = parser.parse_args(argv[1:])
+
+    if args.date == None:
+        today = datetime.datetime.now().strftime("%Y%m%d")
+    else:
+        today = args.date
+
+    today = "20180226"
+    time = "25326197"
+
+    # print("Target file : " , today)
+    print(predict(today, time))
 
 
 
