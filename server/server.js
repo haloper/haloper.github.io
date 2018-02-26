@@ -6,7 +6,7 @@ const exec = util.promisify(require('child_process').exec);
 
 const PYTHON_PATH = "/Users/nhnent/Documents/github/haloper.github.io/python/"
 
-async function request(req, res) {
+async function addLog(req, res) {
     let data = req.query.data
     let today = new Date()
     let year = today.getFullYear()
@@ -14,20 +14,28 @@ async function request(req, res) {
     let day = today.getDate() < 10 ? '0' + today.getDate() : today.getDate()
     let fileName = "" + year + month + day
 
-    // const {err} = await fs.appendFile('/Users/nhnent/Documents/github/haloper.github.io/server/data/' + fileName, data + '\n')
-    // if(err) {
-    //     console.log(err)
-    //     return
-    // }
+    try {
+        fs.appendFileSync('/Users/nhnent/Documents/github/haloper.github.io/server/data/test/' + fileName, data + '\n')
+    }
+    catch  (err) {
+        console.log(err)
+        return
+    }
     console.log(data)
-    const { stdout, stderr } = await exec(PYTHON_PATH + '/predictor.sh');
+    res.send("jcallback('ok')")
+}
 
+async function predict(req, res) {
+    const { stdout, stderr } = await exec(PYTHON_PATH + 'predictor.sh');
     res.send("jcallback('" + stdout + "')")
 }
 
-
 app.get('/', (req, res) => {
-  request(req, res);
+    addLog(req, res);
+});
+
+app.get('/predict', (req, res) => {
+    predict(req, res);
 });
 
 app.listen(9080, () => {

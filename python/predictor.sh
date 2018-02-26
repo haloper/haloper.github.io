@@ -1,2 +1,2 @@
-cd /Users/hoon/Documents/github/haloper.github.io/python
+cd /Users/nhnent/Documents/github/haloper.github.io/python/
 python3 predictor.py
