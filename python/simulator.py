@@ -10,6 +10,10 @@ money = 1000000
 stock = 0
 count = 0
 fee = 0
+before_value = 0
+before_money = 0
+success_cnt = 0
+fail_cnt = 0
 
 
 def buy(value):
@@ -39,6 +43,7 @@ def get_state(pred):
 
 
 def process_result(tokens, time, result):
+    global success_cnt, fail_cnt, before_money, before_value
     if not result.startswith("{"):
         return
     pred = json.loads(result)
@@ -46,12 +51,24 @@ def process_result(tokens, time, result):
     state = get_state(pred)
     print(time, " ", price, " ", state)
 
+    if money > before_money and before_value > 0:
+        success_cnt += 1
+    elif money < before_money and before_value < 0:
+        success_cnt += 1
+    elif money == before_money and before_value == 0:
+        success_cnt += 1
+    else:
+        fail_cnt += 1
+
     if state >= 0 and stock == 0:
         buy(price)
     elif state < 0 and stock > 0:
         sell(price)
 
-    print("money : ", money, ", count : ", count, ", fee : ", fee)
+    before_value = state
+    before_money = money
+
+    print("money : ", money, ", count : ", count, ", fee : ", fee, ", success_cnt : ", success_cnt, ", fail_cnt : ", fail_cnt)
 
 
 def main(argv):
