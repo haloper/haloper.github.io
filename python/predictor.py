@@ -50,9 +50,9 @@ def predict(date, time):
 
     predict_x = {}
 
-    for i in range(len(model.COLUMN_NAMES)):
-        predict_x[model.COLUMN_NAMES[i]] = []
-        predict_x[model.COLUMN_NAMES[i]].append(item[i])
+    for i in range(model.FEATURE_SIZE):
+        predict_x[i] = []
+        predict_x[i].append(item[i])
 
 
 

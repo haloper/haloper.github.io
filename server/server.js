@@ -15,7 +15,7 @@ async function addLog(req, res) {
     let fileName = "" + year + month + day
 
     try {
-        fs.appendFileSync('/Users/nhnent/Documents/github/haloper.github.io/server/data/test/' + fileName, data + '\n')
+        fs.appendFileSync('/Users/nhnent/Documents/github/haloper.github.io/server/data/' + fileName, data + '\n')
     }
     catch  (err) {
         console.log(err)

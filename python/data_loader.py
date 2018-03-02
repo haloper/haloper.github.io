@@ -10,7 +10,7 @@ REFINED_TEST_PATH = "../server/data/refined/test/"
 
 def load_data(y_name='label'):
 
-    csv_column_names = model.COLUMN_NAMES[:]
+    csv_column_names = model.get_column_names()
     csv_column_names.append("label")
 
     train = None

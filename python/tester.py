@@ -30,10 +30,12 @@ def main(argv):
     predict_x = {}
     expected = []
 
-    for i in range(len(model.COLUMN_NAMES)):
-        predict_x[model.COLUMN_NAMES[i]] = []
+    column_names = model.get_column_names();
+
+    for i in range(len(column_names)):
+        predict_x[column_names[i]] = []
         for item in items:
-            predict_x[model.COLUMN_NAMES[i]].append(item[i])
+            predict_x[column_names[i]].append(item[i])
 
     for item in items:
         expected.append(item[len(item) - 1])

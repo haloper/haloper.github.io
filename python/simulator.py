@@ -18,6 +18,7 @@ fail_cnt = 0
 
 def buy(value):
     global money, stock, count, fee
+    print("buy : ", value)
     money = money - int(value)
     stock = stock + int(value)
     count += 1
@@ -26,6 +27,7 @@ def buy(value):
 
 def sell(value):
     global money, stock, count, fee
+    print("sell : ", value)
     money = money + int(value)
     stock = 0
     count += 1
@@ -34,12 +36,17 @@ def sell(value):
 
 def get_state(pred):
     label = pred['label']
-    if label == 0:
-        return 0
-    elif label == "-0" or label < 0:
-        return -1
-    else:
+    if float(label) >= 0.3:
         return 1
+    elif float(label) >= -0.1:
+        return 0
+    return -1
+    # if label == 0:
+    #     return 0
+    # elif label == "-0" or label < 0:
+    #     return -1
+    # else:
+    #     return 1
 
 
 def process_result(tokens, time, result):
@@ -51,16 +58,16 @@ def process_result(tokens, time, result):
     state = get_state(pred)
     print(time, " ", price, " ", state)
 
-    if money > before_money and before_value > 0:
-        success_cnt += 1
-    elif money < before_money and before_value < 0:
-        success_cnt += 1
-    elif money == before_money and before_value == 0:
-        success_cnt += 1
-    else:
-        fail_cnt += 1
+    # if money > before_money and before_value > 0:
+    #     success_cnt += 1
+    # elif money < before_money and before_value < 0:
+    #     success_cnt += 1
+    # elif money == before_money and before_value == 0:
+    #     success_cnt += 1
+    # else:
+    #     fail_cnt += 1
 
-    if state >= 0 and stock == 0:
+    if state > 0 and stock == 0:
         buy(price)
     elif state < 0 and stock > 0:
         sell(price)
@@ -68,7 +75,7 @@ def process_result(tokens, time, result):
     before_value = state
     before_money = money
 
-    print("money : ", money, ", count : ", count, ", fee : ", fee, ", success_cnt : ", success_cnt, ", fail_cnt : ", fail_cnt)
+    print("money : ", money, ", count : ", count, ", fee : ", fee, ", success_cnt : ", success_cnt, ", fail_cnt : ", fail_cnt, ", label : ", pred['label'])
 
 
 def main(argv):
