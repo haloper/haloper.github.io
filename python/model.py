@@ -22,7 +22,7 @@ def get_classifier():
     classifier = tf.estimator.DNNClassifier(
         feature_columns=my_feature_columns,
         # Two hidden layers of 10 nodes each.
-        hidden_units=[1000] * 3,
+        hidden_units=[800] * 3,
         # The model must choose between 3 classes.
         n_classes=11,
         model_dir="models/ver_1_0_0",

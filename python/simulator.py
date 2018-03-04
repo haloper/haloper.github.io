@@ -12,6 +12,8 @@ count = 0
 fee = 0
 before_value = 0
 before_money = 0
+buy_money = 0
+
 success_cnt = 0
 fail_cnt = 0
 
@@ -50,37 +52,36 @@ def get_state(pred):
 
 
 def process_result(tokens, time, result):
-    global success_cnt, fail_cnt, before_money, before_value
+    global success_cnt, fail_cnt, before_money, before_value, buy_money
     if not result.startswith("{"):
         return
-    pred = json.loads(result)
-    price = tokens[11]
-    state = get_state(pred)
-    print(time, " ", price, " ", state)
+    predict = json.loads(result)
+    current_price = tokens[11]
+    state = get_state(predict)
+    print("time : ", time, " current_price : ", current_price)
 
-    # if money > before_money and before_value > 0:
-    #     success_cnt += 1
-    # elif money < before_money and before_value < 0:
-    #     success_cnt += 1
-    # elif money == before_money and before_value == 0:
-    #     success_cnt += 1
-    # else:
-    #     fail_cnt += 1
+    label = float(predict['label'])
+    # check buy
+    if label >= 0.3 and stock == 0:
+        buy_money = current_price
+        buy(current_price)
 
-    if state > 0 and stock == 0:
-        buy(price)
-    elif state < 0 and stock > 0:
-        sell(price)
+    # check sell
+    if stock > 0:
+        if current_price < buy_money or label < -0.3:
+            sell(current_price)
+
+
 
     before_value = state
     before_money = money
 
-    print("money : ", money, ", count : ", count, ", fee : ", fee, ", success_cnt : ", success_cnt, ", fail_cnt : ", fail_cnt, ", label : ", pred['label'])
+    print("money : ", money, ", count : ", count, ", fee : ", fee, ", success_cnt : ", success_cnt, ", fail_cnt : ", fail_cnt, ", label : ", predict['label'])
 
 
 def main(argv):
 
-    date = "20180227"
+    date = "20180302"
 
     file = open("../server/data/" + date, "r")
     lines = file.readlines()

@@ -18,7 +18,7 @@ def predict(date, time):
     lines = file.readlines()
     file.close()
 
-    line_size = data_filter.FEATURE_SIZE
+    line_size = model.FEATURE_SIZE + model.LABEL_PAD
     if time == None:
         last_lines = lines[line_size * -1:]
     else:
@@ -50,9 +50,9 @@ def predict(date, time):
 
     predict_x = {}
 
-    for i in range(model.FEATURE_SIZE):
-        predict_x[i] = []
-        predict_x[i].append(item[i])
+    for i in range(len(item)):
+        predict_x["C" + str(i)] = []
+        predict_x["C" + str(i)].append(item[i])
 
 
 
@@ -81,8 +81,8 @@ def main(argv):
     else:
         today = args.date
 
-    today = "20180226"
-    time = "25326197"
+    today = "20180220"
+    time = "25317692"
 
     # print("Target file : " , today)
     print(predict(today, time))
