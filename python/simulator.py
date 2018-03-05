@@ -72,7 +72,6 @@ def process_result(tokens, time, result):
             sell(current_price)
 
 
-
     before_value = state
     before_money = money
 
