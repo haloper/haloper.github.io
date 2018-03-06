@@ -1,13 +1,14 @@
 import pandas as pd
 import tensorflow as tf
 import glob
+import numpy as np
 
 
 REFINED_TRAIN_PATH = "../../server/data/refined/train/"
 REFINED_TEST_PATH = "../server/data/refined/test/"
 
 
-def load_data(y_name='label'):
+def load_data():
 
     train_x = [] # 10,10,10 * 10,10 -> 10,2 * 5
     train_y = []
@@ -16,44 +17,52 @@ def load_data(y_name='label'):
         file = open(filename, "r")
         lines = file.readlines()
         file.close()
-        item = [[0.0] * 20] * 30
-        i,j = 0
         for line in lines:
             tokens = line.split(",")
-            for token in tokens:
-                item[i,j] = float(token)
+            train_y.append(float(tokens.pop()))
+            item = parse_line(tokens)
+            train_x.append(item)
+
+    test_x = []
+    test_y = []
+    for filename in glob.glob(REFINED_TEST_PATH + "*"):
+        file = open(filename, "r")
+        lines = file.readlines()
+        file.close()
+        for line in lines:
+            tokens = line.split(",")
+            test_y.append(float(tokens.pop()))
+            item = parse_line(tokens)
+            test_x.append(item)
 
 
+    return (train_x, train_y), (test_x, test_y)
 
-    # train_x, train_y = train, train.pop(y_name)
+
+def parse_line(tokens):
+    tokens = np.array(tokens)
+    tokens = np.reshape(tokens, (150, 2))
+
+    index = 10
+    first = tokens[0:10, :]
+    for i in range(4):
+        target = tokens[index:index+10, :]
+        first = np.concatenate((first, target), axis=1)
+        index += 10
+    second = tokens[index:index+10, :]
+    for i in range(4):
+        target = tokens[index:index+10, :]
+        second = np.concatenate((second, target), axis=1)
+        index += 10
+    thrid = tokens[index:index+10, :]
+    for i in range(4):
+        target = tokens[index:index+10, :]
+        thrid = np.concatenate((thrid, target), axis=1)
+        index += 10
+
+    result = np.concatenate((first,second), axis=0)
+    result = np.concatenate((result,thrid), axis=0)
+    return result
 
 
 load_data()
-
-
-line =                                                                                                      [28.0,2.4727,26.0,14.7306,25.0,51.0,24.0,14.6887,23.0,23.7563,26.0,14.7306,25.0,51.0,24.0,12.4771,23.0,0.7563,22.0,27.2711,25.0,51.0,24.0,12.4771,23.0,0.7563,22.0,30.987,21.0,5.3753,25.0,50.0,24.0,12.4771,23.0,28.7463,22.0,2.3953,21.0,3.3343,24.0,10.5071,23.0,28.7463,22.0,2.3953,21.0,2.5,19.0,5.0,21.0,1.0,20.0,1.4018,18.0,0.8,17.0,0.8,16.0,5.1398,21.0,2.4018,18.0,0.8,17.0,0.8,16.0,5.1642,15.0,0.1881,18.0,0.8,17.0,0.8,16.0,2.8596,8.0,11.5761,4.0,0.1675,7.0,4.3117,6.0,23.0,5.0,12.8221,3.0,0.0536,2.0,1.6353,17.0,0.8,16.0,9.6465,10.0,0.4576,8.0,24.7548,7.0,5.3116,18.0,0.8,17.0,14.4924,16.0,23.5652,10.0,0.8215,8.0,29.1752,15.0,0.8215,9.0,0.538,8.0,1.8,7.0,1.0,6.0,38.9279,16.0,13.9187,12.0,59.0,8.0,1.338,7.0,1.0,5.0,66.7752,8.0,1.8,7.0,3.7615,3.0,0.1208,2.0,44.3449,0.0,11.3845,7.0,0.9553,5.0,2.94,3.0,0.1208,2.0,27.0136,0.0,35.965,2.0,1.0336,0.0,6.0601,-1.0,0.5,-2.0,12.0522,-3.0,1.4449,0.0,9.0001,-1.0,1.5,-3.0,1.0,-4.0,22.98,-5.0,32.61,-5.0,7.29,-6.0,24.0336,-7.0,35.3,-8.0,12.6473,-9.0,0.6034,-3.0,2.1215,-5.0,2.94,-6.0,0.0336,-8.0,17.1721,-9.0,0.9239,8.0,1.8,7.0,23.1443,0.0,1.2385,-1.0,3.1381,-5.0,1.78,10.0,6.8386,9.0,6.0,8.0,6.8,7.0,23.6338,2.0,1.7324,6.0,3.0,5.0,4.3751,3.0,3.5934,1.0,4.3179,0.0,0.4417,8.0,5.8,7.0,17.2587,5.0,1.0723,3.0,1.0,1.0,10.7948,6.0,8.0559,5.0,2.0723,3.0,1.0,2.0,14.4113,1.0,0.4984,8.0,5.8,7.0,21.2587,6.0,58.0836,5.0,1.0723,4.0,0.0191,6.0,8.0836,5.0,1.7347,4.0,1.8979,2.0,5.4427,1.0,25.7535,8.0,5.8,7.0,21.2587,6.0,7.0836,5.0,2.1236,4.0,26.4862,8.0,5.8,7.0,22.0977,6.0,7.0836,5.0,1.1236,4.0,29.0111,8.0,6.639,7.0,22.2587,6.0,7.0836,5.0,14.1428,4.0,1.7384,8.0,6.639,7.0,42.2587,6.0,28.0836,5.0,29.1236,4.0,2.8528,3]
-y = line.pop()
-
-tokens = np.array(line)
-tokens = np.reshape(tokens, (150, 2))
-
-index = 10
-first = tokens[0:10, :]
-for i in range(4):
-    target = tokens[index:index+10, :]
-    first = np.concatenate((first, target), axis=1)
-    index += 10
-second = tokens[index:index+10, :]
-for i in range(4):
-    target = tokens[index:index+10, :]
-    second = np.concatenate((second, target), axis=1)
-    index += 10
-thrid = tokens[index:index+10, :]
-for i in range(4):
-    target = tokens[index:index+10, :]
-    thrid = np.concatenate((thrid, target), axis=1)
-    index += 10
-
-result = np.concatenate((first,second), axis=0)
-result = np.concatenate((result,thrid), axis=0)
-print(result)
