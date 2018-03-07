@@ -1,11 +1,10 @@
-import pandas as pd
-import tensorflow as tf
 import glob
 import numpy as np
+import constant
 
 
 REFINED_TRAIN_PATH = "../../server/data/refined/train/"
-REFINED_TEST_PATH = "../server/data/refined/test/"
+REFINED_TEST_PATH = "../../server/data/refined/test/"
 
 
 def load_data():
@@ -19,8 +18,9 @@ def load_data():
         file.close()
         for line in lines:
             tokens = line.split(",")
-            train_y.append(float(tokens.pop()))
-            item = parse_line(tokens)
+            tokens = list(map(np.float32, tokens))
+            train_y.append(int(tokens.pop()))
+            item = parse_tokens(tokens)
             train_x.append(item)
 
     test_x = []
@@ -31,17 +31,17 @@ def load_data():
         file.close()
         for line in lines:
             tokens = line.split(",")
-            test_y.append(float(tokens.pop()))
-            item = parse_line(tokens)
+            tokens = list(map(np.float32, tokens))
+            test_y.append(int(tokens.pop()))
+            item = parse_tokens(tokens)
             test_x.append(item)
 
+    return (np.asarray(train_x), np.asarray(train_y)), (np.asarray(test_x), np.asarray(test_y))
 
-    return (train_x, train_y), (test_x, test_y)
 
-
-def parse_line(tokens):
+def parse_tokens(tokens):
     tokens = np.array(tokens)
-    tokens = np.reshape(tokens, (150, 2))
+    tokens = np.reshape(tokens, (int(constant.FEATURE_SIZE * 10 / 2), 2))
 
     index = 10
     first = tokens[0:10, :]
@@ -62,7 +62,5 @@ def parse_line(tokens):
 
     result = np.concatenate((first,second), axis=0)
     result = np.concatenate((result,thrid), axis=0)
-    return result
+    return result.flatten()
 
-
-load_data()

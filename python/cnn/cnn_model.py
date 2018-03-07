@@ -5,6 +5,8 @@ import tensorflow as tf
 tf.logging.set_verbosity(tf.logging.INFO)
 
 
+
+
 def cnn_model_fn(features, labels, mode):
 
     input_layer = tf.reshape(features["x"], [-1, 30, 10, 1])
@@ -44,7 +46,7 @@ def cnn_model_fn(features, labels, mode):
     dropout = tf.layers.dropout(
         inputs=dense, rate=0.4, training=mode == tf.estimator.ModeKeys.TRAIN)
 
-    logits = tf.layers.dense(inputs=dropout, units=10)
+    logits = tf.layers.dense(inputs=dropout, units=11)
 
     predictions = {
         # Generate predictions (for PREDICT and EVAL mode)
@@ -75,20 +77,23 @@ def cnn_model_fn(features, labels, mode):
         mode=mode, loss=loss, eval_metric_ops=eval_metric_ops)
 
 
+def get_classifier():
+    return tf.estimator.Estimator(
+        model_fn=cnn_model_fn, model_dir="../models/rnn_v_1_0_0")
+
 
 def main(unused_argv):
     # Load training and eval data
     (train_data, train_labels), (eval_data, eval_labels) = data_loader.load_data()
 
     # Create the Estimator
-    mnist_classifier = tf.estimator.Estimator(
-        model_fn=cnn_model_fn, model_dir="../model/rnn_v_1_0_0")
+    mnist_classifier = get_classifier()
 
     # Set up logging for predictions
     # Log the values in the "Softmax" tensor with label "probabilities"
     tensors_to_log = {"probabilities": "softmax_tensor"}
     logging_hook = tf.train.LoggingTensorHook(
-        tensors=tensors_to_log, every_n_iter=50)
+        tensors=tensors_to_log, every_n_iter=500)
 
     # Train the model
     train_input_fn = tf.estimator.inputs.numpy_input_fn(
@@ -96,10 +101,10 @@ def main(unused_argv):
         y=train_labels,
         batch_size=100,
         num_epochs=None,
-        shuffle=True)
+        shuffle=False)
     mnist_classifier.train(
         input_fn=train_input_fn,
-        steps=20000,
+        steps=10000,
         hooks=[logging_hook])
 
     # Evaluate the model and print results
@@ -109,7 +114,7 @@ def main(unused_argv):
         num_epochs=1,
         shuffle=False)
     eval_results = mnist_classifier.evaluate(input_fn=eval_input_fn)
-    print(eval_results)
+    print('\nTest set accuracy: {accuracy:0.3f}\n'.format(**eval_results))
 
 
 if __name__ == "__main__":
