@@ -46,7 +46,17 @@ def cnn_model_fn(features, labels, mode):
     dropout = tf.layers.dropout(
         inputs=dense, rate=0.4, training=mode == tf.estimator.ModeKeys.TRAIN)
 
-    logits = tf.layers.dense(inputs=dropout, units=11)
+    dense2 = tf.layers.dense(inputs=dropout, units=1024, activation=tf.nn.relu)
+
+    dropout2 = tf.layers.dropout(
+        inputs=dense2, rate=0.4, training=mode == tf.estimator.ModeKeys.TRAIN)
+
+    dense3 = tf.layers.dense(inputs=dropout2, units=1024, activation=tf.nn.relu)
+
+    dropout3 = tf.layers.dropout(
+        inputs=dense3, rate=0.4, training=mode == tf.estimator.ModeKeys.TRAIN)
+
+    logits = tf.layers.dense(inputs=dropout3, units=11)
 
     predictions = {
         # Generate predictions (for PREDICT and EVAL mode)

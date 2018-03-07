@@ -49,28 +49,24 @@ def predict(date, time):
     last_time = origin_item[0]
 
 
-    predict_x = data_loader.parse_tokens(list(map(np.float32, item)));
-
+    predict_x = [data_loader.parse_tokens(list(map(np.float32, item)))]
 
     pred_input_fn = tf.estimator.inputs.numpy_input_fn(
-        x={"x": predict_x},
+        x={"x": np.asarray(predict_x)},
         y=None,
         num_epochs=1,
         shuffle=False)
     predictions = classifier.predict(input_fn=pred_input_fn)
 
     for predict in predictions:
-        pass
+        template = ('"time":{}, "label":{}, "probability":{:.10f}')
 
-    template = ('"time":{}, "label":{}, "probability":{:.10f}')
+        class_id = predict['classes']
+        probability = predict['probabilities'][class_id]
 
-    class_id = predictions['classes'][0]
-    probability = predictions['probabilities'][class_id]
-
-    return "{" + template.format(last_time,
-                                 cnn_model.LABELS[class_id],
-                                 100 * probability) + "}"
-
+        return "{" + template.format(last_time,
+                                     constant.LABELS[class_id],
+                                     100 * probability) + "}"
 
 
 
