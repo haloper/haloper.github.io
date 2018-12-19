@@ -1,0 +1,66 @@
+{
+  "heros": {
+    "ninja-hangyoel": {
+      "Head": {
+        "CollectionGroup": "MILITARY",
+        "Group": "Basic",
+        "Name": "HeadScar"
+      },
+      "Ears": {
+        "CollectionGroup": "MILITARY",
+        "Group": "Basic",
+        "Name": "ElfEar"
+      },
+      "Hair": {
+        "CollectionGroup": "MILITARY",
+        "Group": "Style",
+        "Name": "Ariel"
+      },
+      "Beard": {
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      },
+      "Body": {
+        "CollectionGroup": "UNDEAD",
+        "Group": "Skeletons",
+        "Name": "Skeleton1"
+      },
+      "Helmet": {
+          "CollectionGroup": "",
+          "Group": "",
+          "Name": ""
+        },
+      "Glasses": {
+          "CollectionGroup": "",
+          "Group": "",
+          "Name": ""
+        },
+      "Mask": {
+          "CollectionGroup": "",
+          "Group": "",
+          "Name": ""
+        },
+      "Earrings": {
+          "CollectionGroup": "",
+          "Group": "",
+          "Name": ""
+        },
+      "Armor": {
+          "CollectionGroup": "MILITARY",
+          "Group": "Casual",
+          "Name": "Rock"
+        },
+      "Cape": {
+          "CollectionGroup": "",
+          "Group": "",
+          "Name": ""
+        },
+      "Back": {
+          "CollectionGroup": "",
+          "Group": "",
+          "Name": ""
+        }
+    }
+  }
+}
