@@ -1,6 +1,7 @@
 {
-  "heros": {
-    "ninja-hangyoel": {
+  "heros": [
+    {
+      "Id": "ninja-hangyoel",
       "Head": {
         "CollectionGroup": "MILITARY",
         "Group": "Basic",
@@ -27,40 +28,40 @@
         "Name": "Skeleton1"
       },
       "Helmet": {
-          "CollectionGroup": "",
-          "Group": "",
-          "Name": ""
-        },
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      },
       "Glasses": {
-          "CollectionGroup": "",
-          "Group": "",
-          "Name": ""
-        },
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      },
       "Mask": {
-          "CollectionGroup": "",
-          "Group": "",
-          "Name": ""
-        },
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      },
       "Earrings": {
-          "CollectionGroup": "",
-          "Group": "",
-          "Name": ""
-        },
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      },
       "Armor": {
-          "CollectionGroup": "MILITARY",
-          "Group": "Casual",
-          "Name": "Rock"
-        },
+        "CollectionGroup": "MILITARY",
+        "Group": "Casual",
+        "Name": "Rock"
+      },
       "Cape": {
-          "CollectionGroup": "",
-          "Group": "",
-          "Name": ""
-        },
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      },
       "Back": {
-          "CollectionGroup": "",
-          "Group": "",
-          "Name": ""
-        }
+        "CollectionGroup": "",
+        "Group": "",
+        "Name": ""
+      }
     }
-  }
+  ]
 }
